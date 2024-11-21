@@ -10,7 +10,8 @@
     },
     "stock_status": "instock",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "images": [
       {
@@ -44,7 +45,8 @@
     "brand": "CSI Solar",
     "short_description": "CSI-15K-T4001A-E / CSI-17K-T4001A-E / CSI-20K-T4001A-E / CSI-23K-T4001A-E / CSI-25K-T4001A-E",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "tags": [
       "three-phase",
@@ -95,7 +97,8 @@
       "technical": []
     },
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "categories": ["inverter"],
     "stock_status": "instock",
@@ -132,7 +135,8 @@
   {
     "stock_status": "instock",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "specifications": {
       "technical": [],
@@ -208,7 +212,8 @@
       "technical": []
     },
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     }
   },
   {
@@ -235,7 +240,8 @@
       ]
     },
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "sku": "CSI-100K-T4001A-E",
     "tags": [

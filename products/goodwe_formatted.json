@@ -1,0 +1,2433 @@
+[
+  {
+    "name": "GoodWe XS PLUS+ Series 0.7-3KW Single Phase",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "GoodWe XS Plus+ series is an ultra-small residential solar inverter specifically designed to bring comfort and quiet operation as well as high efficiency to households. Its capacity ranges from 0.7 kW to 3.0 kW and its most outstanding characteristic is lightweight, which is only 5.8 kg and as well as its extremely compact size equivalent to an A4 paper, that make it particularly easy to carry & install. Remarkably, it offers 130% of DC input oversizing, and it\\'s able to achieve maximum European efficiency of 97.2% for maximum performance. Conveniently, the communication options available on this inverter are both LAN and Wi-Fi for smart home integration.",
+    "short_description": "Goodwe XS Series is a micro residential solar inverter specifically designed to bring comfort and quiet operation as well as high efficiency to households.",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "solar inverter"
+      },
+      {
+        "name": "residential"
+      },
+      {
+        "name": "single phase"
+      },
+      {
+        "name": "high efficiency"
+      },
+      {
+        "name": "compact"
+      },
+      {
+        "name": "lightweight"
+      },
+      {
+        "name": "easy installation"
+      },
+      {
+        "name": "wifi"
+      },
+      {
+        "name": "lan"
+      },
+      {
+        "name": "smart home integration"
+      },
+      {
+        "name": "load consumption monitoring"
+      },
+      {
+        "name": "export power limit"
+      },
+      {
+        "name": "ip65"
+      },
+      {
+        "name": "130% dc input oversizing"
+      },
+      {
+        "name": "110% ac output overloading"
+      },
+      {
+        "name": "40v start-up voltage"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-1-913.png",
+        "alt": "GoodWe XS PLUS+ Series 0.7-3KW Single Phase"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-31-794.png",
+        "alt": "XS-31-794.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-32-541.png",
+        "alt": "XS-32-541.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-33-316.png",
+        "alt": "XS-33-316.png"
+      }
+    ],
+    "sku": "GW-XS-2023-001",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Load consumption monitoring",
+          "Power export limit",
+          "IP65 ingress protection",
+          "Quality and robust components",
+          "Smart Control & Monitoring",
+          "Friendly & Thoughtful Design",
+          "High Power Generation",
+          "A4-sized",
+          "Fanless & quiet",
+          "Fanless design for quiet operation",
+          "A4 size with light weight",
+          "130% DC input oversizing",
+          "110% AC output overloading",
+          "40V start-up voltage"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "Load consumption monitoring",
+            "Power export limit",
+            "IP65 ingress protection",
+            "Quality and robust components",
+            "Smart Control & Monitoring",
+            "Friendly & Thoughtful Design",
+            "High Power Generation",
+            "A4-sized",
+            "Fanless & quiet",
+            "Fanless design for quiet operation",
+            "A4 size with light weight",
+            "130% DC input oversizing",
+            "110% AC output overloading",
+            "40V start-up voltage"
+          ],
+          "additional": {
+            "Number of MPP trackers/Number of Strings per MPPT": "1/1",
+            "Max. Input Voltage (V)": "600",
+            "Max. Input Current per MPPT (A)": "15",
+            "Weight (kg)": "5.8",
+            "Nominal Output Voltage (V)": "220/230"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=931&mid=60",
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=539&mid=60",
+          "certificates": []
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Number of MPP trackers/Number of Strings per MPPT": "1/1",
+          "Max. Input Voltage (V)": "600",
+          "Max. Input Current per MPPT (A)": "15",
+          "Weight (kg)": "5.8",
+          "Nominal Output Voltage (V)": "220/230"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "XS G3 Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "GoodWe XS G3 Series is a residential solar inverter that is designed for maximum convenience and efficiency. It is incredibly lightweight, weighing only 4.6 kg and is as compact as an A4 paper, facilitating effortless installation and handling. It boasts an impressive 200% DC input oversizing and a maximum efficiency of 97.6%, ensuring maximum performance and energy generation for homeowners. In addition to its high efficiency, the inverter also offers a quiet operation with <20dB noise levels and IP66 ingress protection. Multiple communication options are supported for easy integration into a smart home system.",
+    "short_description": "GoodWe XS G3 Series is a residential solar inverter that is designed for maximum convenience and efficiency. It is incredibly lightweight, weighing on...",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Solar Inverter"
+      },
+      {
+        "name": "Residential"
+      },
+      {
+        "name": "Single Phase"
+      },
+      {
+        "name": "High Efficiency"
+      },
+      {
+        "name": "Compact"
+      },
+      {
+        "name": "Lightweight"
+      },
+      {
+        "name": "Quiet Operation"
+      },
+      {
+        "name": "IP66"
+      },
+      {
+        "name": "Smart Home Integration"
+      },
+      {
+        "name": "AFCI"
+      },
+      {
+        "name": "SPD"
+      },
+      {
+        "name": "Export Power Limit"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-1.png",
+        "alt": "XS G3 Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-1.png",
+        "alt": "XS G3 Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-1.png",
+        "alt": "XS G3 Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-2.png",
+        "alt": "XS-G3-2.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-33.png",
+        "alt": "XS-G3-33.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-31.png",
+        "alt": "XS-G3-31.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-32.png",
+        "alt": "XS-G3-32.png"
+      }
+    ],
+    "sku": "GW-XS-2023-002",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "24/7 load consumption monitoring",
+          "200% DC input oversizing",
+          "Optional Type II SPD on both DC & AC sides",
+          "Fanless design for quiet operation",
+          "Optional AFCI",
+          "Optional Type II Surge Protection Device (SPD) on both sides",
+          "24-hour load consumption monitoring",
+          "integrated export power limit",
+          "Offering a maximum input current of 16A per string",
+          "200% DC input oversizing capacity"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "24/7 load consumption monitoring",
+            "200% DC input oversizing",
+            "Optional Type II SPD on both DC & AC sides",
+            "Fanless design for quiet operation",
+            "Optional AFCI",
+            "Optional Type II Surge Protection Device (SPD) on both sides",
+            "24-hour load consumption monitoring",
+            "integrated export power limit",
+            "Offering a maximum input current of 16A per string",
+            "200% DC input oversizing capacity"
+          ],
+          "additional": {
+            "Max. Input Current per MPPT (A)": "16",
+            "Number of MPP trackers/Number of Strings per MPPT": "1/1",
+            "Nominal Output Voltage (V)": "220 / 230 / 240, L / N / PE",
+            "Max. Input Voltage (V)": "600",
+            "Weight (kg)": "4.6"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=1928&mid=60",
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=2261&mid=60",
+          "certificates": []
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Max. Input Current per MPPT (A)": "16",
+          "Number of MPP trackers/Number of Strings per MPPT": "1/1",
+          "Nominal Output Voltage (V)": "220 / 230 / 240, L / N / PE",
+          "Max. Input Voltage (V)": "600",
+          "Weight (kg)": "4.6"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "XS Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "GoodWe XS is an ultra-small residential solar inverter specifically designed to bring comfort and quiet operation as well as high efficiency to households. Its capacity ranges from 0.7 kW to 3.0 kW and its most outstanding characteristic is lightweight, which is only 5.8 kg and as well as its extremely compact size equivalent to an A4 paper, that make it particularly easy to carry & install. Remarkably, it offers 130% of DC input oversizing, and it\\'s able to achieve maximum European efficiency of 97.2% for maximum performance. Conveniently, the communication options available on this inverter are both LAN and Wi-Fi for smart home integration.",
+    "short_description": "XS Series",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "micro solar inverter"
+      },
+      {
+        "name": "3kw solar inverter"
+      },
+      {
+        "name": "solar inverter 3kw price"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-1.png",
+        "alt": "XS Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-1.png",
+        "alt": "XS Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-2.png",
+        "alt": "XS-2.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-31.png",
+        "alt": "XS-31.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-32.png",
+        "alt": "XS-32.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-33.png",
+        "alt": "XS-33.png"
+      }
+    ],
+    "sku": "GW-XS-2023-003",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Power export limit",
+          "IP65 ingress protection",
+          "Quality and robust components",
+          "Load consumption monitoring"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "Power export limit",
+            "IP65 ingress protection",
+            "Quality and robust components",
+            "Load consumption monitoring"
+          ],
+          "additional": {
+            "Max. Input Current per MPPT (A):": "12.5",
+            "Number of MPP trackers/Number of Strings per MPPT:": "1/1",
+            "Nominal Output Voltage (V)": "230",
+            "Max. Input Voltage (V):": "500",
+            "Weight (kg)": "5.8"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "certificates": [],
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=839&mid=60",
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=539&mid=60"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Max. Input Current per MPPT (A):": "12.5",
+          "Number of MPP trackers/Number of Strings per MPPT:": "1/1",
+          "Nominal Output Voltage (V)": "230",
+          "Max. Input Voltage (V):": "500",
+          "Weight (kg)": "5.8"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "MT Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "GoodWe MT series inverter is suited for medium and large scale commercial rooftops and ground-mounted solar PV systems where maximum versatility and profitability are important. With its compact design and power boost function, the Goodwe MT series of the new generation can provide a 150% continuous maximum AC output power overload, offering a faster return on investment. The start-up voltage is 200 V, much lower than other products, which makes the inverter start up earlier, therefore generating more power over time.",
+    "short_description": "MT Series",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "three phase"
+      },
+      {
+        "name": "commercial"
+      },
+      {
+        "name": "rooftop"
+      },
+      {
+        "name": "ground-mounted"
+      },
+      {
+        "name": "solar"
+      },
+      {
+        "name": "pv"
+      },
+      {
+        "name": "inverter"
+      },
+      {
+        "name": "power boost"
+      },
+      {
+        "name": "high efficiency"
+      },
+      {
+        "name": "plc 2.0"
+      },
+      {
+        "name": "string level monitoring"
+      },
+      {
+        "name": "dc input oversizing"
+      },
+      {
+        "name": "ac output overloading"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230221/MT.png",
+        "alt": "MT Series"
+      }
+    ],
+    "sku": "GW-MT-2023-001",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "Max. Input Voltage (V): 1100",
+          "Max. Input Current per MPPT (A): 33/33/22/22",
+          "Number of MPP trackers/Number of Strings per MPPT: 4/3-3-2-2",
+          "Max. Efficiency : 98.7%",
+          "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
+          "Max. Input Voltage (V): 1100",
+          "Max. Input Current per MPPT (A): 33",
+          "Number of MPP trackers/Number of Strings per MPPT: 4/3",
+          "Max. Efficiency : 98.8%",
+          "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
+          "Max. Input Voltage (V): 1100",
+          "Max. Input Current per MPPT (A): 44",
+          "Number of MPP trackers/Number of Strings per MPPT: 4/4/4/4",
+          "Max. Efficiency : 98.7%",
+          "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "String level monitoring",
+          "Up to 150% DC input oversizing",
+          "Up to 115% AC output overloading",
+          "Up to 99% max. efficiency",
+          "Full-load running at 50ºC",
+          "Power line communication"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "Max. Input Voltage (V): 1100",
+            "Max. Input Current per MPPT (A): 33/33/22/22",
+            "Number of MPP trackers/Number of Strings per MPPT: 4/3-3-2-2",
+            "Max. Efficiency : 98.7%",
+            "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
+            "Max. Input Voltage (V): 1100",
+            "Max. Input Current per MPPT (A): 33",
+            "Number of MPP trackers/Number of Strings per MPPT: 4/3",
+            "Max. Efficiency : 98.8%",
+            "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
+            "Max. Input Voltage (V): 1100",
+            "Max. Input Current per MPPT (A): 44",
+            "Number of MPP trackers/Number of Strings per MPPT: 4/4/4/4",
+            "Max. Efficiency : 98.7%",
+            "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE"
+          ],
+          "features": [
+            "String level monitoring",
+            "Up to 150% DC input oversizing",
+            "Up to 115% AC output overloading",
+            "Up to 99% max. efficiency",
+            "Full-load running at 50ºC",
+            "Power line communication"
+          ]
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "certificates": [],
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=583&mid=60",
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=528&mid=60"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "GoodWe HT Series 73-120 kW Three Phase Up to 12 MPPTs Solar Inverter for Sale",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "The HT 1100 Vdc Series 73-120 kW is GoodWe\\'s new string inverter for C&I and small utility projects to boost your power and profit. Generate your solar power and make use of it with this centerpiece of the clean energy system. The HT Series seamlessly incorporates its technical strengths designed to achieve higher savings in the installation, enhance productivity with increased energy yields, realize high power density and diversify available monitoring options. It takes safety to the top possible level in accordance with the strictest industry standards and runs efficiently even under the harshest environmental conditions. This unrivaled set of features was conceived to ensure the lowest levelized cost of electricity (LCOE) to offer this ideal choice for commercial and industrial PV systems.",
+    "short_description": "HT Series",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "solar inverter"
+      },
+      {
+        "name": "three phase"
+      },
+      {
+        "name": "commercial"
+      },
+      {
+        "name": "industrial"
+      },
+      {
+        "name": "12 MPPTs"
+      },
+      {
+        "name": "high efficiency"
+      },
+      {
+        "name": "string inverter"
+      },
+      {
+        "name": "1100V"
+      },
+      {
+        "name": "IP66"
+      },
+      {
+        "name": "C5 protection"
+      },
+      {
+        "name": "surge protection"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/HT1100V红色（有屏）-1.png",
+        "alt": "HT1100V红色（有屏）-1.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/HT1100V红色（有屏）-1.png",
+        "alt": "HT1100V红色（有屏）-1.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/HT1100V红色（有屏）-2.png",
+        "alt": "HT1100V红色（有屏）-2.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/HT1100V红色（有屏）-31.png",
+        "alt": "HT1100V红色（有屏）-31.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/HT1100V红色（有屏）-32.png",
+        "alt": "HT1100V红色（有屏）-32.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/HT1100V红色（有屏）-33.png",
+        "alt": "HT1100V红色（有屏）-33.png"
+      }
+    ],
+    "sku": "GW-HT-2023-001",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "Full load running at 45°C",
+          "Compatible with bi-facial modules",
+          "12 MPPTs"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "String level monitoring",
+          "Type II SPD on both DC and AC sides",
+          "IP66 and C5 protection",
+          "Internal humidity monitoring",
+          "Easy & quick config"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "Full load running at 45°C",
+            "Compatible with bi-facial modules",
+            "12 MPPTs"
+          ],
+          "features": [
+            "String level monitoring",
+            "Type II SPD on both DC and AC sides",
+            "IP66 and C5 protection",
+            "Internal humidity monitoring",
+            "Easy & quick config"
+          ],
+          "additional": {
+            "Max. Input Current per MPPT (A):": "30",
+            "Number of MPP trackers/Number of Strings per MPPT:": "12/2",
+            "Nominal Output Voltage (V) :": "400, 3L/N/PE or 3L/PE",
+            "Max. Input Voltage (V):": "1100",
+            "Max. Efficiency :": "98.6%"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=580&mid=60",
+          "certificates": [],
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=523&mid=60"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Max. Input Current per MPPT (A):": "30",
+          "Number of MPP trackers/Number of Strings per MPPT:": "12/2",
+          "Nominal Output Voltage (V) :": "400, 3L/N/PE or 3L/PE",
+          "Max. Input Voltage (V):": "1100",
+          "Max. Efficiency :": "98.6%"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "GT Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "The GT Series string inverter is an ideal choice for commercial and industrial (C&I) applications to enhance productivity and realize high power density. Multiple MPPTs and high input current of 21A per DC string increase the overall yield with high-power PV modules. The optional PID (Potential Induced Degradation) recovery function is also supported for better module performance. Safety is always the first priority. Both the DC and AC sides are equipped with Type II surge protection to protect the inverter from lightning, providing upgraded safety and reliability for the PV system. With an unrivaled set of features, GT Series inverters were conceived to deliver increased return on investment (ROI) for C&I PV projects.",
+    "short_description": "100-125kW | Three Phase | 8/10 MPPTs",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "three phase"
+      },
+      {
+        "name": "high power density"
+      },
+      {
+        "name": "multiple mppts"
+      },
+      {
+        "name": "pid recovery"
+      },
+      {
+        "name": "surge protection"
+      },
+      {
+        "name": "ip66"
+      },
+      {
+        "name": "c5 protection"
+      },
+      {
+        "name": "bi-facial modules"
+      },
+      {
+        "name": "high roi"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240913/20240913-142714.png",
+        "alt": "20240913-142714.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240913/GT-2.png",
+        "alt": "GT-2.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240913/GT-31.png",
+        "alt": "GT-31.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240913/GT-32.png",
+        "alt": "GT-32.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240913/GT-33.png",
+        "alt": "GT-33.png"
+      }
+    ],
+    "sku": "GW-GT-2023-001",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "String level monitoring",
+          "Type II SPD on AC & DC sides",
+          "21A DC input current per string",
+          "8/10 MPPTs, max. Efficiency 99.0%"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "String level monitoring",
+            "Type II SPD on AC & DC sides",
+            "21A DC input current per string",
+            "8/10 MPPTs, max. Efficiency 99.0%"
+          ],
+          "additional": {
+            "Number of MPP trackers/Number of Strings per MPPT:": "10/2",
+            "Max. Efficiency :": "99.0%",
+            "Max. Input Voltage (V):": "1100",
+            "Max. Input Current per MPPT (A):": "42",
+            "Nominal Output Voltage (V) :": "220 / 380, 230 / 400, 3L / N / PE or 3L / PE"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=2227&mid=60",
+          "certificates": [],
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=2629&mid=60"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Number of MPP trackers/Number of Strings per MPPT:": "10/2",
+          "Max. Efficiency :": "99.0%",
+          "Max. Input Voltage (V):": "1100",
+          "Max. Input Current per MPPT (A):": "42",
+          "Nominal Output Voltage (V) :": "220 / 380, 230 / 400, 3L / N / PE or 3L / PE"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "GoodWe LVMT Series 30-50 kW Three Phase 4 MPPTs",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "Developed as an efficient response to South American market needs for low-voltage inverters, GoodWe’s LVMT series inverter is suitable for medium and large-scale commercial rooftops or ground-mounted solar PV systems where maximum versatility and profitability are important. With its compact design and power boost function, GoodWe’s LVMT series can provide an extremely high efficiency of 98.8%, thus offering a faster return on investment.",
+    "short_description": "GoodWe LVMT Series is an efficient solar inverter response to South American market needs. Suitable for medium and large scale commercial rooftops.",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "low voltage inverter"
+      },
+      {
+        "name": "goodwe 50kw lvmt"
+      },
+      {
+        "name": "goodwe 50kw"
+      },
+      {
+        "name": "three phase"
+      },
+      {
+        "name": "4 mppts"
+      },
+      {
+        "name": "commercial rooftops"
+      },
+      {
+        "name": "ground-mounted"
+      },
+      {
+        "name": "power boost"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230221/24-1.png",
+        "alt": "GoodWe LVMT Series 30-50 kW Three Phase 4 MPPTs"
+      }
+    ],
+    "sku": "GW-LVMT-2023-001",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "Max. Input Voltage (V): 800",
+          "Max. Input Current per MPPT (A): 33/33/22/22",
+          "Number of MPP trackers/Number of Strings per MPPT: 4/3-3-2-2",
+          "Max. Efficiency : 98.7%",
+          "Nominal Output Voltage (V) : 220, 3L/N/PE or 3L/PE",
+          "Max. Input Voltage (V): 800",
+          "Max. Input Current per MPPT (A): 33",
+          "Number of MPP trackers/Number of Strings per MPPT: 4/3",
+          "Max. Efficiency : 98.8%",
+          "Nominal Output Voltage (V) : 220, 3L/N/PE or 3L/PE",
+          "Max. Input Voltage (V): 800",
+          "Max. Input Current per MPPT (A): 44",
+          "Number of MPP trackers/Number of Strings per MPPT: 4/4/4/4",
+          "Max. Efficiency : 98.7%",
+          "Nominal Output Voltage (V) : 220, 3L/N/PE or 3L/PE"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "String level monitoring",
+          "Up to 180% DC input oversizing & 110% AC output overloading",
+          "Full-load running at 50ºC",
+          "Power line communication"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "Max. Input Voltage (V): 800",
+            "Max. Input Current per MPPT (A): 33/33/22/22",
+            "Number of MPP trackers/Number of Strings per MPPT: 4/3-3-2-2",
+            "Max. Efficiency : 98.7%",
+            "Nominal Output Voltage (V) : 220, 3L/N/PE or 3L/PE",
+            "Max. Input Voltage (V): 800",
+            "Max. Input Current per MPPT (A): 33",
+            "Number of MPP trackers/Number of Strings per MPPT: 4/3",
+            "Max. Efficiency : 98.8%",
+            "Nominal Output Voltage (V) : 220, 3L/N/PE or 3L/PE",
+            "Max. Input Voltage (V): 800",
+            "Max. Input Current per MPPT (A): 44",
+            "Number of MPP trackers/Number of Strings per MPPT: 4/4/4/4",
+            "Max. Efficiency : 98.7%",
+            "Nominal Output Voltage (V) : 220, 3L/N/PE or 3L/PE"
+          ],
+          "features": [
+            "String level monitoring",
+            "Up to 180% DC input oversizing & 110% AC output overloading",
+            "Full-load running at 50ºC",
+            "Power line communication"
+          ]
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=528&mid=60",
+          "certificates": [],
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=584&mid=60"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "SMT Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "The GoodWe SMT Series three-phase inverter is ideal for commercial rooftop system solutions. The SMT series achieves maximum efficiency of 98.8% and features unique design highlights, including solid capacitors, fuse-free design, and optional Arc Fault Circuit Interrupter (AFCI) function. These new features ensure a longer lifespan and a higher safety level of operation, allowing for an improved user experience. With a compact design and weight of just 40 kg, the SMT series is more convenient to install. With a maximum DC input voltage of 1100V, a wider MPPT range for complex rooftops, and a start-up voltage of 180V, the SMT series guarantees an earlier generation of power and a longer working time to maximize long-term returns and profitability in safe operating conditions.",
+    "short_description": "SMT Series",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "solar inverter"
+      },
+      {
+        "name": "three-phase inverter"
+      },
+      {
+        "name": "commercial rooftop"
+      },
+      {
+        "name": "AFCI"
+      },
+      {
+        "name": "high efficiency"
+      },
+      {
+        "name": "1100V"
+      },
+      {
+        "name": "wide MPPT range"
+      },
+      {
+        "name": "40 kg"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT25-36红色（有屏）-1-745.png",
+        "alt": "SMT25-36红色（有屏）-1-745.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT25-36红色（有屏）-1-745.png",
+        "alt": "SMT25-36红色（有屏）-1-745.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT25-36红色（有屏）-2-862.png",
+        "alt": "SMT25-36红色（有屏）-2-862.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT25-36红色（有屏）-31-755.png",
+        "alt": "SMT25-36红色（有屏）-31-755.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT25-36红色（有屏）-32-780.png",
+        "alt": "SMT25-36红色（有屏）-32-780.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT25-36红色（有屏）-33-190.png",
+        "alt": "SMT25-36红色（有屏）-33-190.png"
+      }
+    ],
+    "sku": "GW-SMT-2023-001",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "Max. Input Voltage (V): 1100",
+          "Max. Input Current per MPPT (A): 30",
+          "Number of MPP trackers/Number of Strings per MPPT: 3/2",
+          "Max. Efficiency : 98.7%",
+          "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
+          "Max. Input Voltage (V): 1100",
+          "Max. Input Current per MPPT (A): 30",
+          "Number of MPP trackers/Number of Strings per MPPT: 3/2",
+          "Max. Efficiency : 98.8%",
+          "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
+          "Max. Input Voltage (V): 1100",
+          "Max. Input Current per MPPT (A): 30",
+          "Number of MPP trackers/Number of Strings per MPPT: 3/2",
+          "Max. Efficiency : 98.8%",
+          "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
+          "Max. Input Voltage (V): 1100",
+          "Max. Input Current per MPPT (A): 30",
+          "Number of MPP trackers/Number of Strings per MPPT: 3/2",
+          "Max. Efficiency : 98.8%",
+          "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Dynamic power export limit ",
+          "Optional Arc-fault circuit interrupter",
+          "Optional Type II SPD on both DC and AC",
+          "String level monitoring"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "Max. Input Voltage (V): 1100",
+            "Max. Input Current per MPPT (A): 30",
+            "Number of MPP trackers/Number of Strings per MPPT: 3/2",
+            "Max. Efficiency : 98.7%",
+            "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
+            "Max. Input Voltage (V): 1100",
+            "Max. Input Current per MPPT (A): 30",
+            "Number of MPP trackers/Number of Strings per MPPT: 3/2",
+            "Max. Efficiency : 98.8%",
+            "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
+            "Max. Input Voltage (V): 1100",
+            "Max. Input Current per MPPT (A): 30",
+            "Number of MPP trackers/Number of Strings per MPPT: 3/2",
+            "Max. Efficiency : 98.8%",
+            "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
+            "Max. Input Voltage (V): 1100",
+            "Max. Input Current per MPPT (A): 30",
+            "Number of MPP trackers/Number of Strings per MPPT: 3/2",
+            "Max. Efficiency : 98.8%",
+            "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE"
+          ],
+          "features": [
+            "Dynamic power export limit ",
+            "Optional Arc-fault circuit interrupter",
+            "Optional Type II SPD on both DC and AC",
+            "String level monitoring"
+          ]
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "certificates": [],
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=527&mid=60",
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=979&mid=60"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "SDT G2 Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "The GoodWe 17-25 kW SDT G2 series inverter is especially designed for three-phase residential and small commercial projects. With its compact design, the SDT G2 inverter is 45% smaller than the first generation. The inverter is also light and easy to install. The maximum efficiency of this inverter is as high as 98.4%. With an advanced ventilation system, the inverter is able to dissipate heat efficiently. In addition, it can be customised with an integrated LCD screen.",
+    "short_description": "SDT G2 Series",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "three-phase"
+      },
+      {
+        "name": "residential"
+      },
+      {
+        "name": "commercial"
+      },
+      {
+        "name": "compact"
+      },
+      {
+        "name": "lightweight"
+      },
+      {
+        "name": "high efficiency"
+      },
+      {
+        "name": "data security"
+      },
+      {
+        "name": "bifacial modules"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG217-25kW-红色（有屏）-1.png",
+        "alt": "SDT G2 Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG217-25kW-红色（有屏）-31.png",
+        "alt": "SDTG217-25kW-红色（有屏）-31.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG217-25kW-红色（有屏）-32.png",
+        "alt": "SDTG217-25kW-红色（有屏）-32.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG217-25kW-红色（有屏）-33.png",
+        "alt": "SDTG217-25kW-红色（有屏）-33.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG217-25kW-红色（有屏）-2.png",
+        "alt": "SDTG217-25kW-红色（有屏）-2.png"
+      }
+    ],
+    "sku": "GW-SDT-2023-001",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "Max. Input Voltage (V): 1100",
+          "Max. Input Current per MPPT (A): 25/37.5",
+          "Number of MPP trackers/Number of Strings per MPPT: 2/2-3",
+          "Max. Efficiency : 98.4%",
+          "Nominal Output Voltage (V) : 400, 3L/N/PE"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Compatible with bifacial modules",
+          "Compact and light weight",
+          "150% DC input oversizing & 110% AC output overloading",
+          "Max. efficiency 98.4%"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "Max. Input Voltage (V): 1100",
+            "Max. Input Current per MPPT (A): 25/37.5",
+            "Number of MPP trackers/Number of Strings per MPPT: 2/2-3",
+            "Max. Efficiency : 98.4%",
+            "Nominal Output Voltage (V) : 400, 3L/N/PE"
+          ],
+          "features": [
+            "Compatible with bifacial modules",
+            "Compact and light weight",
+            "150% DC input oversizing & 110% AC output overloading",
+            "Max. efficiency 98.4%"
+          ]
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=532&mid=60",
+          "certificates": [],
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=594&mid=60"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "MIS Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "GoodWe's MIS Series microinverter is an ideal solution for residential and small commercial settings. Designed to work seamlessly with solar panels, each microinverter is paired with four panels, enabling individual panel tracking. The MIS Series microinverter is equipped with built-in WiFi and Bluetooth for easy setup and maintenance. Furthermore, it elevates monitoring and communication capabilities, empowering users to monitor each panel's performance in real time and identify any issues or inefficiencies. With GoodWe MIS, you will be able to maximize energy production and reduce energy losses, while also enhancing safety.",
+    "short_description": "GoodWe's MIS Series microinverter is an ideal solution for residential and small commercial settings.",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "microinverter"
+      },
+      {
+        "name": "residential"
+      },
+      {
+        "name": "commercial"
+      },
+      {
+        "name": "solar panel"
+      },
+      {
+        "name": "wifi"
+      },
+      {
+        "name": "bluetooth"
+      },
+      {
+        "name": "monitoring"
+      },
+      {
+        "name": "safety"
+      },
+      {
+        "name": "grid protection"
+      },
+      {
+        "name": "high DC voltage"
+      },
+      {
+        "name": "IP67"
+      },
+      {
+        "name": "MPPT"
+      },
+      {
+        "name": "low startup voltage"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--1.png",
+        "alt": "MIS Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--1.png",
+        "alt": "MIS Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--1.png",
+        "alt": "MIS Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--2.png",
+        "alt": "Micro-inverter--2.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--33.png",
+        "alt": "Micro-inverter--33.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--31.png",
+        "alt": "Micro-inverter--31.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--32.png",
+        "alt": "Micro-inverter--32.png"
+      }
+    ],
+    "sku": "GW-MIS-2023-001",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "4-in-1 design for multi-angle rooftop",
+          "Max. DC voltage 60V",
+          "4 MPP trackers, module-level MPPT",
+          "Module level monitoring"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "4-in-1 design for multi-angle rooftop",
+            "Max. DC voltage 60V",
+            "4 MPP trackers, module-level MPPT",
+            "Module level monitoring"
+          ],
+          "additional": {
+            "Max. Input Voltage (V):": "65",
+            "Max. Input Current (A)": "4 × 16",
+            "Weight (kg)": "6",
+            "Number of MPP Trackers/Number of Inputs per MPPT:": "4/1",
+            "Nominal Output Voltage (V)": "1 / N / PE, 220 / 230 / 240"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "certificates": [],
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=1890&amp;mid=60",
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=2052&amp;mid=60"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Max. Input Voltage (V):": "65",
+          "Max. Input Current (A)": "4 × 16",
+          "Weight (kg)": "6",
+          "Number of MPP Trackers/Number of Inputs per MPPT:": "4/1",
+          "Nominal Output Voltage (V)": "1 / N / PE, 220 / 230 / 240"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "SDT G2 PLUS+ Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "The GoodWe 4-20 kW SDT G2 PLUS+ series inverter is specially designed for three-phase residential and small commercial projects. The integrated features of high efficiency allow for optimized power generation during the inverter\\'s service cycle. With its lightweight and easy-to-install design, the SDT G2 inverter offers comfort and great convenience for operators and installers. Users can also take all-around smart control of energy management utilizing the featuring 24-hour load consumption monitoring enabled by GoodWe HK3000. Meet the perfect choice of maximum energy yield for residential and small-scale commercial usage.",
+    "short_description": "The GoodWe 4-20 kW SDT G2 PLUS+ series inverter is specially designed for three-phase residential and small commercial projects. The integrated featur...",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "three-phase"
+      },
+      {
+        "name": "residential"
+      },
+      {
+        "name": "commercial"
+      },
+      {
+        "name": "high efficiency"
+      },
+      {
+        "name": "easy installation"
+      },
+      {
+        "name": "smart energy management"
+      },
+      {
+        "name": "24-hour load monitoring"
+      },
+      {
+        "name": "arc fault circuit interrupter"
+      },
+      {
+        "name": "surge protection device"
+      },
+      {
+        "name": "high power generation"
+      },
+      {
+        "name": "low startup voltage"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-1.png",
+        "alt": "SDT G2 PLUS+ Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-2.png",
+        "alt": "SDT G2 PLUS+ Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-33.png",
+        "alt": "SDTG2PLUS+(有屏）-33.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-31.png",
+        "alt": "SDTG2PLUS+(有屏）-31.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-32.png",
+        "alt": "SDTG2PLUS+(有屏）-32.png"
+      }
+    ],
+    "sku": "GW-SDT-2023-002",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "Max. Input Voltage (V): 1000",
+          "Max. Input Current per MPPT (A): 16",
+          "Number of MPP trackers/Number of Strings per MPPT: 2/1",
+          "Weight (kg) : 15.0",
+          "Nominal Output Voltage (V) : 400, 3L/N/PE",
+          "Model GW6000-SDT-20",
+          "Model GW4000-SDT-20",
+          "Nominal Output Voltage (V) : 400,3L/N/PE",
+          "Model GW5000-SDT-20",
+          "Max. Input Voltage (V): 1100",
+          "Max. Input Current per MPPT (A): 30",
+          "Number of MPP trackers/Number of Strings per MPPT: 2/2",
+          "Weight (kg) : 26.0",
+          "Nominal Output Voltage (V) : 380/400/415, 3L/N/PE",
+          "Model GW20K-SDT-20",
+          "Model GW17K-SDT-20",
+          "Model GW15K-SDT-20",
+          "Max. Input Voltage (V): 800",
+          "Nominal Output Voltage (V) : 220/127, 3L/N/PE",
+          "Model GW12KLV-SDT-20",
+          "Weight (kg) : 23.5",
+          "Model GW12K-SDT-20",
+          "Max. Input Current per MPPT (A): 15",
+          "Weight (kg) : 20.5",
+          "Model GW10K-SDT-20",
+          "Model GW8000-SDT-20"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Smart Shadow Scan with adjustable scan interval",
+          "Multi-protocol compatibility for smart home integration",
+          "Optional exchangeable DC Type II SPD & SPD failure alarm",
+          "Optional Arc Fault Circuit Interrupter (AFCI)",
+          "Optional AFCI reducing risks of fire",
+          "Optional exchangeable DC Type II SPD & SPD failure alarm",
+          "110% AC output overloading",
+          "Up to 16 A max. DC input current per string",
+          "98.4% max. efficiency to minimalize energy loss"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "Max. Input Voltage (V): 1000",
+            "Max. Input Current per MPPT (A): 16",
+            "Number of MPP trackers/Number of Strings per MPPT: 2/1",
+            "Weight (kg) : 15.0",
+            "Nominal Output Voltage (V) : 400, 3L/N/PE",
+            "Model GW6000-SDT-20",
+            "Model GW4000-SDT-20",
+            "Nominal Output Voltage (V) : 400,3L/N/PE",
+            "Model GW5000-SDT-20",
+            "Max. Input Voltage (V): 1100",
+            "Max. Input Current per MPPT (A): 30",
+            "Number of MPP trackers/Number of Strings per MPPT: 2/2",
+            "Weight (kg) : 26.0",
+            "Nominal Output Voltage (V) : 380/400/415, 3L/N/PE",
+            "Model GW20K-SDT-20",
+            "Model GW17K-SDT-20",
+            "Model GW15K-SDT-20",
+            "Max. Input Voltage (V): 800",
+            "Nominal Output Voltage (V) : 220/127, 3L/N/PE",
+            "Model GW12KLV-SDT-20",
+            "Weight (kg) : 23.5",
+            "Model GW12K-SDT-20",
+            "Max. Input Current per MPPT (A): 15",
+            "Weight (kg) : 20.5",
+            "Model GW10K-SDT-20",
+            "Model GW8000-SDT-20"
+          ],
+          "features": [
+            "Smart Shadow Scan with adjustable scan interval",
+            "Multi-protocol compatibility for smart home integration",
+            "Optional exchangeable DC Type II SPD & SPD failure alarm",
+            "Optional Arc Fault Circuit Interrupter (AFCI)",
+            "Optional AFCI reducing risks of fire",
+            "Optional exchangeable DC Type II SPD & SPD failure alarm",
+            "110% AC output overloading",
+            "Up to 16 A max. DC input current per string",
+            "98.4% max. efficiency to minimalize energy loss"
+          ]
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "certificates": [],
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=532&mid=60",
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=673&mid=60"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "SDT G3 Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "The GoodWe SDT G3 Series, with a power range of 8-30 kW, is specifically engineered to cater to the energy needs of three-phase residential and small commercial projects. The inverter boasts an impressive 150% DC oversizing and 110% AC overloading capabilities, allowing for maximum performance and output even in challenging environments. In addition, the SDT G3 Series inverter\\'s lightweight and easy-to-install design offers exceptional convenience for operators and installers alike. ",
+    "short_description": "The GoodWe SDT G3 Series, with a power range of 8-30 kW, is engineered to cater to the energy needs of three-phase residential and small installations.",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "three-phase"
+      },
+      {
+        "name": "residential"
+      },
+      {
+        "name": "commercial"
+      },
+      {
+        "name": "150% DC oversizing"
+      },
+      {
+        "name": "110% AC overloading"
+      },
+      {
+        "name": "lightweight"
+      },
+      {
+        "name": "easy-to-install"
+      },
+      {
+        "name": "AFCI"
+      },
+      {
+        "name": "Type II Surge Protection Device"
+      },
+      {
+        "name": "smart meter"
+      },
+      {
+        "name": "export power limit"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-1.png",
+        "alt": "SDT G3 Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-1.png",
+        "alt": "SDT G3 Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-2.png",
+        "alt": "SDT G3 Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-33.png",
+        "alt": "(Venus)SDTG38-15kW-33.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-31.png",
+        "alt": "(Venus)SDTG38-15kW-31.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-32.png",
+        "alt": "(Venus)SDTG38-15kW-32.png"
+      }
+    ],
+    "sku": "GW-SDT-2023-003",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "Optional AFCI",
+          "Optional Type II SPD on DC & AC sides",
+          "Export power limit",
+          "24/7 load consumption monitoring",
+          "Max. 22A input current per string",
+          "DC input oversizing",
+          "Max. Efficiency "
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "24/7 load consumption monitoring",
+          "Elegant and compact design",
+          "Max. 22A DC input current per string",
+          "Optional Type II SPD on both AC and DC sides"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "Optional AFCI",
+            "Optional Type II SPD on DC & AC sides",
+            "Export power limit",
+            "24/7 load consumption monitoring",
+            "Max. 22A input current per string",
+            "DC input oversizing",
+            "Max. Efficiency "
+          ],
+          "features": [
+            "24/7 load consumption monitoring",
+            "Elegant and compact design",
+            "Max. 22A DC input current per string",
+            "Optional Type II SPD on both AC and DC sides"
+          ]
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "certificates": [],
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=2386&mid=60",
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=1981&mid=60"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "DNS G3",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "The GoodWe DNS G3 series inverter is specially designed for single-phase residential applications. Integrated with high-current input and DC input oversizing capabilities, the series can bring you optimized power generation and make substantial returns. With its lighter and fanless house fit-in compact design, the DNS G3 inverter provides a reliable power supply yet runs at a super quiet operation below 25dB. The inverter also takes safety measures including optional Arc Fault Failure Interrupter (AFCI) and Type II Surge Protection Device (SPD) on both sides to protect the system from electrical fire and lightning hazards in extreme environments for guaranteed safety.",
+    "short_description": "The GoodWe DNS G3 series inverter is specially designed for single-phase residential applications. Integrated with high-current input and DC input ove...",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "single-phase"
+      },
+      {
+        "name": "residential"
+      },
+      {
+        "name": "high-current input"
+      },
+      {
+        "name": "DC input oversizing"
+      },
+      {
+        "name": "fanless"
+      },
+      {
+        "name": "compact"
+      },
+      {
+        "name": "quiet operation"
+      },
+      {
+        "name": "AFCI"
+      },
+      {
+        "name": "SPD"
+      },
+      {
+        "name": "electrical fire protection"
+      },
+      {
+        "name": "lightning protection"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-1.png",
+        "alt": "DNS G3"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-2.png",
+        "alt": "DNS G3"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-31.png",
+        "alt": "DNSG3白色（有屏）-31.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-32.png",
+        "alt": "DNSG3白色（有屏）-32.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-33.png",
+        "alt": "DNSG3白色（有屏）-33.png"
+      }
+    ],
+    "sku": "GW-DNS-2023-001",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "IP66",
+          "Fanless cooling"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "24/7 load consumption monitoring",
+          "Multiple communication protocols supported",
+          "Optional AFCI preventing electrical fires",
+          "Optional AC & DC Type II SPD & SPD failure alarm"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "IP66",
+            "Fanless cooling"
+          ],
+          "features": [
+            "24/7 load consumption monitoring",
+            "Multiple communication protocols supported",
+            "Optional AFCI preventing electrical fires",
+            "Optional AC & DC Type II SPD & SPD failure alarm"
+          ],
+          "additional": {
+            "Max. Input Current per MPPT (A):": "16",
+            "Nominal Output Voltage (V)": "220/230/240",
+            "Weight (kg)": "13.4",
+            "Max. Input Voltage (V):": "600",
+            "Number of MPP trackers/Number of Strings per MPPT:": "2/1"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=617&mid=60",
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=761&mid=60",
+          "certificates": []
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Max. Input Current per MPPT (A):": "16",
+          "Nominal Output Voltage (V)": "220/230/240",
+          "Weight (kg)": "13.4",
+          "Max. Input Voltage (V):": "600",
+          "Number of MPP trackers/Number of Strings per MPPT:": "2/1"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "DNS Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "GoodWe DNS series is a perfect match for residential installations thanks to its compact size and light weight. Manufactured for durability and longevity under modern industrial standards, GoodWe DNS series is IP65 rated so it can be mounted either inside or outside your home. With a low start-up voltage of only 80V and the widest MPPT voltage range of 80-550 V, these inverters can provide greater options for your household system. The GoodWe DNS series is also extremely light, 30% lighter than other inverters.",
+    "short_description": "DNS Series",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "goodwe 5kw inverter"
+      },
+      {
+        "name": "goodwe 5kw"
+      },
+      {
+        "name": "goodwe 5kw inverter price"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230221/DNS.png",
+        "alt": "DNS Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNS-2.png",
+        "alt": "DNS-2.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNS-33.png",
+        "alt": "DNS-33.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNS-31.png",
+        "alt": "DNS-31.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNS-32.png",
+        "alt": "DNS-32.png"
+      }
+    ],
+    "sku": "GW-DNS-2023-002",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "80V start-up voltage",
+          "Wide range of MPPT voltage",
+          "Fanless and noiseless",
+          "Small, light weight & easy to install",
+          "Export control",
+          "Flexible communication methods",
+          "Easy Installation & Maintenance",
+          "Various communication options",
+          "30% Lighter than similar products",
+          "20% Volume optimization"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "80V start-up voltage",
+            "Wide range of MPPT voltage",
+            "Fanless and noiseless",
+            "Small, light weight & easy to install",
+            "Export control",
+            "Flexible communication methods",
+            "Easy Installation & Maintenance",
+            "Various communication options",
+            "30% Lighter than similar products",
+            "20% Volume optimization"
+          ],
+          "additional": {
+            "Weight (kg)": "13.5",
+            "Max. Input Voltage (V):": "600",
+            "Nominal Output Voltage (V)": "220/230",
+            "Number of MPP trackers/Number of Strings per MPPT:": "2/1",
+            "Max. Input Current per MPPT (A):": "13"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=536&mid=60",
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=840&mid=60",
+          "certificates": []
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Weight (kg)": "13.5",
+          "Max. Input Voltage (V):": "600",
+          "Nominal Output Voltage (V)": "220/230",
+          "Number of MPP trackers/Number of Strings per MPPT:": "2/1",
+          "Max. Input Current per MPPT (A):": "13"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "MS G3 Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "The MS G3 single-phase inverters of 5-10kW provide powerful and versatile solution options for residential buildings. This model boasts 3 MPPTs for various complex rooftops, thus leading to high power efficiency. The ultra-low 50V startup voltage allows inverters to kick in earlier during the day and presents more power generation. In addition, by supporting up to 20A DC max. input current per MPPT, the MS G3 Series is ideal for high-power modules, which makes full use of power generated and presents lower LCOE. Importantly, PID (potential induced degradation) recovery function is supported for better module performance. The inverter also takes safety measures including optional Arc-Fault Circuit Interrupter (AFCI) and Type II Surge Protection Device (SPD) on both DC & AC sides to protect the system from electrical fire and lightning hazards in extreme environments for guaranteed safety.",
+    "short_description": "The MS G3 single-phase inverters of 5-10kW provide powerful and versatile solution options for residential buildings. This model boasts 3 MPPTs for va...",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "single-phase"
+      },
+      {
+        "name": "residential"
+      },
+      {
+        "name": "3 MPPTs"
+      },
+      {
+        "name": "high power efficiency"
+      },
+      {
+        "name": "low startup voltage"
+      },
+      {
+        "name": "high input current"
+      },
+      {
+        "name": "PID recovery"
+      },
+      {
+        "name": "AFCI"
+      },
+      {
+        "name": "SPD"
+      },
+      {
+        "name": "Type II Surge Protection"
+      },
+      {
+        "name": "24-hour load consumption monitoring"
+      },
+      {
+        "name": "GoodWe HomeKit 1000"
+      },
+      {
+        "name": "GM10001"
+      },
+      {
+        "name": "dry contact"
+      },
+      {
+        "name": "home load controls"
+      },
+      {
+        "name": "fanless"
+      },
+      {
+        "name": "natural convection cooling"
+      },
+      {
+        "name": "USB update"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230306/MSG3-1.png",
+        "alt": "MS G3 Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230306/MSG3-2.png",
+        "alt": "MS G3 Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230306/MSG3-33.png",
+        "alt": "MSG3-33.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230306/MSG3-31-57.png",
+        "alt": "MSG3-31-57.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230306/MSG3-32.png",
+        "alt": "MSG3-32.png"
+      }
+    ],
+    "sku": "GW-MS-2023-001",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "24-hour load consumption monitoring",
+          "Optional AFCI & rapid shutdown",
+          "50V startup voltage",
+          "Elegant and compact design",
+          "Smart load control with dry contacts",
+          "Fanless cooling for quiet operation",
+          "Software updates via USB"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "24-hour load consumption monitoring",
+            "Optional AFCI & rapid shutdown",
+            "50V startup voltage",
+            "Elegant and compact design",
+            "Smart load control with dry contacts",
+            "Fanless cooling for quiet operation",
+            "Software updates via USB"
+          ],
+          "additional": {
+            "Max. Input Voltage (V):": "600",
+            "Number of MPP trackers/Number of Strings per MPPT:": "3/1",
+            "Max. Input Current per MPPT (A):": "20",
+            "Weight (kg) :": "19",
+            "Nominal Output Voltage (V) :": "220/230/240"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "certificates": [],
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=1048&mid=60",
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=1793&mid=60"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Max. Input Voltage (V):": "600",
+          "Number of MPP trackers/Number of Strings per MPPT:": "3/1",
+          "Max. Input Current per MPPT (A):": "20",
+          "Weight (kg) :": "19",
+          "Nominal Output Voltage (V) :": "220/230/240"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  },
+  {
+    "name": "SMT Series",
+    "type": "simple",
+    "regular_price": "99999.00",
+    "sale_price": "",
+    "description": "The GoodWe SMT 50-60kW Series inverter is ideal for medium and large-scale commercial installations. \\nHarvest solar energy and generate environmental-friendly power for increased return on investment brought by high yields with your commercial PV system. Its unique fuse-free design makes it exceptionally easy to maintain for operators, saving time and money. The superb safety design provides reliable protections in outdoor installation and guarantees stable usage and generation even in extreme conditions. SMT 50-60kW Series is a pioneering inverter for your business and value.",
+    "short_description": "The GoodWe SMT 50-60kW Series inverter has a fuse-free design and is easy to maintain and repair, ideal for medium and large-scale commercial installations.",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "three phase"
+      },
+      {
+        "name": "commercial"
+      },
+      {
+        "name": "fuse-free"
+      },
+      {
+        "name": "high power"
+      },
+      {
+        "name": "mppt"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-1.png",
+        "alt": "SMT 50-60kW Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-2.png",
+        "alt": "SMT 50-60kW Series"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-31.png",
+        "alt": "SMT50-60红色（有屏）-31.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-32.png",
+        "alt": "SMT50-60红色（有屏）-32.png"
+      },
+      {
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-33.png",
+        "alt": "SMT50-60红色（有屏）-33.png"
+      }
+    ],
+    "sku": "GW-SMT-2023-002",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "GoodWe"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "GW60KS-MT",
+          "1100V Max. Input Voltage",
+          "30A Max. Input Current per MPPT",
+          "6/2 Number of MPP trackers/Number of Strings per MPPT",
+          "98.6% Max. Efficiency",
+          "230/400, 3L/N/PE or 3L/PE Nominal Output Voltage",
+          "GW50KS-MT",
+          "1100V Max. Input Voltage",
+          "30A Max. Input Current per MPPT",
+          "5/2 Number of MPP trackers/Number of Strings per MPPT",
+          "98.6% Max. Efficiency",
+          "230/400, 3L/N/PE or 3L/PE Nominal Output Voltage"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Remote data monitoring",
+          "Multi-protocol compatibility",
+          "Type II Surge Protection for both DC and AC ",
+          "IP65 ingress protection",
+          "200V-950V wide input operating voltage range",
+          "Fuse-free design",
+          "Maximum 15 A DC input current per string",
+          "Up to 6 MPPTs",
+          "150% DC input oversizing",
+          "110% AC output overloading",
+          "98.8% Max. Efficiency "
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "GW60KS-MT",
+            "1100V Max. Input Voltage",
+            "30A Max. Input Current per MPPT",
+            "6/2 Number of MPP trackers/Number of Strings per MPPT",
+            "98.6% Max. Efficiency",
+            "230/400, 3L/N/PE or 3L/PE Nominal Output Voltage",
+            "GW50KS-MT",
+            "1100V Max. Input Voltage",
+            "30A Max. Input Current per MPPT",
+            "5/2 Number of MPP trackers/Number of Strings per MPPT",
+            "98.6% Max. Efficiency",
+            "230/400, 3L/N/PE or 3L/PE Nominal Output Voltage"
+          ],
+          "features": [
+            "Remote data monitoring",
+            "Multi-protocol compatibility",
+            "Type II Surge Protection for both DC and AC ",
+            "IP65 ingress protection",
+            "200V-950V wide input operating voltage range",
+            "Fuse-free design",
+            "Maximum 15 A DC input current per string",
+            "Up to 6 MPPTs",
+            "150% DC input oversizing",
+            "110% AC output overloading",
+            "98.8% Max. Efficiency "
+          ]
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=527&mid=60",
+          "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=1056&mid=60",
+          "certificates": []
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": "99999.00",
+          "current": "99999.00"
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "instock"
+      }
+    ]
+  }
+]

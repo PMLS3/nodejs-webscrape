@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "sku": "LV-HES-2023-001",
+    "status": "success"
+  },
+  {
+    "sku": "LV-HES-2023-002",
+    "status": "success"
+  }
+]

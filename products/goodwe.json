@@ -7,21 +7,19 @@
       },
       {
         "alt": "XS-31-794.png",
-        "src": "/Public/Uploads/uploadfile/images/20230831/XS-31-794.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-31-794.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/XS-32-541.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-32-541.png",
         "alt": "XS-32-541.png"
       },
       {
         "alt": "XS-33-316.png",
-        "src": "/Public/Uploads/uploadfile/images/20230831/XS-33-316.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-33-316.png"
       }
     ],
     "description": "GoodWe XS Plus+ series is an ultra-small residential solar inverter specifically designed to bring comfort and quiet operation as well as high efficiency to households. Its capacity ranges from 0.7 kW to 3.0 kW and its most outstanding characteristic is lightweight, which is only 5.8 kg and as well as its extremely compact size equivalent to an A4 paper, that make it particularly easy to carry & install. Remarkably, it offers 130% of DC input oversizing, and it\\'s able to achieve maximum European efficiency of 97.2% for maximum performance. Conveniently, the communication options available on this inverter are both LAN and Wi-Fi for smart home integration.",
-    "categories": [
-      "Residential Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "short_description": "Goodwe XS Series is a micro residential solar inverter specifically designed to bring comfort and quiet operation as well as high efficiency to households.",
     "specifications": {
       "technical": [],
@@ -51,7 +49,8 @@
     },
     "name": "GoodWe XS PLUS+ Series 0.7-3KW Single Phase",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "sku": "GW-XS-2023-001",
     "stock_status": "instock",
@@ -75,26 +74,25 @@
     ],
     "brand": "GoodWe",
     "documents": {
-      "datasheet": "/Skippower/downloadFileF?id=931&mid=60",
-      "manual": "/Skippower/downloadFileF?id=539&mid=60",
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=931&mid=60",
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=539&mid=60",
       "certificates": []
     }
   },
   {
     "sku": "GW-XS-2023-002",
     "documents": {
-      "manual": "/Skippower/downloadFileF?id=1928&mid=60",
-      "datasheet": "/Skippower/downloadFileF?id=2261&mid=60",
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=1928&mid=60",
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=2261&mid=60",
       "certificates": []
     },
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "stock_status": "instock",
     "brand": "GoodWe",
-    "categories": [
-      "Residential Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "name": "XS G3 Series",
     "description": "GoodWe XS G3 Series is a residential solar inverter that is designed for maximum convenience and efficiency. It is incredibly lightweight, weighing only 4.6 kg and is as compact as an A4 paper, facilitating effortless installation and handling. It boasts an impressive 200% DC input oversizing and a maximum efficiency of 97.6%, ensuring maximum performance and energy generation for homeowners. In addition to its high efficiency, the inverter also offers a quiet operation with <20dB noise levels and IP66 ingress protection. Multiple communication options are supported for easy integration into a smart home system.",
     "images": [
@@ -103,28 +101,28 @@
         "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-1.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20240201/XS-G3-1.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-1.png",
         "alt": "XS G3 Series"
       },
       {
         "alt": "XS G3 Series",
-        "src": "/Public/Uploads/uploadfile/images/20240201/XS-G3-1.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-1.png"
       },
       {
         "alt": "XS-G3-2.png",
-        "src": "/Public/Uploads/uploadfile/images/20240201/XS-G3-2.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-2.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20240201/XS-G3-33.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-33.png",
         "alt": "XS-G3-33.png"
       },
       {
         "alt": "XS-G3-31.png",
-        "src": "/Public/Uploads/uploadfile/images/20240201/XS-G3-31.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-31.png"
       },
       {
         "alt": "XS-G3-32.png",
-        "src": "/Public/Uploads/uploadfile/images/20240201/XS-G3-32.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240201/XS-G3-32.png"
       }
     ],
     "tags": [
@@ -167,32 +165,30 @@
   },
   {
     "stock_status": "instock",
-    "categories": [
-      "Residential Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "images": [
       {
         "alt": "XS Series",
-        "src": "/Public/Uploads/uploadfile/images/20230831/XS-1.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-1.png"
       },
       {
         "alt": "XS Series",
-        "src": "/Public/Uploads/uploadfile/images/20230831/XS-1.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-1.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/XS-2.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-2.png",
         "alt": "XS-2.png"
       },
       {
         "alt": "XS-31.png",
-        "src": "/Public/Uploads/uploadfile/images/20230831/XS-31.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-31.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/XS-32.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-32.png",
         "alt": "XS-32.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/XS-33.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/XS-33.png",
         "alt": "XS-33.png"
       }
     ],
@@ -208,11 +204,12 @@
     "name": "XS Series",
     "documents": {
       "certificates": [],
-      "datasheet": "/Skippower/downloadFileF?id=839&mid=60",
-      "manual": "/Skippower/downloadFileF?id=539&mid=60"
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=839&mid=60",
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=539&mid=60"
     },
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "specifications": {
       "features": [
@@ -240,7 +237,8 @@
     ],
     "short_description": "MT Series",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "stock_status": "instock",
     "documents": {
@@ -252,9 +250,7 @@
     "description": "GoodWe MT series inverter is suited for medium and large scale commercial rooftops and ground-mounted solar PV systems where maximum versatility and profitability are important. With its compact design and power boost function, the Goodwe MT series of the new generation can provide a 150% continuous maximum AC output power overload, offering a faster return on investment. The start-up voltage is 200 V, much lower than other products, which makes the inverter start up earlier, therefore generating more power over time.",
     "name": "MT Series",
     "brand": "GoodWe",
-    "categories": [
-      "C&I Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "specifications": {
       "technical": [
         "Max. Input Voltage (V): 1100",
@@ -268,44 +264,9 @@
         "Max. Efficiency : 98.8%",
         "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
         "Max. Input Voltage (V): 1100",
-        "Max. Input Current per MPPT (A): 30",
-        "Number of MPP trackers/Number of Strings per MPPT: 4/2",
-        "Max. Efficiency : 98.8%",
-        "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
-        "Max. Input Voltage (V): 1100",
         "Max. Input Current per MPPT (A): 44",
-        "Number of MPP trackers/Number of Strings per MPPT: 4/3",
-        "Max. Efficiency : 98.8%",
-        "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
-        "Max. Input Voltage (V): 1100",
-        "Max. Input Current per MPPT (A): 44",
-        "Number of MPP trackers/Number of Strings per MPPT: 4/3",
-        "Max. Efficiency : 99.0%",
-        "Nominal Output Voltage (V) : 500,3L/PE",
-        "Max. Input Voltage (V): 1100",
-        "Max. Input Current per MPPT (A): 39",
-        "Number of MPP trackers/Number of Strings per MPPT: 4/3",
-        "Max. Efficiency : 99.0%",
-        "Nominal Output Voltage (V) : 540,3L/PE",
-        "Max. Input Voltage (V): 1100",
-        "Max. Input Current per MPPT (A): 33",
-        "Number of MPP trackers/Number of Strings per MPPT: 4/3",
-        "Max. Efficiency : 99.0%",
-        "Nominal Output Voltage (V) : 500,3L/PE",
-        "Max. Input Voltage (V): 1100",
-        "Max. Input Current per MPPT (A): 44",
-        "Number of MPP trackers/Number of Strings per MPPT: 4/4",
-        "Max. Efficiency : 99.0%",
-        "Nominal Output Voltage (V) : 540,3L/PE",
-        "Max. Input Voltage (V): 1100",
-        "Max. Input Current per MPPT (A): 44",
-        "Number of MPP trackers/Number of Strings per MPPT: 4/4-3",
-        "Max. Efficiency : 98.8%",
-        "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE",
-        "Max. Input Voltage (V): 1100",
-        "Max. Input Current per MPPT (A): 44",
-        "Number of MPP trackers/Number of Strings per MPPT: 4/4-3",
-        "Max. Efficiency : 98.8%",
+        "Number of MPP trackers/Number of Strings per MPPT: 4/4/4/4",
+        "Max. Efficiency : 98.7%",
         "Nominal Output Voltage (V) : 400, 3L/N/PE or 3L/PE"
       ],
       "features": [
@@ -378,12 +339,11 @@
     "sku": "GW-HT-2023-001",
     "short_description": "HT Series",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "name": "GoodWe HT Series 73-120 kW Three Phase Up to 12 MPPTs Solar Inverter for Sale",
-    "categories": [
-      "C&I Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "specifications": {
       "additional": {
         "Max. Input Current per MPPT (A):": "30",
@@ -405,12 +365,12 @@
         "Easy & quick config"
       ]
     },
-    "description": "The HT 1100 Vdc Series 73-120 kW is GoodWe\\'s new string inverter for C&I and small utility projects to boost your power and profit. Generate your solar power and make use of it with this centerpiece of the clean energy system. The HT Series seamlessly incorporates its technical strengths designed to achieve higher savings in the installation, enhance productivity with increased energy yields, realize high power density and diversify available monitoring options. It takes safety to the top possible level in accordance with the strictest industry standards and runs efficiently even under the harshest environmental conditions. This unrivalled set of features was conceived to ensure the lowest levelized cost of electricity (LCOE) to offer this ideal choice for commercial and industrial PV systems.",
+    "description": "The HT 1100 Vdc Series 73-120 kW is GoodWe\\'s new string inverter for C&I and small utility projects to boost your power and profit. Generate your solar power and make use of it with this centerpiece of the clean energy system. The HT Series seamlessly incorporates its technical strengths designed to achieve higher savings in the installation, enhance productivity with increased energy yields, realize high power density and diversify available monitoring options. It takes safety to the top possible level in accordance with the strictest industry standards and runs efficiently even under the harshest environmental conditions. This unrivaled set of features was conceived to ensure the lowest levelized cost of electricity (LCOE) to offer this ideal choice for commercial and industrial PV systems.",
     "stock_status": "instock",
     "documents": {
-      "datasheet": "/Skippower/downloadFileF?id=580&mid=60",
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=580&mid=60",
       "certificates": [],
-      "manual": "/Skippower/downloadFileF?id=523&mid=60"
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=523&mid=60"
     }
   },
   {
@@ -427,42 +387,41 @@
     ],
     "sku": "GW-GT-2023-001",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "name": "GT Series",
     "images": [
       {
         "alt": "20240913-142714.png",
-        "src": "/Public/Uploads/uploadfile/images/20240913/20240913-142714.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240913/20240913-142714.png"
       },
       {
         "alt": "GT-2.png",
-        "src": "/Public/Uploads/uploadfile/images/20240913/GT-2.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240913/GT-2.png"
       },
       {
         "alt": "GT-31.png",
-        "src": "/Public/Uploads/uploadfile/images/20240913/GT-31.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240913/GT-31.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20240913/GT-32.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240913/GT-32.png",
         "alt": "GT-32.png"
       },
       {
         "alt": "GT-33.png",
-        "src": "/Public/Uploads/uploadfile/images/20240913/GT-33.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240913/GT-33.png"
       }
     ],
     "brand": "GoodWe",
     "stock_status": "instock",
     "short_description": "100-125kW | Three Phase | 8/10 MPPTs",
     "documents": {
-      "manual": "/Skippower/downloadFileF?id=2227&mid=60",
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=2227&mid=60",
       "certificates": [],
-      "datasheet": "/Skippower/downloadFileF?id=2629&mid=60"
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=2629&mid=60"
     },
-    "categories": [
-      "C&I Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "description": "The GT Series string inverter is an ideal choice for commercial and industrial (C&I) applications to enhance productivity and realize high power density. Multiple MPPTs and high input current of 21A per DC string increase the overall yield with high-power PV modules. The optional PID (Potential Induced Degradation) recovery function is also supported for better module performance. Safety is always the first priority. Both the DC and AC sides are equipped with Type II surge protection to protect the inverter from lightning, providing upgraded safety and reliability for the PV system. With an unrivaled set of features, GT Series inverters were conceived to deliver increased return on investment (ROI) for C&I PV projects.",
     "specifications": {
       "features": [
@@ -502,7 +461,8 @@
       "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=584&mid=60"
     },
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "stock_status": "instock",
     "images": [
@@ -537,16 +497,14 @@
         "Power line communication"
       ]
     },
-    "categories": [
-      "C&I Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "description": "Developed as an efficient response to South American market needs for low-voltage inverters, GoodWe’s LVMT series inverter is suitable for medium and large-scale commercial rooftops or ground-mounted solar PV systems where maximum versatility and profitability are important. With its compact design and power boost function, GoodWe’s LVMT series can provide an extremely high efficiency of 98.8%, thus offering a faster return on investment."
   },
   {
     "documents": {
       "certificates": [],
-      "manual": "/Skippower/downloadFileF?id=527&mid=60",
-      "datasheet": "/Skippower/downloadFileF?id=979&mid=60"
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=527&mid=60",
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=979&mid=60"
     },
     "tags": [
       "solar inverter",
@@ -592,9 +550,7 @@
     "description": "The GoodWe SMT Series three-phase inverter is ideal for commercial rooftop system solutions. The SMT series achieves maximum efficiency of 98.8% and features unique design highlights, including solid capacitors, fuse-free design, and optional Arc Fault Circuit Interrupter (AFCI) function. These new features ensure a longer lifespan and a higher safety level of operation, allowing for an improved user experience. With a compact design and weight of just 40 kg, the SMT series is more convenient to install. With a maximum DC input voltage of 1100V, a wider MPPT range for complex rooftops, and a start-up voltage of 180V, the SMT series guarantees an earlier generation of power and a longer working time to maximize long-term returns and profitability in safe operating conditions.",
     "sku": "GW-SMT-2023-001",
     "name": "SMT Series",
-    "categories": [
-      "C&I Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "images": [
       {
         "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT25-36红色（有屏）-1-745.png",
@@ -623,7 +579,8 @@
     ],
     "brand": "GoodWe",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "short_description": "SMT Series",
     "stock_status": "instock"
@@ -637,12 +594,11 @@
     },
     "sku": "GW-SDT-2023-001",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "description": "The GoodWe 17-25 kW SDT G2 series inverter is especially designed for three-phase residential and small commercial projects. With its compact design, the SDT G2 inverter is 45% smaller than the first generation. The inverter is also light and easy to install. The maximum efficiency of this inverter is as high as 98.4%. With an advanced ventilation system, the inverter is able to dissipate heat efficiently. In addition, it can be customised with an integrated LCD screen.",
-    "categories": [
-      "C&I Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "name": "SDT G2 Series",
     "specifications": {
       "technical": [
@@ -719,27 +675,27 @@
       },
       {
         "alt": "MIS Series",
-        "src": "/Public/Uploads/uploadfile/images/20231020/Micro-inverter--1.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--1.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20231020/Micro-inverter--1.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--1.png",
         "alt": "MIS Series"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20231020/Micro-inverter--2.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--2.png",
         "alt": "Micro-inverter--2.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20231020/Micro-inverter--33.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--33.png",
         "alt": "Micro-inverter--33.png"
       },
       {
         "alt": "Micro-inverter--31.png",
-        "src": "/Public/Uploads/uploadfile/images/20231020/Micro-inverter--31.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--31.png"
       },
       {
         "alt": "Micro-inverter--32.png",
-        "src": "/Public/Uploads/uploadfile/images/20231020/Micro-inverter--32.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20231020/Micro-inverter--32.png"
       }
     ],
     "tags": [
@@ -759,16 +715,15 @@
     ],
     "documents": {
       "certificates": [],
-      "manual": "/Skippower/downloadFileF?id=1890&amp;mid=60",
-      "datasheet": "/Skippower/downloadFileF?id=2052&amp;mid=60"
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=1890&amp;mid=60",
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=2052&amp;mid=60"
     },
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "stock_status": "instock",
-    "categories": [
-      "Residential Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "short_description": "GoodWe's MIS Series microinverter is an ideal solution for residential and small commercial settings.",
     "sku": "GW-MIS-2023-001",
     "name": "MIS Series",
@@ -782,12 +737,11 @@
     "name": "SDT G2 PLUS+ Series",
     "brand": "GoodWe",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "stock_status": "instock",
-    "categories": [
-      "Residential Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "tags": [
       "three-phase",
       "residential",
@@ -803,8 +757,8 @@
     ],
     "documents": {
       "certificates": [],
-      "manual": "/Skippower/downloadFileF?id=532&mid=60",
-      "datasheet": "/Skippower/downloadFileF?id=673&mid=60"
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=532&mid=60",
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=673&mid=60"
     },
     "images": [
       {
@@ -812,19 +766,19 @@
         "alt": "SDT G2 PLUS+ Series"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-2.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-2.png",
         "alt": "SDT G2 PLUS+ Series"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-33.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-33.png",
         "alt": "SDTG2PLUS+(有屏）-33.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-31.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-31.png",
         "alt": "SDTG2PLUS+(有屏）-31.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-32.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SDTG2PLUS+(有屏）-32.png",
         "alt": "SDTG2PLUS+(有屏）-32.png"
       }
     ],
@@ -892,19 +846,18 @@
     },
     "stock_status": "instock",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "documents": {
       "certificates": [],
-      "datasheet": "/Skippower/downloadFileF?id=2386&mid=60",
-      "manual": "/Skippower/downloadFileF?id=1981&mid=60"
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=2386&mid=60",
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=1981&mid=60"
     },
     "sku": "GW-SDT-2023-003",
     "description": "The GoodWe SDT G3 Series, with a power range of 8-30 kW, is specifically engineered to cater to the energy needs of three-phase residential and small commercial projects. The inverter boasts an impressive 150% DC oversizing and 110% AC overloading capabilities, allowing for maximum performance and output even in challenging environments. In addition, the SDT G3 Series inverter\\'s lightweight and easy-to-install design offers exceptional convenience for operators and installers alike. ",
     "brand": "GoodWe",
-    "categories": [
-      "Residential Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "name": "SDT G3 Series",
     "short_description": "The GoodWe SDT G3 Series, with a power range of 8-30 kW, is engineered to cater to the energy needs of three-phase residential and small installations.",
     "images": [
@@ -914,22 +867,22 @@
       },
       {
         "alt": "SDT G3 Series",
-        "src": "/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-1.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-1.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-2.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-2.png",
         "alt": "SDT G3 Series"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-33.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-33.png",
         "alt": "(Venus)SDTG38-15kW-33.png"
       },
       {
         "alt": "(Venus)SDTG38-15kW-31.png",
-        "src": "/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-31.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-31.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-32.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20240422/(Venus)SDTG38-15kW-32.png",
         "alt": "(Venus)SDTG38-15kW-32.png"
       }
     ],
@@ -955,18 +908,18 @@
       },
       {
         "alt": "DNS G3",
-        "src": "/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-2.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-2.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-31.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-31.png",
         "alt": "DNSG3白色（有屏）-31.png"
       },
       {
         "alt": "DNSG3白色（有屏）-32.png",
-        "src": "/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-32.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-32.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-33.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNSG3白色（有屏）-33.png",
         "alt": "DNSG3白色（有屏）-33.png"
       }
     ],
@@ -986,12 +939,11 @@
       "lightning protection"
     ],
     "description": "The GoodWe DNS G3 series inverter is specially designed for single-phase residential applications. Integrated with high-current input and DC input oversizing capabilities, the series can bring you optimized power generation and make substantial returns. With its lighter and fanless house fit-in compact design, the DNS G3 inverter provides a reliable power supply yet runs at a super quiet operation below 25dB. The inverter also takes safety measures including optional Arc Fault Failure Interrupter (AFCI) and Type II Surge Protection Device (SPD) on both sides to protect the system from electrical fire and lightning hazards in extreme environments for guaranteed safety.",
-    "categories": [
-      "Residential Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "name": "DNS G3",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "brand": "GoodWe",
     "specifications": {
@@ -1008,24 +960,17 @@
         "Max. Input Voltage (V):": "600",
         "Number of MPP trackers/Number of Strings per MPPT:": "2/1"
       },
-      "technical": [
-        "IP66",
-        "Fanless cooling"
-      ]
+      "technical": ["IP66", "Fanless cooling"]
     },
     "sku": "GW-DNS-2023-001",
     "documents": {
-      "manual": "/Skippower/downloadFileF?id=617&mid=60",
-      "datasheet": "/Skippower/downloadFileF?id=761&mid=60",
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=617&mid=60",
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=761&mid=60",
       "certificates": []
     }
   },
   {
-    "tags": [
-      "goodwe 5kw inverter",
-      "goodwe 5kw",
-      "goodwe 5kw inverter price"
-    ],
+    "tags": ["goodwe 5kw inverter", "goodwe 5kw", "goodwe 5kw inverter price"],
     "description": "GoodWe DNS series is a perfect match for residential installations thanks to its compact size and light weight. Manufactured for durability and longevity under modern industrial standards, GoodWe DNS series is IP65 rated so it can be mounted either inside or outside your home. With a low start-up voltage of only 80V and the widest MPPT voltage range of 80-550 V, these inverters can provide greater options for your household system. The GoodWe DNS series is also extremely light, 30% lighter than other inverters.",
     "name": "DNS Series",
     "sku": "GW-DNS-2023-002",
@@ -1033,36 +978,35 @@
     "stock_status": "instock",
     "images": [
       {
-        "src": "/Public/Uploads/uploadfile/images/20230221/DNS.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230221/DNS.png",
         "alt": "DNS Series"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/DNS-2.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNS-2.png",
         "alt": "DNS-2.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/DNS-33.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNS-33.png",
         "alt": "DNS-33.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/DNS-31.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNS-31.png",
         "alt": "DNS-31.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/DNS-32.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/DNS-32.png",
         "alt": "DNS-32.png"
       }
     ],
-    "categories": [
-      "Residential Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "documents": {
-      "manual": "/Skippower/downloadFileF?id=536&mid=60",
-      "datasheet": "/Skippower/downloadFileF?id=840&mid=60",
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=536&mid=60",
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=840&mid=60",
       "certificates": []
     },
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "short_description": "DNS Series",
     "specifications": {
@@ -1109,14 +1053,13 @@
       ]
     },
     "stock_status": "instock",
-    "description": "The MS G3 single-phase inverters of 5-10kW provide powerful and versatile solution options for residential buildings. This model boasts 3 MPPTs for various complex rooftops, thus leading to high power efficiency. The ultra-low 50V startup voltage allows inverters to kick in earlier during the day and presents more power generation. In addition, by supporting up to 20A DC max. input current per MPPT, the MS G3 Series is ideal for high-power modules, which makes full use of power generated and presents lower LCOE. Importantly, PID (potential induced degradation) recovery function is supported for better module performance. The inverter also takes safety measures including optional Arc-Fault Circuit Interrupter (AFCI) and Type II Surge Protection Device (SPD) on both DC & AC sides to protect the system from electrical fire and lightning hazards in extreme environments.",
+    "description": "The MS G3 single-phase inverters of 5-10kW provide powerful and versatile solution options for residential buildings. This model boasts 3 MPPTs for various complex rooftops, thus leading to high power efficiency. The ultra-low 50V startup voltage allows inverters to kick in earlier during the day and presents more power generation. In addition, by supporting up to 20A DC max. input current per MPPT, the MS G3 Series is ideal for high-power modules, which makes full use of power generated and presents lower LCOE. Importantly, PID (potential induced degradation) recovery function is supported for better module performance. The inverter also takes safety measures including optional Arc-Fault Circuit Interrupter (AFCI) and Type II Surge Protection Device (SPD) on both DC & AC sides to protect the system from electrical fire and lightning hazards in extreme environments for guaranteed safety.",
     "brand": "GoodWe",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
-    "categories": [
-      "Residential Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "short_description": "The MS G3 single-phase inverters of 5-10kW provide powerful and versatile solution options for residential buildings. This model boasts 3 MPPTs for va...",
     "documents": {
       "certificates": [],
@@ -1207,43 +1150,36 @@
         "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-1.png"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-2.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-2.png",
         "alt": "SMT 50-60kW Series"
       },
       {
-        "src": "/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-31.png",
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-31.png",
         "alt": "SMT50-60红色（有屏）-31.png"
       },
       {
         "alt": "SMT50-60红色（有屏）-32.png",
-        "src": "/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-32.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-32.png"
       },
       {
         "alt": "SMT50-60红色（有屏）-33.png",
-        "src": "/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-33.png"
+        "src": "https://en.goodwe.com/Public/Uploads/uploadfile/images/20230831/SMT50-60红色（有屏）-33.png"
       }
     ],
     "sku": "GW-SMT-2023-002",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     },
     "name": "SMT Series",
-    "tags": [
-      "three phase",
-      "commercial",
-      "fuse-free",
-      "high power",
-      "mppt"
-    ],
+    "tags": ["three phase", "commercial", "fuse-free", "high power", "mppt"],
     "stock_status": "instock",
     "documents": {
-      "manual": "/Skippower/downloadFileF?id=527&mid=60",
-      "datasheet": "/Skippower/downloadFileF?id=1056&mid=60",
+      "manual": "https://en.goodwe.com/Skippower/downloadFileF?id=527&mid=60",
+      "datasheet": "https://en.goodwe.com/Skippower/downloadFileF?id=1056&mid=60",
       "certificates": []
     },
-    "categories": [
-      "C&I Grid-tied Inverters"
-    ],
+    "categories": ["inverter"],
     "description": "The GoodWe SMT 50-60kW Series inverter is ideal for medium and large-scale commercial installations. \\nHarvest solar energy and generate environmental-friendly power for increased return on investment brought by high yields with your commercial PV system. Its unique fuse-free design makes it exceptionally easy to maintain for operators, saving time and money. The superb safety design provides reliable protections in outdoor installation and guarantees stable usage and generation even in extreme conditions. SMT 50-60kW Series is a pioneering inverter for your business and value."
   }
 ]

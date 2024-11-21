@@ -69,7 +69,8 @@
       ]
     },
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     }
   },
   {
@@ -154,7 +155,8 @@
     "short_description": "Livoltek Off-grid Hybrid Inverter with Battery Backup from 3kW to 6kW is ideal for design or moving towards retrofitting to a battery-backup solution.",
     "brand": "Livoltek",
     "price": {
-      "current": 0
+      "current": "99999.00",
+      "regular": "99999.00"
     }
   }
 ]

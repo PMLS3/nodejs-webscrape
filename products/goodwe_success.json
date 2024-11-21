@@ -1,0 +1,66 @@
+[
+  {
+    "sku": "GW-XS-2023-001",
+    "status": "success"
+  },
+  {
+    "sku": "GW-XS-2023-002",
+    "status": "success"
+  },
+  {
+    "sku": "GW-XS-2023-003",
+    "status": "success"
+  },
+  {
+    "sku": "GW-MT-2023-001",
+    "status": "success"
+  },
+  {
+    "sku": "GW-HT-2023-001",
+    "status": "success"
+  },
+  {
+    "sku": "GW-GT-2023-001",
+    "status": "success"
+  },
+  {
+    "sku": "GW-LVMT-2023-001",
+    "status": "success"
+  },
+  {
+    "sku": "GW-SMT-2023-001",
+    "status": "success"
+  },
+  {
+    "sku": "GW-SDT-2023-001",
+    "status": "success"
+  },
+  {
+    "sku": "GW-MIS-2023-001",
+    "status": "success"
+  },
+  {
+    "sku": "GW-SDT-2023-002",
+    "status": "success"
+  },
+  {
+    "sku": "GW-SDT-2023-003",
+    "status": "success"
+  },
+  {
+    "sku": "GW-DNS-2023-001",
+    "status": "success"
+  },
+  {
+    "sku": "GW-DNS-2023-002",
+    "status": "success"
+  },
+  {
+    "sku": "GW-MS-2023-001",
+    "status": "success"
+  },
+  {
+    "sku": "GW-SMT-2023-002",
+    "status": "success"
+  }
+]
