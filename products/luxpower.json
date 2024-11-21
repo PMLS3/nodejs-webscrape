@@ -1,0 +1,376 @@
+[
+  {
+    "name": "Lux Power 5KW Hybrid Inverter LV Single Phase (LXP5K)",
+    "sku": "LXP-5K",
+    "images": [
+      {
+        "alt": "",
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/02/LXP5K.JPG.jpg"
+      }
+    ],
+    "documents": {
+      "certificates": [],
+      "manual": null,
+      "datasheet": null
+    },
+    "short_description": "Product Highlights\\n&nbsp;Maximum Efficiency: 97.5%&nbsp;\\nIntegrated DC Switch\\nTransformerless Design&nbsp;\\nSupports Paralleling",
+    "tags": [
+      "5K",
+      "5KW INVERTER",
+      "lux power",
+      "LXP5K"
+    ],
+    "specifications": {
+      "additional": {
+        "Dimensions": "60 × 50 × 30 cm",
+        "Weight": "21 kg"
+      },
+      "features": [
+        "&nbsp;Maximum Efficiency: 97.5%&nbsp;",
+        "Integrated DC Switch",
+        "Transformerless Design&nbsp;",
+        "Supports Paralleling"
+      ],
+      "technical": [
+        "• Maximum DC Input Power: 8000W",
+        "• Nominal DC Input Voltage: 360VDC",
+        "• DC Input Voltage Range: 100VDC-550VDC",
+        "• MPPT Voltage Range: 120VDC-500VDC",
+        "• Start Voltage: 140VDC",
+        "• Number of MPP Trackers: 2",
+        "• Maximum DC Input Current: 12.5A / 12.5A",
+        "• Compatible Battery Type: Lithium-ion / Lead-Acid",
+        "• Nominal Battery Voltage: 48VDC",
+        "• Battery Voltage Range: 40VDC – 60VDC",
+        "• Maximum Charge / Discharge Current: 80A / 80A",
+        "• Maximum Charge / Discharge Power: 5000W / 5000W",
+        "• Charging Curve: 3 Stages",
+        "• Nominal AC Output Power: 5000W",
+        "• Nominal AC Output Current: 25A",
+        "• Nominal AC Voltage: 230VAC (180VAC-270VAC)",
+        "• Nominal AC Frequency: 50Hz / 60Hz (45Hz-55Hz / 55Hz-65Hz)",
+        "• Power Factor: >0.99 @ Rated Power 0.8 Lagging – 0.8 Leading Adjustable",
+        "• Ingress Protection: IP65",
+        "• Relative Humidity: 0% to 100%",
+        "• Operating Temperature Range: -25°C to +60°C",
+        "• Operating Altitude: <2000m",
+        "• Communication: RS485 / WIFI / CAN"
+      ]
+    },
+    "description": "Lux Power 5KW Hybrid Inverter has a newly designed solar and energy storage solution. The best off grid inverter, capable to install in on-grid solar, off-grid solar and back-up systems. \\n\\nLXP Hybrid enables a programmable and scheduled smart solar energy storage system to help increase your solar energy self-consumption rate, protect your home appliances from grid shortage, and balance your energy usage strategy to save energy bill.\\n\\nLux Power 5KW Hybrid Inverter Description\\n\\nSolar Input• Maximum DC Input Power: 8000W• Nominal DC Input Voltage: 360VDC• DC Input Voltage Range: 100VDC-550VDC• MPPT Voltage Range: 120VDC-500VDC• Start Voltage: 140VDC• Number of MPP Trackers: 2• Maximum DC Input Current: 12.5A / 12.5A\\n\\nBattery Input / Output• Compatible Battery Type: Lithium-ion / Lead-Acid• Nominal Battery Voltage: 48VDC• Battery Voltage Range: 40VDC – 60VDC• Maximum Charge / Discharge Current: 80A / 80A• Maximum Charge / Discharge Power: 5000W / 5000W• Charging Curve: 3 Stages\\n\\nAC Input / Output• Nominal AC Output Power: 5000W• Nominal AC Output Current: 25A• Nominal AC Voltage: 230VAC (180VAC-270VAC)• Nominal AC Frequency: 50Hz / 60Hz (45Hz-55Hz / 55Hz-65Hz)• Power Factor: >0.99 @ Rated Power 0.8 Lagging – 0.8 Leading Adjustable\\n\\nEnvironment Limit• Ingress Protection: IP65• Relative Humidity: 0% to 100%• Operating Temperature Range: -25°C to +60°C• Operating Altitude: <2000m• Communication: RS485 / WIFI / CAN",
+    "brand": "Lux Power",
+    "categories": [
+      "Inverters",
+      "Hybrid Inverter",
+      "Lux Power Hybrid"
+    ],
+    "price": {
+      "regular": null,
+      "current": 16663.5,
+      "sale": null
+    },
+    "stock_status": "1 in stock (can be backordered)"
+  },
+  {
+    "short_description": "The LuxPower 6Kw Eco Hybrid inverter supports several working modes, including Pure off-grid working mode: working as traditional off-grid inverters, can prioritize between using AC power or solar power. Hybrid working mode: working as a hybrid, supporting solar and utility jointly taking the load can choose between self- consumption mode or change priority mode.",
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2024/03/LUX-SNA6000.jpg",
+        "alt": "LuxPower 6kW Hybrid Inverter"
+      }
+    ],
+    "tags": [
+      "Hybrid",
+      "Inverter"
+    ],
+    "brand": "LuxPower",
+    "name": "LuxPower 6Kw Eco Hybrid Inverter",
+    "description": "The LuxPower 6Kw Eco Hybrid inverter supports several working modes, including Pure off-grid working mode: working as traditional off-grid inverters, can prioritize between using AC power or solar power. Hybrid working mode: working as a hybrid, supporting solar and utility jointly taking the load can choose between self- consumption mode or change priority mode.\\n\\nWith thousands of hybrid inverters & AC units installed around the world,Luxpower has stepped even further to bring power to every home, with or without grid power.\\n\\nLuxPower 6Kw Eco Hybrid series off grid inverters can support the system to work as back-up power or a replacement for diesel generator. Since the inverter support paralleling function. The capacity of the system can range from 3kW to 50kW.\\n\\nReclaim Your Power\\n\\n\\nOff grid seamless switching\\n\\nWide PV input voltage range\\n\\nGreat battery compatibility\\n\\nSingle Phase / Unbalanced 3-Phase\\n\\nSupport up to 16pcs in parallel.\\n\\nSeparate generator port available\\n\\nIntelligent off grid & hybrid modes",
+    "documents": {
+      "certificates": [],
+      "manual": "https://www.pvpower.co.za/wp-content/uploads/2024/03/SNA-3-6K-.pdf",
+      "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/11/Lux-SNA-5000-and-6000-Data-sheet-new-1.pdf"
+    },
+    "sku": "LXP-SNA6K",
+    "stock_status": "3 in stock (can be backordered)",
+    "categories": [
+      "inverter",
+      "HYBRID INVERTER"
+    ],
+    "specifications": {
+      "technical": [],
+      "features": [
+        "Intelligent working modes",
+        "Stronger EPS",
+        "Easy to use with battery",
+        "IP65, indoor & outdoor use",
+        "Advanced Parallel, up to 60kW",
+        "Plug & Play, seamless switching under 10ms"
+      ],
+      "additional": {
+        "Weight": "16 kg",
+        "Dimensions": "15 × 32 × 52 cm"
+      }
+    },
+    "price": {
+      "current": 10590
+    }
+  },
+  {
+    "categories": [
+      "Inverters",
+      "Hybrid Inverter",
+      "Lux Power Hybrid"
+    ],
+    "specifications": {
+      "features": [],
+      "technical": [
+        "Battery Parameters• Compatible Battery Type: Lead-acid / Lithium• Nominal Battery Voltage: 48VDC• Battery Voltage Range: 40VDC-60VDC• Maximum Charge / Discharge Current: 210A• Maximum Charge / Discharge Power: 10 000W",
+        "DC PV Input• Max DC Input for Single MPPT: 12 000W / 7 000W / 7 000W• Maximum PV Input: 16 000W• DC Input Voltage Range: 100VDC-600VDC• Nominal DC Input Voltage: 360VDC• Full Power MPPT Voltage Range: 210VDC-500VDC• Maximum DC Input Current: 25A / 15A / 15A• MPPT Number / Strings per MPPT: 3(2/1/1)",
+        "AC Output (Grid)• Nominal Power: 10 000W• Nominal AC Voltage: 240VAC• Operating Voltage Range: 180VAC-270VAC• Maximum Continuous AC Current: 41.6A @ 240VAC• Nominal AC Frequency: 50Hz / 60Hz",
+        "UPS Output (With Battery)• UPS Max Output Power: 10 000W• UPS Nominal Output Voltage: 240VAC• UPS Nominal Output Frequency: 50Hz / 60Hz• UPS Nominal Output Current: 41.6A @ 240VAC• Peak Power: 14Kw 10Min / 16Kw 5 Min / 20Kw 500ms• Switching Time: <20ms",
+        "Environment Limit• Ingress Protection: IP65• Operating Temperature Range: -25°C to +60°C• Cooling: Fan• Communication: RS485 / WIFI / CAN"
+      ],
+      "additional": {
+        "Weight": "40 kg",
+        "Dimensions": "65 × 50 × 30 cm"
+      }
+    },
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/LXP10ka.jpg",
+        "alt": ""
+      },
+      {
+        "alt": "",
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/LXP10kb.jpg"
+      },
+      {
+        "alt": "",
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/LXP10k.jpg"
+      }
+    ],
+    "description": "Luxpower 10kW Hybrid Inverter, model LXP10K is ready to take your solar system to the next level. The Luxpower 10Kw Hybrid Inverter is an inverter for solar panels an inverter for solar power. This solar inverter with battery and solar panels converts the DC electricity generated by your solar panels into AC electricity. It has the ability to connect with solar panels and store energy in the lithium ion battery.\\n\\nDescription\\n\\nBattery Parameters• Compatible Battery Type: Lead-acid / Lithium• Nominal Battery Voltage: 48VDC• Battery Voltage Range: 40VDC-60VDC• Maximum Charge / Discharge Current: 210A• Maximum Charge / Discharge Power: 10 000W\\n\\nDC PV Input• Max DC Input for Single MPPT: 12 000W / 7 000W / 7 000W• Maximum PV Input: 16 000W• DC Input Voltage Range: 100VDC-600VDC• Nominal DC Input Voltage: 360VDC• Full Power MPPT Voltage Range: 210VDC-500VDC• Maximum DC Input Current: 25A / 15A / 15A• MPPT Number / Strings per MPPT: 3(2/1/1)\\n\\nAC Output (Grid)• Nominal Power: 10 000W• Nominal AC Voltage: 240VAC• Operating Voltage Range: 180VAC-270VAC• Maximum Continuous AC Current: 41.6A @ 240VAC• Nominal AC Frequency: 50Hz / 60Hz\\n\\nUPS Output (With Battery)• UPS Max Output Power: 10 000W• UPS Nominal Output Voltage: 240VAC• UPS Nominal Output Frequency: 50Hz / 60Hz• UPS Nominal Output Current: 41.6A @ 240VAC• Peak Power: 14Kw 10Min / 16Kw 5 Min / 20Kw 500ms• Switching Time: <20ms\\n\\nEnvironment Limit• Ingress Protection: IP65• Operating Temperature Range: -25°C to +60°C• Cooling: Fan• Communication: RS485 / WIFI / CAN",
+    "stock_status": "Available on backorder",
+    "price": {
+      "current": 31490
+    },
+    "name": "Lux Power: Inverter 10KW Hybrid LV Single Phase (LXP10K)",
+    "short_description": "Luxpower 10kW Hybrid Inverter, model LXP10K is ready to take your solar system to the next level. The Luxpower 10Kw Hybrid Inverter is an inverter for solar panels an inverter for solar power.",
+    "documents": {
+      "certificates": [
+        "https://www.pvpower.co.za/wp-content/uploads/2023/06/CN-PV-220166_Security.pdf",
+        "https://www.pvpower.co.za/wp-content/uploads/2023/06/Approved-Photovoltaic-PV-Inverter-List-1.pdf",
+        "https://www.pvpower.co.za/wp-content/uploads/2023/06/Luxpower-warranty-card.pdf",
+        "https://www.pvpower.co.za/wp-content/uploads/2024/03/Battery-Compatibility-Document.pdf"
+      ],
+      "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/06/LUXPOWER-Hybrid-LB-EU-10K.pdf",
+      "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/06/Hybrid-10k-EU-Usermanual-0810.pdf"
+    },
+    "brand": "Lux Power",
+    "tags": [
+      "10kWh",
+      "all in one hybrid inverter",
+      "lux power",
+      "lux power 10kw",
+      "LXP10k"
+    ],
+    "sku": "LXP-10K"
+  },
+  {
+    "specifications": {
+      "additional": {
+        "Dimensions": "65 × 50 × 30 cm",
+        "Weight": "12 kg"
+      },
+      "technical": [],
+      "features": [
+        "Intelligent off grid &amp; hybrid modes",
+        "Supports Paralleling up to 50KW",
+        "Single Phase / Unbalanced Three Phase",
+        "Easy to use with battery",
+        "Free monitoring &amp; remote upgrade"
+      ]
+    },
+    "sku": "LXP-SNA5000",
+    "documents": {
+      "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/11/Lux-SNA-5000-and-6000-Data-sheet-new.pdf",
+      "certificates": [],
+      "manual": "https://www.pvpower.co.za/wp-content/uploads/2022/11/Lux-Power-5KW-Off-Grid-SNA5000WPV-User-Manual.pdf"
+    },
+    "description": "The\\xa0LuxPower 5KW SNA5000 Off-Grid Inverter is a battery inverter that provides you with a variety of ways to power your household devices.\\n\\n\\n\\nLuxPower 5KW SNA5000 Description \\n\\n\\n\\n\\nIntelligent off grid &amp; hybrid modes\\n\\n\\n\\nPV &amp; AC power loads simultaneously\\n\\n\\n\\nWide PV input voltage range\\n\\n\\n\\nEasy to use with battery\\n\\n\\n\\nFree monitoring &amp; remote upgrade\\n\\n\\n\\nSingle phase or unbalanced three phase\\n\\n\\n\\nAdvanced Parallel, up to 50kW\\n\\n\\n\\nSeparate generator interface available\\n\\n\\n\\nHost inverter automatically generated tomanage entire system",
+    "brand": "Lux Power",
+    "images": [
+      {
+        "alt": "Lux Power SNA5000",
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2022/11/sna5000.png"
+      }
+    ],
+    "short_description": "LuxPower 5KW SNA5000 has the ability to power from PV &amp; AC power loads simultaneously. Luxpower comes with Intelligent off grid &amp; hybrid modes.",
+    "price": {
+      "current": 7990
+    },
+    "tags": [
+      "5kw",
+      "Hybrid",
+      "lux",
+      "lux power",
+      "sna5000",
+      "Solar Inverter"
+    ],
+    "categories": [
+      "inverter",
+      "OFF GRID INVERTER"
+    ],
+    "name": "LuxPower 5KW SNA5000 (LXP-SNA5000)",
+    "stock_status": "62 in stock"
+  },
+  {
+    "price": {
+      "current": 45890
+    },
+    "images": [
+      {
+        "alt": "Lux Eco beast",
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2024/07/LUX-ECO-Beast.webp"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2024/07/LUX-ECO-Beast-2.webp",
+        "alt": "Lux ECO Beast"
+      }
+    ],
+    "categories": [
+      "Inverters",
+      "Off Grid Inverter",
+      "Lux Power"
+    ],
+    "description": "LuxPower 6Kw Eco Beast All-In-One 6kw/10kWh\\n\\n\\n\\nDescription \\n\\n\\n\\nThe LuxPower 6Kw Eco Beast All-In-One is an advanced solution designed to provide users with an efficient and reliable power management experience. Moreover, it offers seamless integration and user-friendly features, ensuring optimal performance and ease of use.\\n\\n\\n\\nThe LuxPower Eco Beast All-In-One, with its self-developed monitoring system, is the smart and efficient energy usage and storage enabler. Moreover, it integrates seamlessly to optimize performance and reliability.\\n\\n\\n\\nWhether on-site or remote, you can enjoy real-time, close-loop communication with your LuxPower Eco Beast. Additionally, monitor station performance around the clock, fine-tune specific modules, and streamline energy flow—all within a single platform. This ensures comprehensive oversight and optimal efficiency at all times.\\n\\n\\n\\nThe 6kW Inverter (SNA), paired with a 10kWh battery backup, not only offers a stylish look but also ensures a quick install. With proven quality and effortless control, furthermore, it includes handy monitoring and update features. Consequently, this plug-and-play system provides peace of mind and instant loadshedding relief. Additionally, The  LuxPower Eco Beast anti-theft function adds an extra layer of security.",
+    "stock_status": "Available on backorder",
+    "tags": [
+      "6kw",
+      "Eco Beast",
+      "lux all in one",
+      "lux eco beast"
+    ],
+    "specifications": {
+      "features": [
+        "6kW Inverter (SNA)",
+        "10kWh Battery back up",
+        "Stylish look",
+        "Quick install",
+        "Proven Quality, Effortless Control",
+        "Handy Monitoring & Update",
+        "Plug and play, peace of mind",
+        "Instant Loadshedding relief",
+        "Anti-Stolen Function"
+      ],
+      "additional": {},
+      "technical": []
+    },
+    "short_description": "Experience efficient and reliable power management with LuxPower 6Kw Eco Beast All-In-One. Stay connected with real-time monitoring and smart energy usage.",
+    "sku": "LXP-ECOBEAST-AIO-6kw",
+    "brand": "Lux Power",
+    "documents": {
+      "certificates": [],
+      "manual": "https://www.pvpower.co.za/wp-content/uploads/2024/07/Eco_Beast_User_Manual_24.07.121.pdf",
+      "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/07/ECO-BEAST-All-in-one-Datasheet-2024.1.311.pdf"
+    },
+    "name": "LuxPower 6Kw Eco Beast All-In-One"
+  },
+  {
+    "description": "Lux Power 12kW Hybrid Inverter Single Phase is new design of solar and battery inverter that you can use in on-grid solar, off-grid solar and back-up systems. \\n\\nThe LXP Hybrid implements a programmable and scheduled intelligent solar storage system. This power inverter battery can help increase your solar energy self-use and protect your home appliances from grid shortages.\\n\\n Power battery inverter can also balance your energy use strategy to save on energy costs\\n\\nLux Power 12kW Hybrid Description\\n\\nBattery Parameters\\n• Compatible Battery Type: Lead-acid / Lithium\\n• Nominal Battery Voltage: 48VDC\\n• Battery Voltage Range: 40VDC-60VDC\\n• Maximum Charge / Discharge Current: 250A\\n• Maximum Charge / Discharge Power: 12 000W\\n\\nDC PV Input\\n• Max DC Input for Single MPPT: 12 000W / 7 000W / 7 000W\\n• Maximum PV Input: 18 000W\\n• DC Input Voltage Range: 100VDC-600VDC\\n• Nominal DC Input Voltage: 360VDC\\n• Full Power MPPT Voltage Range: 230VDC-500VDC\\n• Maximum DC Input Current: 25A / 15A / 15A\\n• MPPT Number / Strings per MPPT: 3(2/1/1)\\n\\nAC Output (Grid)\\n• Nominal Power: 12 000W\\n• Nominal AC Voltage: 240VAC\\n• Operating Voltage Range: 180VAC-270VAC\\n• Maximum Continuous AC Current: 50A @ 240VAC\\n• Nominal AC Frequency: 50Hz / 60Hz\\n\\nUPS Output (With Battery)\\n• UPS Max Output Power: 12 000W\\n• UPS Nominal Output Voltage: 240VAC\\n• UPS Nominal Output Frequency: 50Hz / 60Hz\\n• UPS Nominal Output Current: 50A @ 240VAC\\n• Peak Power: 14Kw 10Min / 16Kw 5 Min / 20Kw 500ms\\n• Switching Time: <20ms\\n\\nEnvironment Limit\\n• Ingress Protection: IP65\\n• Operating Temperature Range: -25°C to +60°C\\n• Cooling: Fan\\n• Communication: RS485 / WIFI / CAN",
+    "price": {
+      "current": 32490
+    },
+    "stock_status": "Available on backorder",
+    "brand": "Lux Power",
+    "sku": "LXP-LB12K",
+    "specifications": {
+      "additional": {
+        "Weight": "46 kg",
+        "Dimensions": "70 × 55 × 30 cm"
+      },
+      "technical": [
+        "• Compatible Battery Type: Lead-acid / Lithium",
+        "• Nominal Battery Voltage: 48VDC",
+        "• Battery Voltage Range: 40VDC-60VDC",
+        "• Maximum Charge / Discharge Current: 250A",
+        "• Maximum Charge / Discharge Power: 12 000W",
+        "• Max DC Input for Single MPPT: 12 000W / 7 000W / 7 000W",
+        "• Maximum PV Input: 18 000W",
+        "• DC Input Voltage Range: 100VDC-600VDC",
+        "• Nominal DC Input Voltage: 360VDC",
+        "• Full Power MPPT Voltage Range: 230VDC-500VDC",
+        "• Maximum DC Input Current: 25A / 15A / 15A",
+        "• MPPT Number / Strings per MPPT: 3(2/1/1)",
+        "• Nominal Power: 12 000W",
+        "• Nominal AC Voltage: 240VAC",
+        "• Operating Voltage Range: 180VAC-270VAC",
+        "• Maximum Continuous AC Current: 50A @ 240VAC",
+        "• Nominal AC Frequency: 50Hz / 60Hz",
+        "• UPS Max Output Power: 12 000W",
+        "• UPS Nominal Output Voltage: 240VAC",
+        "• UPS Nominal Output Frequency: 50Hz / 60Hz",
+        "• UPS Nominal Output Current: 50A @ 240VAC",
+        "• Peak Power: 14Kw 10Min / 16Kw 5 Min / 20Kw 500ms",
+        "• Switching Time: <20ms",
+        "• Ingress Protection: IP65",
+        "• Operating Temperature Range: -25°C to +60°C",
+        "• Cooling: Fan",
+        "• Communication: RS485 / WIFI / CAN"
+      ],
+      "features": [
+        "&nbsp;Maximum Efficiency: 97.5%&nbsp;",
+        "Integrated DC Switch",
+        "Transformerless Design&nbsp;",
+        "Supports Paralleling"
+      ]
+    },
+    "short_description": "Lux Power 12kW Hybrid Inverter Single Phase is new design of solar and battery inverter that you can use in on-grid solar, off-grid solar and back-up systems.",
+    "name": "Lux Power 12kW Hybrid Inverter Single Phase (LXP-LB12K)",
+    "categories": [
+      "inverter",
+      "HYBRID INVERTER"
+    ],
+    "tags": [
+      "12kw",
+      "lux power",
+      "lxp 12k eu"
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/Luxpower-Hybrid-LXP-LB-12Kw-3.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/Luxpower-Hybrid-LXP-LB-12Kw-1.jpg",
+        "alt": ""
+      },
+      {
+        "alt": "",
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/Luxpower-Hybrid-LXP-LB-12Kw-2.jpg"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/Luxpower-Hybrid-LXP-LB-12Kw-4.jpg",
+        "alt": ""
+      },
+      {
+        "alt": "",
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/Luxpower-Hybrid-LXP-LB-12Kw-5.jpg"
+      },
+      {
+        "alt": "",
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/Luxpower-Hybrid-LXP-LB-12Kw-6.jpg"
+      }
+    ],
+    "documents": {
+      "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/06/LXP-12K-EU-usermanual-1012.pdf",
+      "certificates": [
+        "https://www.pvpower.co.za/wp-content/uploads/2023/06/CN-PV-220171_Security.pdf",
+        "https://www.pvpower.co.za/wp-content/uploads/2023/06/Approved-Photovoltaic-PV-Inverter-List-1-1.pdf",
+        "https://www.pvpower.co.za/wp-content/uploads/2023/06/Luxpower-warranty-card.pdf"
+      ],
+      "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/06/LXP-12K-EU-usermanual-1012.pdf"
+    }
+  }
+]

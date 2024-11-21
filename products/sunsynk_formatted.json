@@ -1,0 +1,478 @@
+[
+  {
+    "name": "Sunsynk 16kW Single Phase Hybrid Inverter (SUN-16K-SG01LP1)",
+    "type": "simple",
+    "regular_price": "51890",
+    "sale_price": "",
+    "description": "We have taken the Sunsynk 16kW Single Phase Hybrid Inverter to the highest level. Our new Sunsynk MAX is the most powerful low-voltage inverter in the world, achieving a maximum output power of 16kW and a battery charge current of 300A.\\n\\nThis power management tool allows the user to hit those ‘parity’ targets by managing power flow from multiple sources such as solar, mains power (grid)&nbsp;and generators, and then effectively storing and releasing power as and when utilities require.\\n\\n## Description\\n\\n### Interactive\\n\\n* Supporting Wi-Fi or GSM monitoring\\n* Visual power flow screen\\n* Parallel / multi invert function grid-tied and off-grid\\n\\n### COMPATIBLE\\n\\n* Compatible with main electrical grid voltages or power generators\\n* Self-consumption and feed-in to the grid\\n* Auto restart while AC is recovering\\n* Auto earth bond feature (Via a relay)\\n\\n### CONFIGURABLE\\n\\n* Fully programmable controller\\n* Programmable supply priority for battery or grid\\n* Programmable multiple operation modes: on-grid/off-grid & UPS\\n* Configurable battery charging – current/voltage based on the application\\n* Configurable AC / solar / generator charger priority by LCD setting\\n\\n### SECURE\\n\\n* Overload/over-temperature/short-circuit protection\\n* Smart battery charger design for optimized battery protection\\n* Limiting function installed to prevent excess power overflow to grid",
+    "short_description": "Product Highlights\\n\\nIncludes: Wi-Fi Dongle + BMS Communication Cable\\n\\nLCD Touch screen and buttons, easy operation.\\n\\nCompatible with lithium-ion battery and lead acid battery.\\nWeb browser and mobile App monitoring supported.\\n\\nPV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+    "categories": [
+      {
+        "name": "Inverters"
+      },
+      {
+        "name": "Hybrid Inverter"
+      },
+      {
+        "name": "Sunsynk"
+      }
+    ],
+    "tags": [
+      {
+        "name": "16kw"
+      },
+      {
+        "name": "Hybrid"
+      },
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Solar Inverter"
+      },
+      {
+        "name": "Sunsynk"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/09/Untitled-design-1.jpg",
+        "alt": ""
+      }
+    ],
+    "sku": "SUN-16K-SG01LP1-EU-1",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Sunsynk"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Includes: Wi-Fi Dongle + BMS Communication Cable",
+          "LCD Touch screen and buttons, easy operation.",
+          "Compatible with lithium-ion battery and lead acid battery.",
+          "Web browser and mobile App monitoring supported.",
+          "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "Includes: Wi-Fi Dongle + BMS Communication Cable",
+            "LCD Touch screen and buttons, easy operation.",
+            "Compatible with lithium-ion battery and lead acid battery.",
+            "Web browser and mobile App monitoring supported.",
+            "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+          ],
+          "additional": {
+            "Weight": "75 kg",
+            "Dimensions": "98 × 70 × 60 cm"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/09/Sunsynk_Max_UserManual_v11_English.pdf",
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/09/SunSynkMaxDataSheet.pdf",
+          "certificates": []
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Weight": "75 kg",
+          "Dimensions": "98 × 70 × 60 cm"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 51890
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "onbackorder"
+      }
+    ]
+  },
+  {
+    "name": "Sunsynk 12kw Hybrid Inverter 3 phase (SUN-3P-12K-H-LV)",
+    "type": "simple",
+    "regular_price": "45655",
+    "sale_price": "",
+    "description": "Sunsynk 12kw Hybrid Inverter 3 phase have a unique feature. They can operate and balance the load, which means you can have 20% connected to one phase, 20% to another, and 60% to the third phase, and it still gives perfect phase rotation. No other inverter in their class can offer this feature.\\n\\nSunsynk 12kw Hybrid Inverter 3 phase  Description\\n\\n- Maximum charging/discharging current of 250A\\n\\n- Frequency droop control\\n\\n- Up to 16 inverters in parallel\\n\\n- Interactive display\\n\\n- RS485 Wi-Fi interface\\n\\n- 5 year warranty",
+    "short_description": "Sunsynk 12kw Hybrid Inverter 3 Phase Storage Inverters are highly efficient power management tools for three-phase grid applications.",
+    "categories": [
+      {
+        "name": "inverter"
+      },
+      {
+        "name": "HYBRID INVERTER"
+      }
+    ],
+    "tags": [
+      {
+        "name": "12kw"
+      },
+      {
+        "name": "3 Phase"
+      },
+      {
+        "name": "3 Phase Inverter"
+      },
+      {
+        "name": "Deye"
+      },
+      {
+        "name": "Hybrid"
+      },
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Solar Inverter"
+      },
+      {
+        "name": "Sunsynk"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/03/Untitled-design.jpg",
+        "alt": "Sunsynk 12kw Hybrid Inverter 3 phase, inverters"
+      }
+    ],
+    "sku": "SUN-3P-12K-H-LV",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Sunsynk"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "Maximum charging/discharging current of 250A",
+          "Frequency droop control",
+          "Up to 16 inverters in parallel",
+          "Interactive display",
+          "RS485 Wi-Fi interface",
+          "5 year warranty"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "PV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+          "Includes: Wi-Fi Dongle + BMS Communication Cable",
+          "Compatible with lithium-ion battery and lead acid battery.",
+          "Web browser and mobile App monitoring supported.",
+          "LCD Touch screen and buttons, easy operation."
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "Maximum charging/discharging current of 250A",
+            "Frequency droop control",
+            "Up to 16 inverters in parallel",
+            "Interactive display",
+            "RS485 Wi-Fi interface",
+            "5 year warranty"
+          ],
+          "features": [
+            "PV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+            "Includes: Wi-Fi Dongle + BMS Communication Cable",
+            "Compatible with lithium-ion battery and lead acid battery.",
+            "Web browser and mobile App monitoring supported.",
+            "LCD Touch screen and buttons, easy operation."
+          ],
+          "additional": {
+            "Dimensions": "94 × 64 × 46 cm",
+            "Weight": "50 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/03/Sunsynk_ThreePhaseHI_8_12K_UserManual_v28_English.pdf",
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/03/Sunsynk_ThreePhaseHI_812K_Datasheet_v17_English.pdf",
+          "certificates": [
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/Compliance-of-PV-Inverter-1.pdf",
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/COC-of-Deye-Inverter-1.pdf"
+          ]
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "94 × 64 × 46 cm",
+          "Weight": "50 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 45655
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "1 in stock (can be backordered)"
+      }
+    ]
+  },
+  {
+    "name": "Sunsynk 50kW 3-Phase Hybrid Inverter (SUN-50K-SG01HP3)",
+    "type": "simple",
+    "regular_price": "106938.5",
+    "sale_price": "",
+    "description": "Introducing the Sunsynk 50kW 3-Phase Hybrid Inverter – the perfect solution for commercial and industrial applications. This high-efficiency inverter can handle up to 65,000W of energy, so you’ll never be without power!\\n\\n\\n\\nWith remote monitoring capabilities through our dedicated Sunsynk Connect app, you can track the efficiency of your system on-the-go, helping you to stay ahead of potential issues to ensure optimal performance.\\n\\n\\n\\nDescription\\n\\n\\n\\nDesigned for easy installation and maintenance, the Sunsynk 50kW 3-Phase Hybrid Inverter will\\xa0seamlessly integrate into your world to reduce costs, and provide reliable, renewable energy.\\n\\n\\n\\nThis power management tool allows the user to hit those ‘parity’ targets by managing power flow from multiple sources such as solar, mains power (grid)\\xa0and generators, and then effectively storing and releasing power as and when utilities require.",
+    "short_description": "Designed for easy installation and maintenance, the Sunsynk 50kW 3-Phase Hybrid Inverter will seamlessly integrate into your world to reduce costs.",
+    "categories": [
+      {
+        "name": "Inverters"
+      },
+      {
+        "name": "Hybrid Inverter"
+      },
+      {
+        "name": "Sunsynk"
+      }
+    ],
+    "tags": [
+      {
+        "name": "3 Phase"
+      },
+      {
+        "name": "3 Phase Inverter"
+      },
+      {
+        "name": "50kw"
+      },
+      {
+        "name": "Hybrid"
+      },
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Solar Inverter"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_1.jpg",
+        "alt": "Deye 50kw Hybrid inverter 3 phase with smart monitoring"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_3.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_2.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_4.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_5.jpg",
+        "alt": ""
+      }
+    ],
+    "sku": "SUN-50K-SG01HP3-EU-BM4-1",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Sunsynk"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Maximum Efficiency: 97.60%",
+          "MPPT Efficiency: 99.90%",
+          " Paralleling: 10 Units On-Grid / Off-Grid",
+          " Generator Compatible",
+          " Mounting: Wall Mount"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "Maximum Efficiency: 97.60%",
+            "MPPT Efficiency: 99.90%",
+            " Paralleling: 10 Units On-Grid / Off-Grid",
+            " Generator Compatible",
+            " Mounting: Wall Mount"
+          ],
+          "additional": {
+            "Dimensions": "94 × 64 × 46 cm",
+            "Weight": "80 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/09/Sunsynk_ThreePhaseHI_25_50K_UserManual_v19_English.pdf",
+          "certificates": [],
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/09/Sunsynk_ThreePhaseHI_25_50K_Datasheet_v6_English.pdf"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "94 × 64 × 46 cm",
+          "Weight": "80 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 106938.5
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "Available on backorder"
+      }
+    ]
+  },
+  {
+    "name": "Sunsynk 5kw Hybrid Inverter (SUN-5K-SG01LP1-EU)",
+    "type": "simple",
+    "regular_price": "17238.5",
+    "sale_price": "",
+    "description": " Sunsynk 5kw Hybrid Inverter will reduce your electricity costs by managing power from various energy sources, including solar panels, batteries, the national electricity grid, a generator or even a wind turbine – all with a Sunsynk Hybrid inverter. It’s ideal for home and business and scalable so that you can expand it as required. Sunsynk 5kw Hybrid Inverter Description User-friendly LCD Touch screen and buttons, easy operation. Compatible with lithium-ion battery and lead acid battery. Web browser and mobile App monitoring supported. Reliable PV lighting protection, Anti-islanding protection, Leakage current protection etc. Support store energy from DG when needed, ensure the system working within 7*24H. IP65 protection degree, adapt to indoor and outdoor using. Automatically switch from on-grid to off-grid mode within 5ms. Zero exporting function, fast reaction within 200ms in zero export mode. Smart Programmable charging and discharging schedule. Both wind turbines and solar panels can be connected as DC input power. Max. 16 units can be paralleled for higher system power. Retrofitting of existing solar system to energy storage system",
+    "short_description": "Sunsynk 5kw Hybrid Inverter will reduce your electricity costs by managing power from various energy sources, including solar panels, batteries, the national electricity grid.",
+    "categories": [
+      {
+        "name": "inverter"
+      },
+      {
+        "name": "HYBRID INVERTER"
+      }
+    ],
+    "tags": [
+      {
+        "name": "5kw"
+      },
+      {
+        "name": "Hybrid"
+      },
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Solar Inverter"
+      },
+      {
+        "name": "Sunsynk"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Untitled-design.jpg",
+        "alt": ""
+      }
+    ],
+    "sku": "SUN-5K-G01LP1-EU-1",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Sunsynk"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Package Includes WIFI Dongle & Current Transformer",
+          "Max Efficiency of 97.6%",
+          "2 MPPT (Maximum Power Point Tracker)",
+          "RS485 / CAN Communication Ports",
+          "Load or Home power first with Zero Export to the Grid"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "Package Includes WIFI Dongle & Current Transformer",
+            "Max Efficiency of 97.6%",
+            "2 MPPT (Maximum Power Point Tracker)",
+            "RS485 / CAN Communication Ports",
+            "Load or Home power first with Zero Export to the Grid"
+          ],
+          "additional": {
+            "Weight": "25 kg",
+            "Dimensions": "60 × 35 × 25 cm"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "datasheet": "http://www.pvpower.co.za/wp-content/uploads/2022/10/Sunsynk-5kW-Data-Sheet.pdf",
+          "manual": "http://www.pvpower.co.za/wp-content/uploads/2022/09/Sunsynk_Hybrid-Inverter-3.6kW-5kW_UserManual_v14_Englsih.pdf",
+          "certificates": [
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/NRS-097-2-1-1.pdf",
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/NRS-097-2-1-2017-for-12-14-16-1.pdf"
+          ]
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Weight": "25 kg",
+          "Dimensions": "60 × 35 × 25 cm"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 17238.5
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "onbackorder"
+      }
+    ]
+  }
+]

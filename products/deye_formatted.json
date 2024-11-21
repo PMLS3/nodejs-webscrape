@@ -1,0 +1,1019 @@
+[
+  {
+    "name": "Deye 20kw Hybrid Inverter 3 Phase (SUN-20K-SG01HP3-EU-BM4)",
+    "type": "simple",
+    "regular_price": "43990",
+    "sale_price": "",
+    "description": "Model \\n\\n\\n\\nDeye 20kw Hybrid Inverter 3 Phase (SUN-20K-SG01HP3-EU-AM2)\\n\\n\\n\\nDeye 20kw Battery Input Data\\n\\n\\n\\n\\nBattery Type: Lead-acid or Lithium-ion\\n\\n\\n\\nBattery Voltage Range(V):150~700V\\n\\n\\n\\nMax. Charging Current (A): 37\\n\\n\\n\\nMax. Discharging Current (A): 37\\n\\n\\n\\nNumber of battery input: 1\\n\\n\\n\\nCharging Curve: 3 Stages / Equalization\\n\\n\\n\\nCharging Strategy for Li-Ion Battery: Self-adaption to BMS\\n\\n\\n\\n\\nDeye 20kw PV String Input Data\\n\\n\\n\\n\\nMax. DC Input Power (W): 26000W\\n\\n\\n\\nMax. DC Input Voltage (V): 1000\\n\\n\\n\\nStart-up Voltage (V): 180\\n\\n\\n\\nMPPT Range (V): 150V-850V\\n\\n\\n\\nFull Load DC Voltage Range (V): 500-850\\n\\n\\n\\nPV Input Current (A): 26A+26A\\n\\n\\n\\nMax. PV ISC (A): 39A+39A\\n\\n\\n\\nNumber of MPPT / Strings per MPPT: 2/2\\n\\n\\n\\n\\nDeye 20kw AC Output Data\\n\\n\\n\\n\\nRated AC Output and UPS Power (W): 20000W\\n\\n\\n\\nMax. AC Output Power (W): 22000W\\n\\n\\n\\nPeak Power (off grid): 1.5 times of rated power, 10 S\\n\\n\\n\\nAC Output Rated Current (A): 30.3\\n\\n\\n\\nMax. AC Current (A): 35\\n\\n\\n\\nMax. Continuous AC Passthrough (A): 80A\\n\\n\\n\\nOutput Frequency and Voltage: 50/60Hz;3L/N/PE 220/380Vac，230/400Vac\\n\\n\\n\\nGrid Type: Three Phase\\n\\n\\n\\nDC injection current (mA): &lt;0.5%1n\\n\\n\\n\\n\\nDeye 20kw Efficiency\\n\\n\\n\\n\\nMax. Efficiency: 97.60%\\n\\n\\n\\nEuro Efficiency: 97.00%\\n\\n\\n\\nMPPT Efficiency: 99.90%\\n\\n\\n\\n\\nDeye 20kw Protection\\n\\n\\n\\n\\nPV Input Lightning Protection: Integrated\\n\\n\\n\\nAnti-islanding Protection: Integrated\\n\\n\\n\\nPV String Input Reverse Polarity Protection: Integrated\\n\\n\\n\\nInsulation Resistor Detection: Integrated\\n\\n\\n\\nResidual Current Monitoring Unit: Integrated\\n\\n\\n\\nOutput Over Current Protection: Integrated\\n\\n\\n\\nOutput Shorted Protection: Integrated\\n\\n\\n\\nSurge protection: Integrated\\n\\n\\n\\nOutput Over Voltage Protection: DC Type II / AC Type II\\n\\n\\n\\n\\nCertifications and Standards\\n\\n\\n\\n\\nGrid Regulation:  CEI 0-21, VDE-AR-N 4105, NRS 097, IEC 62116, IEC 61727, G99, G98, VDE 0126-1-1, RD 1699, C10-11\\n\\n\\n\\nSafety EMC / Standard: IEC/EN 61000-6-1/2/3/4, IEC/EN 62109-1, IEC/EN 62109-2\\n\\n\\n\\n\\nGeneral Data\\n\\n\\n\\n\\nOperating Temperature Range (℃): -40~60℃, &gt;45℃ Derating\\n\\n\\n\\nCooling: Smart cooling\\n\\n\\n\\nNoise (dB): &lt;45 dB\\n\\n\\n\\nCommunication with BMS: RS485; CAN\\n\\n\\n\\nWeight (kg): 26\\n\\n\\n\\nSize (mm): 434W×645H×245D\\n\\n\\n\\nProtection Degree: IP65\\n\\n\\n\\nInstallation Style: Wall-mounted\\n\\n\\n\\nWarranty: 5 years",
+    "short_description": "Deye 20kw Hybrid Inverter smart monitoring platform, Deye full series inverter products support remotely shutdown immediately when accident occurs",
+    "categories": [
+      {
+        "name": "inverter"
+      },
+      {
+        "name": "HYBRID INVERTER"
+      }
+    ],
+    "tags": [
+      {
+        "name": "3 Phase"
+      },
+      {
+        "name": "3 Phase Inverter"
+      },
+      {
+        "name": "50kw"
+      },
+      {
+        "name": "Deye"
+      },
+      {
+        "name": "Hybrid"
+      },
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Solar Inverter"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/10/SG01HP3-1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/10/SG01HP3-2.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/10/SG01HP3-3.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/10/SG01HP3-4.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/10/SG01HP3-5.jpg",
+        "alt": ""
+      }
+    ],
+    "sku": "SUN-20K-SG01HP3-EU-BM4",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Deye"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "100% unbalanced output, each phase; Max. output up to 50% rated power",
+          "DC couple and AC couple to retrofit existing solar system",
+          "Max. 10 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel",
+          "Max. charging/discharging current of 37A",
+          "High voltage battery, higher efficiency",
+          "6 time periods for battery charging/discharging",
+          "Support storing energy from diesel generator"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "100% unbalanced output, each phase; Max. output up to 50% rated power",
+            "DC couple and AC couple to retrofit existing solar system",
+            "Max. 10 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel",
+            "Max. charging/discharging current of 37A",
+            "High voltage battery, higher efficiency",
+            "6 time periods for battery charging/discharging",
+            "Support storing energy from diesel generator"
+          ],
+          "additional": {
+            "Dimensions": "50 × 66 × 38 cm",
+            "Weight": "30 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/10/SUN-5-25K-3-phase.pdf",
+          "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/04/SUN-50K-SG01HP3-EU-BM4_usermanual.pdf",
+          "certificates": []
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "50 × 66 × 38 cm",
+          "Weight": "30 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 43990
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "Available on backorder"
+      }
+    ]
+  },
+  {
+    "name": "Deye 3kw Hybrid Inverter SUN-3.6",
+    "type": "simple",
+    "regular_price": "14890",
+    "sale_price": "",
+    "description": "Deye 3kw Hybrid Inverter SUN-3.6/5K-SG01/03LP1-EU was created for residential and light commercial use to meet all your energy needs.\\n\\nThe PV system produces electricity during the day, which is initially supplied to the loads. Then, the excess energy will charge the battery, so the excess energy in the battery is available when needed. The battery can also be charged by the diesel generator to ensure power supply in the event of power outage.\\n\\n\\n\\nSmart Monitoring Platform\\n\\n\\n\\nDeye full series inverter products support remote shutdown instantly in the event of an accident because of the smart monitoring platform. Setting parameters and FW update remotely, which makes PV plant O&amp;M easier.\\n\\n\\n\\nDeye 3kw inverter come with RS485/CAN port for battery communication.\\n\\n\\n\\nDeye 3kw Hybrid Inverter Description:\\n\\n\\n\\n\\nColorful touch LCD, IP65 protection degree\\n\\n\\n\\nAC couple to retrofit existing solar system.\\n\\n\\n\\nMax. 16 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel\\n\\n\\n\\nMax. charging/discharging current of 140A\\n\\n\\n\\n6 time periods for battery charging/discharging\\n\\n\\n\\nSupport storing energy from diesel generator.",
+    "short_description": "Deye 3kw Hybrid Inverter, is suitable for residential and light commercial use, to meet all your energy needs in your home.",
+    "categories": [
+      {
+        "name": "Inverters"
+      },
+      {
+        "name": "Hybrid Inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "3kw inverter"
+      },
+      {
+        "name": "deye inverter"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/3.6kw-deye.webp",
+        "alt": "3.6kw deye inverter"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye-3.6kw-e1705495936132.webp",
+        "alt": "3kw Inverter"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye-3.6kw-bottom-e1705496076270.webp",
+        "alt": "3kw inverter"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye-3.6kw-side-e1705495858533.webp",
+        "alt": "3kw inverter"
+      }
+    ],
+    "sku": "SUN-3K-G01LP1-EU",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Deye"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Colorful touch LCD, IP65 protection degree",
+          "AC couple to retrofit existing solar system.",
+          "Max. 16 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel",
+          "Max. charging/discharging current of 140A",
+          "6 time periods for battery charging/discharging",
+          "Support storing energy from diesel generator."
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "Colorful touch LCD, IP65 protection degree",
+            "AC couple to retrofit existing solar system.",
+            "Max. 16 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel",
+            "Max. charging/discharging current of 140A",
+            "6 time periods for battery charging/discharging",
+            "Support storing energy from diesel generator."
+          ],
+          "additional": {
+            "Weight": "22 kg",
+            "Dimensions": "47 × 33 × 58 cm"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye3.6kw-User-Manual.pdf",
+          "certificates": [],
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Hybrid-Inverter-SUN-3.6-5K-SG01-03LP1-EU.pdf"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Weight": "22 kg",
+          "Dimensions": "47 × 33 × 58 cm"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 14890
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "onbackorder"
+      }
+    ]
+  },
+  {
+    "name": "Deye 30kw Hybrid Inverter 3 Phase (SUN-30K-SG01HP3-BM3)",
+    "type": "simple",
+    "regular_price": "62990",
+    "sale_price": "",
+    "description": "Deye 30kw Hybrid Inverter 3 Phase SUN-30K-SG01HP3-EU\\n\\n\\n\\nThe Deye 30kW Hybrid Inverter, SUN-30K-SG01HP3-EU, is a powerful and efficient solution for residential and commercial solar power systems. Thanks to its advanced features, intelligent energy management, and seamless integration capabilities, this inverter maximizes energy utilization, thereby promoting cost savings and reducing reliance on the grid.\\n\\n\\n\\nIntroduction\\n\\n\\n\\nSolar power is increasingly popular as a clean, sustainable energy source. To maximize its potential, an efficient inverter is essential. The Deye 30kW Hybrid Inverter is an excellent choice for residential and commercial installations, thanks to its advanced features and superior performance. This article explores the Deye 30kW’s key features, benefits, installation process, performance, safety, maintenance, and integration with solar power systems.\\n\\n\\n\\nUnderstanding Hybrid Inverters\\n\\n\\n\\nBefore we dive into the specifics, it’s important to briefly understand what hybrid inverters are. In essence, hybrid inverters are sophisticated devices that combine the functionality of a grid-tied inverter and a battery inverter. They allow seamless switching between grid power, solar power, and battery power, thus maximizing energy utilization and reducing reliance on the grid.\\n\\n\\n\\nKey Features\\n\\n\\n\\nPacked with an array of features that make it a standout product in the market. Some of its key features include:\\n\\n\\n\\nHigh Power Output: Offers a robust power output of 30 kilowatts, making it suitable for both residential and commercial applications.\\n\\n\\n\\nThree-Phase Compatibility:&nbsp;Designed to cater to three-phase power systems, this inverter ensures smooth operation and balanced power distribution.\\n\\n\\n\\nHybrid Functionality:&nbsp;With its hybrid capabilities, the DEYE 30Kw 3 Phase Hybrid Inverter allows for efficient utilization of solar power, battery power, and grid power, optimizing energy consumption.\\n\\n\\n\\nMultiple MPPT Inputs:&nbsp;This inverter supports multiple Maximum Power Point Tracking (MPPT) inputs, enabling the connection of multiple solar arrays for increased energy harvesting.\\n\\n\\n\\nIntelligent Energy Management: Equipped with advanced energy management algorithms, the DEYE 30Kw intelligently manages the flow of power, prioritizing renewable energy sources.\\n\\n\\n\\nMonitoring and Control:&nbsp;The inverter provides comprehensive monitoring and control features, allowing users to track energy generation, consumption, and system performance in real-time.\\n\\n\\n\\nBenefits of the DEYE 30Kw 3 Phase Hybrid Inverter\\n\\n\\n\\nInvesting in the DEYE 30Kw offers numerous advantages to solar power system owners. Some of the key benefits include:\\n\\n\\n\\nEnergy Independence: By integrating the DEYE 30Kw into a solar power system, users can reduce their reliance on the grid and achieve a greater level of energy independence.\\n\\n\\n\\nCost Savings:&nbsp;The intelligent energy management capabilities of this inverter result in significant cost savings by maximizing the utilization of free solar energy and minimizing grid electricity consumption.\\n\\n\\n\\nEnhanced Efficiency: The DEYE 30Kw’s advanced technology ensures high conversion efficiency, allowing for the optimal utilization of solar energy and reducing energy wastage.\\n\\n\\n\\nSeamless Integration:&nbsp;This inverter seamlessly integrates with existing solar power systems, making it a versatile solution for both new installations and retrofitting.\\n\\n\\n\\nEnvironmental Impact:&nbsp;By harnessing solar energy effectively, the DEYE 30Kw 3 Phase Hybrid Inverter contributes to a greener planet by reducing carbon emissions and reliance on fossil fuels.\\n\\n\\n\\nInstallation and Setup\\n\\n\\n\\nInstalling the DEYE 30kW 3-Phase Hybrid Inverter is a straightforward process. However, it is best to consult a professional solar installer to properly install and configure the system, ensuring optimal performance and safety. Additionally, install the inverter in a well-ventilated area, providing adequate clearance and protection from the elements.\\n\\n\\n\\nPerformance and Efficiency\\n\\n\\n\\nThe DEYE 30Kw 3 Phase Hybrid Inverter is known for its exceptional performance and high efficiency. Its advanced technology and intelligent power management systems ensure maximum power output and seamless operation. The inverter’s high conversion efficiency helps in reducing energy losses and maximizing the return on investment for solar power system owners.\\n\\n\\n\\nSafety and Reliability\\n\\n\\n\\nSafety is of utmost importance when it comes to solar power installations. The DEYE 30Kw 3 Phase Hybrid Inverter adheres to stringent safety standards and incorporates various protection mechanisms to safeguard the system and its components. It features comprehensive protection against overvoltage, overcurrent, short circuits, and other electrical faults, ensuring a safe and reliable operation.\\n\\n\\n\\nMaintenance and Warranty\\n\\n\\n\\nThe inverter comes with a standard warranty, thereby providing peace of mind to users in case of any manufacturing defects or malfunctions.\\n\\n\\n\\nThe DEYE 30Kw 3 Phase Hybrid Inverter seamlessly integrates with solar power systems of various sizes and configurations. Its compatibility with different types of solar panels and battery technologies makes it a versatile choice for residential and commercial applications. The inverter’s intelligent energy management ensures optimal utilization of solar energy, resulting in increased self-consumption and reduced dependency on the grid.\\n\\n\\n\\nConclusion\\n\\n\\n\\nThe DEYE 30Kw 3 Phase Hybrid Inverter, SUN-30K-SG01HP3-EU, offers a powerful and efficient solution for harnessing solar energy. With its advanced features, intelligent energy management, and seamless integration capabilities, this inverter provides numerous benefits to solar power system owners. It promotes energy independence, along with cost savings and environmental sustainability, while also ensuring high performance, safety, and reliability.",
+    "short_description": "The Deye 30kW Hybrid Inverter, SUN-30K-SG01HP3-EU, is a powerful and efficient solution for residential and commercial solar power systems. Thanks to its advanced features, intelligent energy management, and seamless integration capabilities, this inverter maximizes energy utilization, thereby promoting cost savings and reducing reliance on the grid.",
+    "categories": [
+      {
+        "name": "Inverters"
+      },
+      {
+        "name": "Hybrid Inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Inverter"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2024/03/Deye-3-Phase-Hybrid-Inverter-30K-1.webp",
+        "alt": "Deye 3 Phase Hybrid Inverter 30kw"
+      }
+    ],
+    "sku": "SUN-30K-SG01HP3-BM3",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Deye"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "High Power Output",
+          "Three-Phase Compatibility",
+          "Hybrid Functionality",
+          "Multiple MPPT Inputs",
+          "Intelligent Energy Management",
+          "Monitoring and Control"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "High Power Output",
+            "Three-Phase Compatibility",
+            "Hybrid Functionality",
+            "Multiple MPPT Inputs",
+            "Intelligent Energy Management",
+            "Monitoring and Control"
+          ],
+          "additional": {
+            "Dimensions": "30 × 54 × 92 cm",
+            "Weight": "83 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": null,
+          "certificates": [],
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/03/Deye-3-Phase-Hybrid-Inverter-30K-Datasheet.pdf"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "30 × 54 × 92 cm",
+          "Weight": "83 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 62990
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "Available on backorder"
+      }
+    ]
+  },
+  {
+    "name": "Deye 50kw Hybrid Inverter 3 Phase (SUN-50K-SG01HP3-EU-BM4)",
+    "type": "simple",
+    "regular_price": "91990",
+    "sale_price": "",
+    "description": "Description\\n\\n\\n\\nDeye 50kw Hybrid Inverter 3 Phase&nbsp;is a brand new series of 3 phase hybrid inverter supporting 160-700V HV Battery, ensuring system efficiency and less heat dissipation. With compact design and high-power density, this series supports 1.3 DC/AC ratio, saving device investment. It supports three phase unbalanced output, extending the application scenarios.&nbsp;\\n\\n\\n\\nSmart Monitoring Platform\\n\\n\\n\\n\\nThanks to the smart monitoring platform, Deye 50kw Hybrid Inverter 3 Phase products support remotely shutdown immediately when accident occurs. Setting parameters and FW update remotely, which makes PV plant O&amp;M easier.\\n\\n\\n\\n\\nProduct Highlights\\n\\n\\n\\n\\n100% unbalanced output\\n\\n\\n\\neach phase AC couple to retrofit existing solar system\\n\\n\\n\\n*Max. 10 pcs parallel for on-grid and off-grid operation\\n\\n\\n\\nSupport multiple batteries parallel\\n\\n\\n\\nMax. charging/discharging current of 100A\\n\\n\\n\\nHigh voltage battery, higher efficiency\\n\\n\\n\\n6 time periods for battery charging/discharging\\n\\n\\n\\nSupport storing energy from diesel generator",
+    "short_description": "Deye 50kw Hybrid Inverter 3 Phase is a brand new series of three phase hybrid inverter supporting 160-700V HV Battery, ensuring system efficiency.",
+    "categories": [
+      {
+        "name": "inverter"
+      },
+      {
+        "name": "HYBRID INVERTER"
+      }
+    ],
+    "tags": [
+      {
+        "name": "3 Phase"
+      },
+      {
+        "name": "3 Phase Inverter"
+      },
+      {
+        "name": "50kw"
+      },
+      {
+        "name": "Deye"
+      },
+      {
+        "name": "Hybrid"
+      },
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Solar Inverter"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_1.jpg",
+        "alt": "Deye 50kw Hybrid inverter 3 phase with smart monitoring"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_3.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_2.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_4.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_5.jpg",
+        "alt": ""
+      }
+    ],
+    "sku": "SUN-50K-SG01HP3-EU-BM4",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Deye"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "100% unbalanced output",
+          "each phase AC couple to retrofit existing solar system",
+          "*Max. 10 pcs parallel for on-grid and off-grid operation",
+          "Support multiple batteries parallel",
+          "Max. charging/discharging current of 100A",
+          "High voltage battery, higher efficiency",
+          "6 time periods for battery charging/discharging",
+          "Support storing energy from diesel generator"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "100% unbalanced output",
+            "each phase AC couple to retrofit existing solar system",
+            "*Max. 10 pcs parallel for on-grid and off-grid operation",
+            "Support multiple batteries parallel",
+            "Max. charging/discharging current of 100A",
+            "High voltage battery, higher efficiency",
+            "6 time periods for battery charging/discharging",
+            "Support storing energy from diesel generator"
+          ],
+          "additional": {
+            "Dimensions": "94 × 64 × 46 cm",
+            "Weight": "80 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "certificates": [],
+          "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/04/SUN-50K-SG01HP3-EU-BM4_usermanual.pdf",
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/04/SUN-50K-SG01HP3-EU-BM4_Datasheet.pdf"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "94 × 64 × 46 cm",
+          "Weight": "80 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 91990
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "in stock"
+      }
+    ]
+  },
+  {
+    "name": "Deye 12kw Hybrid Inverter Single Phase (SUN-12K-SG01LP1-EU)",
+    "type": "simple",
+    "regular_price": "37890",
+    "sale_price": "",
+    "description": "Deye 12kw Hybrid Inverter Single Phase was created for residential and light commercial use to meet all your energy needs.\\n\\nDuring the day, the PV system generates electricity which will be provided to the loads initially. Then, the excess energy will charge the battery. You can use the excess energy in the battery when needed. The battery can also be charged by the diesel generator to ensure power supply in the event of power outage.\\n\\n\\n\\nSmart Monitoring Platform\\n\\n\\n\\nThanks to the smart monitoring platform, Deye full series inverter products support remotely shutdown immediately when accident occurs. Setting parameters and FW update remotely, which makes PV plant O&amp;M easier.\\n\\n\\n\\nDeye 12kw Hybrid Inverter Single Phase come with RS485/CAN port for battery communication.",
+    "short_description": "Deye 12kw Hybrid Inverter Single Phase,hybrid inverter, is suitable for residential and light commercial use, to meet all your energy needs.",
+    "categories": [
+      {
+        "name": "Inverters"
+      },
+      {
+        "name": "Hybrid Inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "6 time periods for battery charging/discharging"
+      },
+      {
+        "name": "AC couple to retrofifit existing solar system"
+      },
+      {
+        "name": "Colorful touch LCD"
+      },
+      {
+        "name": "Support storing energy from diesel generator"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/12/Deye-12kw-Hybrid-Inverter-1-Phase.jpg",
+        "alt": "Deye 12kw Hybrid Inverter 1 Phase"
+      }
+    ],
+    "sku": "SUN-12K-SG01LP1-EU",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Deye"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "6 time periods for battery charging/discharging",
+          "Max. charging/discharging current of 290A",
+          "Support storing energy from diesel generator.",
+          "AC couple to retrofit existing sol ar system",
+          "Max. 16 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "6 time periods for battery charging/discharging",
+            "Max. charging/discharging current of 290A",
+            "Support storing energy from diesel generator.",
+            "AC couple to retrofit existing sol ar system",
+            "Max. 16 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel"
+          ],
+          "additional": {
+            "Weight": "52 kg",
+            "Dimensions": "47 × 74 × 30 cm"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/12/Data-Sheet.pdf",
+          "certificates": []
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Weight": "52 kg",
+          "Dimensions": "47 × 74 × 30 cm"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 37890
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "Available on backorder"
+      }
+    ]
+  },
+  {
+    "name": "Deye 16kw Hybrid Inverter (SUN-16K-SG01LP1-EU)",
+    "type": "simple",
+    "regular_price": "44990",
+    "sale_price": "",
+    "description": "Deye 16kw Hybrid Inverter, is suitable for residential and light commercial use, maximizing self-consumption rate of solar energy and increasing your energy impendence. &nbsp; \\n\\n\\n\\nDuring the day, the PV system generates electricity which will be provided to the loads initially. Then, the excess energy will charge the battery via SUN 12/14/16K-SG. \\n\\n\\n\\nFinally, the stored energy can be released when the loads require it. The battery can also be charged by the diesel generator to ensure uninterrupted supply in the event of grid blackout.\\n\\n\\n\\nDescription\\n\\n\\n\\nSmart Monitoring Platform\\n\\n\\n\\nThanks to the smart monitoring platform, Deye full series inverter products support remotely shutdown immediately when accident occurs. Setting parameters and FW update remotely, which makes PV plant O&amp;M easier.\\n\\n\\n\\nDeye 16kw Hybrid Inverter Single Phase come with RS485/CAN port for battery communication.",
+    "short_description": "Deye 16kw Hybrid Inverter is a brand new series of single phase hybrid inverter supporting 160-700V HV Battery, ensuring system efficiency.",
+    "categories": [
+      {
+        "name": "Inverters"
+      },
+      {
+        "name": "Hybrid Inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "16kw"
+      },
+      {
+        "name": "Deye"
+      },
+      {
+        "name": "Hybrid"
+      },
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Solar Inverter"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Deye-12kw-Hybrid-Inverter-1-Phase.jpg",
+        "alt": "16kw deye"
+      }
+    ],
+    "sku": "SUN-16K-SG01LP1-EU",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Deye"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "LCD Touch screen and buttons, easy operation.",
+          "Compatible with lithium-ion battery and lead acid battery.",
+          "Web browser and mobile App monitoring supported.",
+          "PV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+          "Includes: Wi-Fi Dongle + BMS Communication Cable"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "LCD Touch screen and buttons, easy operation.",
+            "Compatible with lithium-ion battery and lead acid battery.",
+            "Web browser and mobile App monitoring supported.",
+            "PV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+            "Includes: Wi-Fi Dongle + BMS Communication Cable"
+          ],
+          "additional": {
+            "Dimensions": "98 × 70 × 60 cm",
+            "Weight": "75 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://www.pvpower.co.za/wp-content/uploads/2022/10/【b】sun-12-16k-sg01lp1-eu-142.5x210mm-ver2.2.pdf",
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Deye-SUN-12-16-K-SG01LP1-EU-Data-sheet.pdf",
+          "certificates": [
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/Compliance-of-PV-Inverter-1.pdf",
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/COC-of-Deye-Inverter-1.pdf"
+          ]
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "98 × 70 × 60 cm",
+          "Weight": "75 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 44990
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "2 in stock"
+      }
+    ]
+  },
+  {
+    "name": "Deye 12kw Hybrid Inverter 3 Phase (SUN-12K-SG04LP3)",
+    "type": "simple",
+    "regular_price": "38890",
+    "sale_price": "",
+    "description": "Deye 12kw Hybrid inverter SUN 5/6/8/10/12K-SG is brand new three phase hybrid inverter with low battery voltage 48V, ensuring system safe and reliable. With compact design and high-power density, this series supports 1.3 DC/AC ratio, saving device investment. It supports three phase unbalanced output, extending the application scenarios. Equipped with CAN port (x2) BMS and parallel, x1 RS485 port for BMS, x1 RS232 port for remotely control, x1 DRM port, which makes the system smart and flexible. Smart Monitoring Platform Thanks to the smart monitoring platform, Deye full series inverter products support remotely shutdown immediately when accident occurs. Setting parameters and FW update remotely, which makes PV plant O&M easier.",
+    "short_description": "Deye 12kw Hybrid inverter is a brand new series of three phase hybrid inverter supporting 160-700V HV Battery, ensuring system efficiency.",
+    "categories": [
+      {
+        "name": "inverter"
+      },
+      {
+        "name": "HYBRID INVERTER"
+      }
+    ],
+    "tags": [
+      {
+        "name": "12kw"
+      },
+      {
+        "name": "3 Phase"
+      },
+      {
+        "name": "3 Phase Inverter"
+      },
+      {
+        "name": "Deye"
+      },
+      {
+        "name": "Hybrid"
+      },
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Solar Inverter"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/12kwMain-800x800.png",
+        "alt": "Deye 12kw Hybrid inverter"
+      }
+    ],
+    "sku": "SUN-12K-SG04LP3",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Deye"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "Battery Chemistry : LifePO4",
+          "Capacity (Ah) : 120Ah",
+          "Scalability : Max 32 pcs in Parallel ( 196kWh)",
+          "Mounting : Floor Mount and Wall Mount",
+          "Warranty : 10 years - see terms and conditions"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Includes:  Wi-Fi Dongle + BMS Communication Cable",
+          "LCD Touch screen and buttons, easy operation.",
+          "Compatible with lithium-ion battery and lead acid battery.",
+          "Web browser and mobile App monitoring supported.",
+          "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "Battery Chemistry : LifePO4",
+            "Capacity (Ah) : 120Ah",
+            "Scalability : Max 32 pcs in Parallel ( 196kWh)",
+            "Mounting : Floor Mount and Wall Mount",
+            "Warranty : 10 years - see terms and conditions"
+          ],
+          "features": [
+            "Includes:  Wi-Fi Dongle + BMS Communication Cable",
+            "LCD Touch screen and buttons, easy operation.",
+            "Compatible with lithium-ion battery and lead acid battery.",
+            "Web browser and mobile App monitoring supported.",
+            "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+          ],
+          "additional": {
+            "Dimensions": "94 × 64 × 46 cm",
+            "Weight": "50 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "datasheet": "http://www.pvpower.co.za/wp-content/uploads/2022/09/DeyeInverter12kw3P.pdf",
+          "manual": "http://www.pvpower.co.za/wp-content/uploads/2022/09/DeyeInverter12kW3PManual.pdf",
+          "certificates": [
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/Compliance-of-PV-Inverter-1.pdf",
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/COC-of-Deye-Inverter-1.pdf"
+          ]
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "94 × 64 × 46 cm",
+          "Weight": "50 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 38890
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "2 in stock"
+      }
+    ]
+  },
+  {
+    "name": "Deye 8kw Hybrid Inverter (SUN-8K-SG01LP1-EU)",
+    "type": "simple",
+    "regular_price": "24990",
+    "sale_price": "",
+    "description": "Model\\n\\n\\n\\nDeye 8kw Hybrid Inverter (SUN-8K-SG01LP1-EU)\\n\\n\\n\\nDeye 8kw Battery Input Data\\n\\n\\n\\n\\nBattery Type: Lead-acid or Li-lon\\n\\n\\n\\nBattery Voltage Range (V): 40-60V\\n\\n\\n\\nMax. Charging Current (A): 190A\\n\\n\\n\\nMax. Discharging Current (A): 190A\\n\\n\\n\\nCharging curve: 3 Stages/Equalization\\n\\n\\n\\nExternal Temperature Sensor: Optional\\n\\n\\n\\nCharging Strategy for Lithium Battery: Self-adaption to BMS\\n\\n\\n\\n\\nDeye 8kw PV String Input Data\\n\\n\\n\\n\\nMax. DC Input Power (W): 10400W.\\n\\n\\n\\nPV input Voltage (V): 370V (100V-500V).\\n\\n\\n\\nMPPT Range (V): 125-425V.\\n\\n\\n\\nStart-up Voltage (V): 150V.\\n\\n\\n\\nPV Input Current (A): 22A + 22A.\\n\\n\\n\\nNo. of MPPT Trackers: 2\\n\\n\\n\\nNo. of Strings Per MPPT Tracker: 2+2.\\n\\n\\n\\n\\nDeye 8kw AC Output Data\\n\\n\\n\\n\\nRated AC Output and UPS Power (W): 8000W\\n\\n\\n\\nMax AC Output Power (W): 8800W\\n\\n\\n\\nPeak Power(off-grid): 2 times of rated power, 10 S.\\n\\n\\n\\nAC Output Rated Current(A): 33.4A/35A\\n\\n\\n\\nMax.AC Output Current(A): 36.7A/38.5A.\\n\\n\\n\\nMax Continuous AC Pass-through(A): 50A.\\n\\n\\n\\nOutput Frequency and Voltage: 50/60Hz; 120/240Vac(split phase), 208Vac(2/3 phase), 230Vac(single phase)\\n\\n\\n\\nGrid Type: THD&lt;3%(Linear load&lt;1.5%).\\n\\n\\n\\nCurrent Harmonic Distortion: THD&lt;3% (Linear load&lt;1.5%).\\n\\n\\n\\n\\nDeye 8kw Efficiency\\n\\n\\n\\n\\nMax. Efficiency: 97.60%\\n\\n\\n\\nEuro Efficiency: 97.00%\\n\\n\\n\\nMPPT Efficiency: 99.90%\\n\\n\\n\\n\\nDeye 8kw Protection\\n\\n\\n\\n\\nPV Arc Fault Detection: Integrated (Except European Type)\\n\\n\\n\\nPV Input Lightning Protection: Integrated\\n\\n\\n\\nAnti -islanding Protection: Integrated\\n\\n\\n\\nPV String Input Reverse Polarity Protection: Integrated\\n\\n\\n\\nInsulation Resistor Detection: Integrated\\n\\n\\n\\nResidual Current Monitoring Unit: Integrated\\n\\n\\n\\nOutput over Current Protection: Integrated\\n\\n\\n\\nOutput Shorted Protection: Integrated\\n\\n\\n\\nOutput over Voltage Protection: Integrated\\n\\n\\n\\n\\nCertifications and Standards\\n\\n\\n\\n\\nGrid Regulation: UL1741, IEEE1547, RULE21, VDE0126, AS4777, NRS2017, G98, G99, IEC61683, IEC62116, IE61727\\n\\n\\n\\nSafety Regulation: IEC62109-1, IEC62109-2\\n\\n\\n\\nEMC: EN61000-6-1, EN61000-6-3, FCC 15 class B\\n\\n\\n\\n\\nGeneral Data\\n\\n\\n\\n\\nOperating Temperature Range ( C ): -25—60 C , &gt;45 C Derating\\n\\n\\n\\nCooling: Fan\\n\\n\\n\\nNoise (dB): &lt;30\\n\\n\\n\\nCommunication with BMS: RS485; CAN\\n\\n\\n\\nWeight (kg): 32\\n\\n\\n\\nSize (mm): 680 X 4200 X 233mm\\n\\n\\n\\nProtection Degree: IP65\\n\\n\\n\\nInstallation Style: Wall-mounted\\n\\n\\n\\nWarranty: 5 years",
+    "short_description": "Product Highlights\\n\\nIncludes:  Wi-Fi Dongle + BMS Communication Cable\\nLCD Touch screen and buttons, easy operation.\\nCompatible with lithium-ion battery and lead acid battery.\\nWeb browser and mobile App monitoring supported.\\nPV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+    "categories": [
+      {
+        "name": "Inverters"
+      },
+      {
+        "name": "Hybrid Inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "8kw"
+      },
+      {
+        "name": "Hybrid"
+      },
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Solar Inverter"
+      },
+      {
+        "name": "Sunsynk"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/8kwMain.png",
+        "alt": "Deye 8kw inverter"
+      }
+    ],
+    "sku": "SUN-8K-SG01LP1-EU-1",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Deye"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Includes:  Wi-Fi Dongle + BMS Communication Cable",
+          "LCD Touch screen and buttons, easy operation.",
+          "Compatible with lithium-ion battery and lead acid battery.",
+          "Web browser and mobile App monitoring supported.",
+          "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "Includes:  Wi-Fi Dongle + BMS Communication Cable",
+            "LCD Touch screen and buttons, easy operation.",
+            "Compatible with lithium-ion battery and lead acid battery.",
+            "Web browser and mobile App monitoring supported.",
+            "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+          ],
+          "additional": {
+            "Dimensions": "92 × 64 × 47 cm",
+            "Weight": "40 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "certificates": [
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/Compliance-of-PV-Inverter-1.pdf",
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/COC-of-Deye-Inverter-1.pdf"
+          ],
+          "manual": "http://www.pvpower.co.za/wp-content/uploads/2022/09/DeyeInverter5_8_1PManual.pdf",
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Deye-8kw-8kw-data-sheet.pdf"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "92 × 64 × 47 cm",
+          "Weight": "40 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 24990
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "2 in stock"
+      }
+    ]
+  },
+  {
+    "name": "Deye 5kw Hybrid Inverter (SUN-5K-SG01LP1-EU)",
+    "type": "simple",
+    "regular_price": "13990",
+    "sale_price": "",
+    "description": "Deye 5kw Hybrid Inverter, is suitable for residential and light commercial use, maximizing self-consumption rate of solar energy and increasing your energy impendence.  \\n\\n\\n\\nDuring the day, the PV system generates electricity which will be provided to the loads initially. Then, the excess energy will charge the battery via&nbsp;SUN 3/6K-SG04. \\n\\n\\n\\nFinally, the stored energy can be released when the loads require it. The battery can also be charged by the diesel generator to ensure uninterrupted supply in the event of grid blackout.\\n\\n\\n\\nIt equipped with RS485/CAN port for battery communication.\\n\\n\\n\\nThe New SUN-3K-SG04LP1 hybrid inverter adopts 24V battery, greatly improving your system safety.\\n\\n\\n\\nDescription\\n\\n\\n\\nSmart Monitoring Platform\\n\\n\\n\\nThanks to the smart monitoring platform, Deye full series inverter products support remotely shutdown immediately when accident occurs.Setting parameters and FW update remotely, which makes PV plant O&amp;M easier.\\n\\n\\n\\nIncludes:&nbsp; Wi-Fi Dongle + BMS Communication Cable",
+    "short_description": "Deye 5kw Hybrid Inverter, is suitable for residential and light commercial use, maximizing self-consumption rate of solar energy and increasing your energy impendence.",
+    "categories": [
+      {
+        "name": "inverter"
+      },
+      {
+        "name": "HYBRID INVERTER"
+      }
+    ],
+    "tags": [
+      {
+        "name": "5kw"
+      },
+      {
+        "name": "Deye"
+      },
+      {
+        "name": "Hybrid"
+      },
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Solar Inverter"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Deye-5kw-1.jpg",
+        "alt": "Deye 5kw"
+      }
+    ],
+    "sku": "SUN-5K-G01LP1-EU",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Deye"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Package Includes WIFI Dongle & Current Transformer",
+          "Max Efficiency of 97.6%",
+          "2 MPPT (Maximum Power Point Tracker)",
+          "RS485 / CAN Communication Ports",
+          "Load or Home power first with Zero Export to the Grid"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "Package Includes WIFI Dongle & Current Transformer",
+            "Max Efficiency of 97.6%",
+            "2 MPPT (Maximum Power Point Tracker)",
+            "RS485 / CAN Communication Ports",
+            "Load or Home power first with Zero Export to the Grid"
+          ],
+          "additional": {
+            "Weight": "25 kg",
+            "Dimensions": "60 × 35 × 25 cm"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/10/datasheet_sun-3.6-6k-sg03lp1_240802_en.pdf",
+          "certificates": [
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/Compliance-of-PV-Inverter-1.pdf",
+            "http://www.pvpower.co.za/wp-content/uploads/2022/09/COC-of-Deye-Inverter-1.pdf"
+          ],
+          "manual": "http://www.pvpower.co.za/wp-content/uploads/2022/09/DeyeInverter5_8_1PManual.pdf"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Weight": "25 kg",
+          "Dimensions": "60 × 35 × 25 cm"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 13990
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "3 in stock (can be backordered)"
+      }
+    ]
+  }
+]

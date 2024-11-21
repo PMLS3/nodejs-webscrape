@@ -1,0 +1,692 @@
+[
+  {
+    "documents": {
+      "datasheet": "/uploads/Sunsynk_Hybrid_Inverter_3.6_5kW_Datasheet_v14_English.pdf",
+      "manual": null,
+      "certificates": []
+    },
+    "price": {
+      "regular": 16050,
+      "current": 18457.5
+    },
+    "images": [
+      {
+        "alt": "Sunsynk 3.6kW 1P Hybrid PV inverter 48v C/W Wifi Dongle IP65",
+        "src": "https://herholdts.co.za/uploads/ss-1p-03k-h-lv-1.jpg"
+      },
+      {
+        "src": "/uploads/SS-1P-03K-H-LV.jpg",
+        "alt": "Sunsynk 3.6kW 1P Hybrid PV inverter 48v C/W Wifi Dongle IP65"
+      }
+    ],
+    "sku": "SS-1P-03K-H-LV",
+    "name": "Sunsynk 3.6kW 1P Hybrid PV inverter 48v C/W Wifi Dongle IP65",
+    "stock_status": "In stock",
+    "brand": "Sunsynk",
+    "tags": [
+      "Hybrid Inverter",
+      "Solar Inverter",
+      "PV Inverter",
+      "Wifi Enabled",
+      "IP65",
+      "48V System",
+      "3.6kW Inverter"
+    ],
+    "description": "The Sunsynk 3kW 1P Hybrid PV Inverter is ideal for powering TVs, decoders, computer equipment and appliances that consume more energy such as fridges, microwaves, washing machines, dishwashers, kettles and toasters.\\n\\nReduce your electricity costs by managing power from various energy sources, including solar panels, batteries, the national electricity grid, a generator or even a wind turbine – all with a Sunsynk\\xa0Hybrid Inverter. It’s ideal for home and business and scalable so that you can expand it as required.\\n\\n\\xa0\\n\\nInstallation Options<br>\\n\\xa0\\n\\nStart with UPS backup power (with batteries and inverter only) and add panels later.\\nStart with Grid-tied (with panels and inverter only) and add batteries later.\\nInstall a complete Hybrid system including batteries and solar panels which can be expanded, or...\\nGo totally off the grid with a completely independent system",
+    "specifications": {
+      "features": [],
+      "additional": {},
+      "technical": [
+        "SUNSYNK-3.6K-SG01LP1 / SUNSYNK-3.6K-SG01LP3",
+        "Hybrid Inverter",
+        "IP65",
+        "-45ºC ~ 60ºC (&gt;45ºC derating)",
+        "Class I",
+        "48Vd.c (40Vd.c ~ 60Vd.c)",
+        "90Ad.c (max.)",
+        "L/N/PE 220/230Va.c",
+        "50/60Hz",
+        "16.4Aa.c",
+        "18Aa.c (max.)",
+        "3960W",
+        "3960VA",
+        "370Vd.c (125Vd.c ~ 500Vd.c)",
+        "150Vd.c ~ 425Vd.c",
+        "13Ad.c + 13Ad.c",
+        "4680W",
+        "17Ad.c + 17Ad.c",
+        "L/N/PE 220/230Va.c",
+        "50/60Hz",
+        "16.4Aa.c",
+        "18Aa.c (max.)",
+        "3960W",
+        "3960VA",
+        "0.95 leading to 0.95 lagging",
+        "60Aa.c",
+        "40Vd.c ~ 60Vd.c",
+        "90Ad.c (max.)",
+        "3600W",
+        "220/230Va.c",
+        "50/60Hz",
+        "16.4Aa.c",
+        "3960W",
+        "35Aa.c",
+        "7200W (10 seconds)",
+        "40Vd.c ~ 60Vd.c",
+        "90A (max.)",
+        "VDE-AR-N 4105:1028-11; DINVDE V 0124-100:2020-06; IEC/EN62109-1/2:2010; IEC/EN62109-1/2:2011"
+      ]
+    },
+    "short_description": "Sunsynk 3.6kW 1P Hybrid PV inverter 48v C/W Wifi Dongle IP65",
+    "categories": [
+      "Renewable Solutions",
+      "Residential Products",
+      "Inverters",
+      "Sunsynk"
+    ]
+  },
+  {
+    "specifications": {
+      "features": [],
+      "additional": {},
+      "technical": []
+    },
+    "short_description": "Sunsynk 10kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "images": [
+      {
+        "src": "https://herholdts.co.za/uploads/108760_th1_th1.jpg",
+        "alt": "Sunsynk 10kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65"
+      }
+    ],
+    "categories": [
+      "Renewable Solutions",
+      "Residential Products",
+      "Inverters",
+      "Sunsynk"
+    ],
+    "stock_status": "in stock",
+    "documents": {
+      "manual": null,
+      "datasheet": "/uploads/Sunsynk_SinglePhase_10-12kW_Datasheet_v3_English.pdf",
+      "certificates": []
+    },
+    "sku": "SS-1P-10K-H-LV",
+    "brand": "Sunsynk",
+    "tags": [
+      "Hybrid",
+      "PV Inverter",
+      "Wifi Dongle",
+      "IP65"
+    ],
+    "name": "Sunsynk 10kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "description": "Sunsynk 10kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "price": {
+      "regular": null,
+      "current": 36627.5,
+      "sale": 31850
+    }
+  },
+  {
+    "stock_status": "In stock",
+    "images": [
+      {
+        "alt": "Sunsynk 12kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+        "src": "https://herholdts.co.za/uploads/108761_th1_th1.jpg"
+      }
+    ],
+    "short_description": "Sunsynk 12kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "sku": "SS-1P-12K-H-LV",
+    "name": "Sunsynk 12kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "price": {
+      "current": 43067.5,
+      "regular": 37450
+    },
+    "tags": [
+      "Hybrid",
+      "PV Inverter",
+      "Wifi Dongle",
+      "IP65"
+    ],
+    "specifications": {
+      "features": [],
+      "technical": [],
+      "additional": {}
+    },
+    "documents": {
+      "certificates": [],
+      "datasheet": "/uploads/Sunsynk_SinglePhase_10-12kW_Datasheet_v3_English-1.pdf",
+      "manual": null
+    },
+    "brand": "Sunsynk",
+    "description": "Sunsynk 12kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "categories": [
+      "Renewable Solutions",
+      "Residential Products",
+      "Inverters",
+      "Sunsynk"
+    ]
+  },
+  {
+    "categories": [
+      "Renewable Solutions",
+      "Residential Products",
+      "Inverters",
+      "Sunsynk"
+    ],
+    "tags": [
+      "hybrid",
+      "inverter",
+      "solar",
+      "wifi",
+      "off-grid",
+      "ups",
+      "lithium-ion",
+      "lead-acid"
+    ],
+    "images": [
+      {
+        "alt": "Sunsynk 16kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+        "src": "https://herholdts.co.za/uploads/104189-th.jpg"
+      }
+    ],
+    "name": "Sunsynk 16kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "description": "We have taken the Sunsynk Hybrid Inverter to the highest level. Our new Sunsynk MAX is the most powerful low-voltage inverter in the world, achieving a maximum output power of 16kW and battery charge current of 275A.\\n\\nThis power management tool allows the user to hit those ‘parity’ targets by managing power-flow from multiple sources such as solar, mains power (grid) and generators, and then effectively storing and releasing power as and when utilities require.\\n\\n<h3><br>\\nInteractive<br>\\n&nbsp;</h3>\\n\\n<ul>\\n\\t<li>Supporting Wi-Fi or GSM monitoring</li>\\n\\t<li>Visual power flow screen</li>\\n\\t<li>Parallel / multi invert function grid-tied and off-grid</li>\\n</ul>\\n\\n<h3><br>\\nCompatible<br>\\n&nbsp;</h3>\\n\\n<ul>\\n\\t<li>Compatible with main electrical grid voltages or power generators</li>\\n\\t<li>Self-consumption and feed-in to the grid</li>\\n\\t<li>Auto restart while AC is recovering</li>\\n\\t<li>Auto earth bond feature (Via a relay)</li>\\n</ul>\\n\\n<h3><br>\\nConfigurable<br>\\n&nbsp;</h3>\\n\\n<ul>\\n\\t<li>Fully programmable controller</li>\\n\\t<li>Programmable supply priority for battery or grid</li>\\n\\t<li>Programmable multiple operation modes: on-grid/off-grid &amp; UPS</li>\\n\\t<li>Configurable battery charging - current/voltage based on the application</li>\\n\\t<li>Configurable AC / solar / generator charger priority by LCD setting</li>\\n</ul>\\n\\n<h3><br>\\nSecure<br>\\n&nbsp;</h3>\\n\\n<ul>\\n\\t<li>Overload/over-temperature/short-circuit protection</li>\\n\\t<li>Smart battery charger design for optimized battery protection</li>\\n\\t<li>Limiting function installed to prevent excess power overflow to grid<br>\\n\\t&nbsp;</li>\\n</ul>\\n\\t",
+    "brand": "Sunsynk",
+    "stock_status": "in stock",
+    "documents": {
+      "datasheet": "/uploads/Sunsynk_Max_Datasheet_v9_English.pdf",
+      "manual": null,
+      "certificates": []
+    },
+    "short_description": "Sunsynk 16kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "price": {
+      "regular": 46260,
+      "current": 53199
+    },
+    "sku": "SS-1P-16K-H-LV",
+    "specifications": {
+      "technical": [
+        "Battery Type: Lead-acid or Lithium-ion",
+        "Battery Voltage Range: 43~60V",
+        "Max. Charging Current: 275A",
+        "Max. Discharging Current: 300A",
+        "Charging Curve: 3 Stages/Equalisation",
+        "External Temperature Sensor: Yes",
+        "Charging Strategy for Li-Ion Battery: Self-Adaptation to BMS",
+        "Max. DC Input Power: 18000W",
+        "Max PV Input Voltage: 450V",
+        "MPPT Range: 250V~450V",
+        "Start-up Voltage: 150V",
+        "PV Input Current: 22A + 22A",
+        "Max. PV Isc: 26A + 26A",
+        "No. of MPPT / Strings Per MPPT: 3 / 2",
+        "Max. On-Grid AC Power: 16000W",
+        "Max. Off-Grid AC Power: 13000W",
+        "Peak Power (off-grid): 2 times of rated power, 10 S",
+        "AC Output Rated Current: 65A",
+        "Max AC Current: 70A",
+        "Max Continuous AC Passthrough: 200A",
+        "Frequency Range: 45Hz ~55Hz",
+        "Voltage Range: 211V ~ 264V",
+        "Grid Type: Single-Phase",
+        "Current Harmonic Distortion: THD<3%(Linear load<1.5%)",
+        "Max. Efficiency: 97.60%",
+        "Euro Efficiency: 97.00%",
+        "MPPT Efficiency: 99.90%",
+        "Integrated: PV Input Lightning Protection, Anti-islanding Protection, PV String Input Reverse Polarity Protection, Insulation Resistor Detection, Residual Current Monitoring Unit, Output Over Current Protection, Surge protection",
+        "Grid Regulation: VDE 0126, AS4777, NRS2017, G98, G99, IEC61683, IEC62116, IEC61727, RD1699:2011, XP C15-712-3:2019-05",
+        "Safety EMC / Standard: IEC62109-1, IEC62109-2, EN61000-6-1, EN61000-6-3",
+        "Operating Temperature Range: -25~55°C",
+        "Cooling: Fan",
+        "Noise: <30dB",
+        "Communication with BMS: RS485; CAN",
+        "Weight: 34.5kg",
+        "Size: 422W - 702H - 281D mm",
+        "Protection Degree: IP65",
+        "Installation Style: Wall-mounted",
+        "Warranty: 5 years"
+      ],
+      "additional": {},
+      "features": [
+        "Supporting Wi-Fi or GSM monitoring",
+        "Visual power flow screen",
+        "Parallel / multi invert function grid-tied and off-grid",
+        "Compatible with main electrical grid voltages or power generators",
+        "Self-consumption and feed-in to the grid",
+        "Auto restart while AC is recovering",
+        "Auto earth bond feature (Via a relay)",
+        "Fully programmable controller",
+        "Programmable supply priority for battery or grid",
+        "Programmable multiple operation modes: on-grid/off-grid & UPS",
+        "Configurable battery charging - current/voltage based on the application",
+        "Configurable AC / solar / generator charger priority by LCD setting",
+        "Overload/over-temperature/short-circuit protection",
+        "Smart battery charger design for optimized battery protection",
+        "Limiting function installed to prevent excess power overflow to grid"
+      ]
+    }
+  },
+  {
+    "tags": [
+      "Hybrid Inverter",
+      "Solar Inverter",
+      "Off-Grid Inverter",
+      "Battery Inverter",
+      "Wifi Enabled",
+      "MPPT",
+      "Pure Sine Wave",
+      "IP65"
+    ],
+    "documents": {
+      "certificates": [],
+      "datasheet": "/uploads/Sunsynk-5.5kW.pdf",
+      "manual": "/uploads/Sunsynk-5.5kW-User-manual.pdf"
+    },
+    "brand": "Sunsynk",
+    "images": [
+      {
+        "alt": "Sunsynk 5kW 1P Hybrid PV inverter 48v C/W Wifi Dongle IP65",
+        "src": "https://herholdts.co.za/uploads/91746-th.jpg"
+      },
+      {
+        "src": "/uploads/91746.jpg",
+        "alt": "Sunsynk 5kW 1P Hybrid PV inverter 48v C/W Wifi Dongle IP65"
+      }
+    ],
+    "specifications": {
+      "technical": [
+        "Lead-acid or Li-Ion",
+        "40V-60V",
+        "125 Amps",
+        "125 Amps",
+        "3-Stage / Equalisation",
+        "Optional",
+        "Self-adaption to BMS",
+        "6000W",
+        "500V",
+        "125-425V",
+        "150V",
+        "11A + 11A",
+        "2",
+        "1 + 1",
+        "20.5Kg",
+        "580mm x 330mm x 217mm",
+        "5000W",
+        "10,000W (2xRated)",
+        "25 Amps",
+        "50 / 60 Hz",
+        "<3%(Linear Loading<1.5%)",
+        "97.6%",
+        "97%",
+        "99.9%",
+        "PV Input lighting protection",
+        "PV reverse polarity protection",
+        "Residual Current Monitoring Unit",
+        "Output short circuit protection",
+        "-",
+        "-25â„ƒ to 60â„ƒ",
+        "<30 db",
+        "RS485: CAN"
+      ],
+      "additional": {},
+      "features": [
+        "220V single phase, pure sine wave inverter",
+        "Self consumption & feed-in to the grid",
+        "Auto re-start while AC is recovering",
+        "Programmable supply priority for battery or grid",
+        "Programmable multiple operation modes; on-grid / off-grid & UPS",
+        "Configurable battery charging – current / voltage based on applications by LCD setting",
+        "Configurable AC / solar / generator charger priority by LCD setting",
+        "Compatible with mains voltage or generator power",
+        "Overload / over-temperature / short-circuit protection",
+        "Smart battery charger designer optimised battery protection",
+        "Limit-function installed to prevent excess power overflow to grid",
+        "Supporting Wi-Fi monitoring and built-in 2 strings of MPP trackers",
+        "Smart settable 3-stage MPPT charging for optimised battery performance",
+        "Time of use function",
+        "Smart load function"
+      ]
+    },
+    "price": {
+      "regular": 14960,
+      "current": 17204
+    },
+    "sku": "SS-1P-05K-H-LV",
+    "description": "Reduce your electricity costs by managing power from various energy sources, including solar panels, batteries, the national electricity grid, a generator or even a wind turbine – all with a Sunsynk Hybrid &nbsp;Inverter. It’s ideal for home and business and scalable so that you can expand it as required.\\n\\n<br>\\nThe Sunsynk Hybrid&nbsp;Inverter has many uses and is recommended for the following applications\\n\\n<ul>\\n\\t<li>Marine (vessel power management)</li>\\n\\t<li>Power shedding (home / office / factory)</li>\\n\\t<li>UPS (fuel saving systems)</li>\\n\\t<li>Remote locations with solar and wind generators</li>\\n\\t<li>Building sites</li>\\n\\t<li>Military locations</li>\\n\\t<li>Telecommunication sites</li>\\n</ul>\\n\\n&nbsp;\\n\\n<h3>Features</h3>\\n\\n<ul>\\n\\t<li>220V single phase, pure sine wave inverter</li>\\n\\t<li>Self consumption &amp; feed-in to the grid</li>\\n\\t<li>Auto re-start while AC is recovering</li>\\n\\t<li>Programmable supply priority for battery or grid</li>\\n\\t<li>Programmable multiple operation modes; on-grid / off-grid &amp; UPS</li>\\n\\t<li>Configurable battery charging – current / voltage based on applications by LCD setting</li>\\n\\t<li>Configurable AC / solar / generator charger priority by LCD setting</li>\\n\\t<li>Compatible with mains voltage or generator power</li>\\n\\t<li>Overload / over-temperature / short-circuit protection</li>\\n\\t<li>Smart battery charger designer optimised battery protection</li>\\n\\t<li>Limit-function installed to prevent excess power overflow to grid</li>\\n\\t<li>Supporting Wi-Fi monitoring and built-in 2 strings of MPP trackers</li>\\n\\t<li>Smart settable 3-stage MPPT charging for optimised battery performance</li>\\n\\t<li>Time of use function</li>\\n\\t<li>Smart load function</li>\\n</ul>\\n\\n&nbsp;\\n\\n<p>Ideal for powering TVs, decoders, computer equipment and appliances that consume more energy such as fridges, microwaves, washing machines, dishwashers, kettles and toasters.</p>",
+    "stock_status": "in stock",
+    "short_description": "Sunsynk 5kW 1P Hybrid PV inverter 48v C/W Wifi Dongle IP65",
+    "name": "Sunsynk 5kW 1P Hybrid PV inverter 48v C/W Wifi Dongle IP65",
+    "categories": [
+      "Renewable Solutions",
+      "Residential Products",
+      "Inverters",
+      "Sunsynk"
+    ]
+  },
+  {
+    "short_description": "Sunsynk 8kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "images": [
+      {
+        "alt": "Sunsynk 8kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+        "src": "https://herholdts.co.za/uploads/95579-th.jpg"
+      },
+      {
+        "alt": "Sunsynk 8kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+        "src": "/uploads/95579.jpg"
+      }
+    ],
+    "price": {
+      "current": 28796,
+      "regular": 25040
+    },
+    "stock_status": "in stock",
+    "name": "Sunsynk 8kW 1P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "description": "The Inverter has many uses and is recommended for the following applications\\n\\n<ul>\\n\\t<li>Marine (vessel power management)</li>\\n\\t<li>Power shedding (home / office / factory)</li>\\n\\t<li>UPS (fuel saving systems)</li>\\n\\t<li>Remote locations with solar and wind generators</li>\\n\\t<li>Building sites</li>\\n\\t<li>Military locations</li>\\n\\t<li>Telecommunication sites</li>\\n</ul>\\n\\n<p>&nbsp;</p>\\n\\n<h3>Features</h3>\\n\\n<ul>\\n\\t<li>220V single phase, pure sine wave inverter</li>\\n\\t<li>Self consumption &amp; feed-in to the grid</li>\\n\\t<li>Auto re-start while AC is recovering</li>\\n\\t<li>Programmable supply priority for battery or grid</li>\\n\\t<li>Programmable multiple operation modes; on-grid / off-grid &amp; UPS</li>\\n\\t<li>Configurable battery charging – current / voltage based on applications by LCD setting</li>\\n\\t<li>Configurable AC / solar / generator charger priority by LCD setting</li>\\n\\t<li>Compatible with mains voltage or generator power</li>\\n\\t<li>Overload / over-temperature / short-circuit protection</li>\\n\\t<li>Smart battery charger designer optimised battery protection</li>\\n\\t<li>Limit-function installed to prevent excess power overflow to grid</li>\\n\\t<li>Supporting Wi-Fi monitoring and built-in 2 strings of MPP trackers</li>\\n\\t<li>Smart settable 3-stage MPPT charging for optimised battery performance</li>\\n\\t<li>Time of use function</li>\\n\\t<li>Smart load function</li>\\n</ul>\\n\\n<p>&nbsp;</p>",
+    "documents": {
+      "certificates": [],
+      "manual": "/uploads/sunsynk-5.5kw-installer-manual-1.pdf",
+      "datasheet": "/uploads/Sunsynk_Hybrid_Inverter_8kW_Datasheet.pdf"
+    },
+    "brand": "Sunsynk",
+    "specifications": {
+      "technical": [
+        "Battery Type: Lead-Acid or Li-lon",
+        "Battery Voltage Range (V): 40V-60V",
+        "Max.Charging Current (A): 190A",
+        "Max.Discharging Current (A): 190A",
+        "Charging Curve: 3 Stages/Equalization",
+        "External Temperature Sensor: Optional",
+        "Charging Strategy for Li-lon Battery: Self-Adaption to BMS",
+        "Max.DC Input Power (W): 8800W",
+        "Max.DC Input Voltage (V): 500V",
+        "MPPT Range (V): 125V-425V",
+        "Start-up Voltage (V): 150V",
+        "Max. lnput Current (A): 18A+9A",
+        "No. of MPPT Trackers: 2",
+        "No. of Strings Per MPPT Tracker: 2/1",
+        "Rated AC Output and UPS Power (W): 8000W",
+        "Peak Power (off grid): 2 Times Rated Power for 10 Seconds",
+        "Max. AC Current (A): 33A",
+        "Output Frequency and Voltage: 50, 230 Vac (Single Phase)",
+        "Grid Type: Single Phase",
+        "Current Harmonic Distortion: THD&lt;3% (Linear Load&lt;1.5%)",
+        "Max.Efficiency: 97.60%",
+        "Euro Efficiency: 97.00%",
+        "MPPT Efficiency: 99.90%",
+        "PV Input Lightning Protection: Integrated",
+        "Anti-islanding Protection: Integrated",
+        "PV String Input Reverse Polarity Protection: Integrated",
+        "Insulation Resistor Detection: Integrated",
+        "Residual Current Monitoring Unit: Integrated",
+        "Output Over Current Protection: Integrated",
+        "Output Shorted Protection: Integrated",
+        "Output Over Voltage Protection: Integrated",
+        "Grid Regulation: UL1741 ,IEEE1547, VDE-ARN 4105, VDE0126",
+        "Safety Regulation: IEC62109-1&amp;2, IEC62040-1",
+        "EMC: EN61000-6-1, EN61000-6-3, FCC 15 class B",
+        "South African Certifications: NRS097-2-1: 2017 Edition 2",
+        "Operating Temperature Range (°C): -25~60°C, &gt;45 Derating",
+        "Cooling: Fan",
+        "Noise (dB): &lt;30",
+        "Communication with BMS: RS485, CAN",
+        "Weight (kg): 32KG",
+        "Size (Length*Width*Height mm): 680*420*233mm",
+        "Protection Degree: IP65",
+        "Installation Style: Wall-Mounted",
+        "Warranty: 5 Years"
+      ],
+      "additional": {},
+      "features": [
+        "220V single phase, pure sine wave inverter",
+        "Self consumption & feed-in to the grid",
+        "Auto re-start while AC is recovering",
+        "Programmable supply priority for battery or grid",
+        "Programmable multiple operation modes; on-grid / off-grid & UPS",
+        "Configurable battery charging – current / voltage based on applications by LCD setting",
+        "Configurable AC / solar / generator charger priority by LCD setting",
+        "Compatible with mains voltage or generator power",
+        "Overload / over-temperature / short-circuit protection",
+        "Smart battery charger designer optimised battery protection",
+        "Limit-function installed to prevent excess power overflow to grid",
+        "Supporting Wi-Fi monitoring and built-in 2 strings of MPP trackers",
+        "Smart settable 3-stage MPPT charging for optimised battery performance",
+        "Time of use function",
+        "Smart load function"
+      ]
+    },
+    "tags": [
+      "Solar Inverter",
+      "Hybrid Inverter",
+      "Off-Grid Inverter",
+      "Grid-Tie Inverter",
+      "Battery Charger",
+      "MPPT",
+      "Wifi Enabled",
+      "IP65",
+      "Remote Monitoring"
+    ],
+    "sku": "SS-1P-08K-H-LV",
+    "categories": [
+      "Renewable Solutions",
+      "Residential Products",
+      "Inverters",
+      "Sunsynk"
+    ]
+  },
+  {
+    "images": [
+      {
+        "alt": "Sunsynk Powerlynk XL 5.5kW Inverter / 5.22kWh Battery Pack",
+        "src": "https://herholdts.co.za/uploads/109537_th1_th1.jpg"
+      }
+    ],
+    "tags": [
+      "Solar Energy",
+      "Inverter",
+      "Battery",
+      "Residential",
+      "Sunsynk Powerlynk",
+      "Plug and Play",
+      "Energy Storage"
+    ],
+    "sku": "SS-POW-XL",
+    "documents": {
+      "datasheet": "https://herholdts.co.za/uploads/Powerlynk XL.pdf",
+      "manual": null,
+      "certificates": []
+    },
+    "short_description": "Sunsynk Powerlynk XL 5.5kW Inverter / 5.22kWh Battery Pack",
+    "specifications": {
+      "additional": {},
+      "technical": [
+        "5.5kW Inverter",
+        "5.22kWh Battery Pack"
+      ],
+      "features": [
+        "Sunsynk Connect platform enables full control, visibility, and access to the system",
+        "Plug and play system",
+        "Pre-set factory settings",
+        "In-built connection points give access to the Load, Grid, CT and Wi-Fi data logger ports"
+      ]
+    },
+    "categories": [
+      "Inverter",
+      "Battery"
+    ],
+    "description": "Introducing the Powerlynk S, Powerlynk X &amp; Powerlynk XL by Sunsynk Mobile.  Masterfully crafted to simplify and speed up installation, allowing for more efficient planning and implementation of large volume roll outs in new house builds or retrofits.  Our dedicated Sunsynk Connect platform enables full control, visibility, and access to the system, making site-specific customisation easy.  The Powerlynk comes complete with everything you need to install this cutting-edge storage solution. In-built connection points give access to the Load, Grid, CT and Wi-Fi data logger ports, making it a true \"plug and play\" system  From the pre-set factory settings to the in-built connection ports, the Powerlynk has been designed with convenience and hassle-free installation in mind.",
+    "brand": "Sunsynk",
+    "name": "Sunsynk Powerlynk XL 5.5kW Inverter / 5.22kWh Battery Pack",
+    "stock_status": "NO STOCK",
+    "price": {
+      "current": 37662.5,
+      "regular": 32750
+    }
+  },
+  {
+    "name": "Sunsynk 12kW 3P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "specifications": {
+      "additional": {
+        "Battery Current": "240A (max.)",
+        "Max. PV Input Power": "15600W",
+        "AC Output Rated Power": "12000W",
+        "AC Input Frequency": "50/60Hz",
+        "AC Output Rated Current": "18A",
+        "Battery Discharge Voltage": "40V~60V",
+        "Max. PV Isc": "34A + 17A",
+        "Max. AC Input Power": "13200W",
+        "AC Input Voltage": "380/400V",
+        "Battery Discharge Current": "240A (max.)",
+        "Battery Voltage": "48V (40V~60V)",
+        "Ambient Temperature": "-45ºC ~ 60ºC (&gt;45ºC derating)",
+        "AC Input Rated Current": "18A",
+        "Max. Continuous AC": "48A",
+        "MPPT Input Voltage": "200 V ~ 625V",
+        "Peak Output Power": "24000W (10 seconds)",
+        "Compliance": "IEC61727, IEC62116, IEC600068, IEC61683, IEC/EN62109-1/2",
+        "AC Output Frequency": "50/60Hz",
+        "PV Input Current": "26A + 13A",
+        "AC Output Voltage": "380/400V",
+        "Max. AC Isc": "75A",
+        "Max. AC Output Current": "27A (max.)",
+        "Max. AC Output Power": "13200W",
+        "Enclosure": "IP65",
+        "Max. Discharge Current": "240A (max.)",
+        "Max. AC Input Current": "27 (max.)",
+        "Battery Discharge Power": "12000W",
+        "PV Input Voltage": "550V (150V~800V)",
+        "Product Type": "Hybrid Inverter",
+        "AC Output Power Factor": "0.8 leading to 0.8 lagging",
+        "Model": "SUNSYNK-12K-SG04LP3",
+        "Protection Level": "Class I"
+      },
+      "features": [
+        "Easy and simple to understand LCD display",
+        "Supporting Wi-Fi or GSM monitoring",
+        "Visual power flow screen",
+        "Built-in 2 strings for 1 MPP tracker and 1 string for 1 MPP tracker",
+        "Smart settable 3-stage MPPT charging for optimised battery performance",
+        "Auxiliary load function",
+        "Up to 4 inverters in parallel",
+        "Compatible with mains electrical grid voltages or power generators",
+        "Compatible with wind turbines",
+        "230V/400V Three-phase Pure Sinewave Inverter",
+        "Self-consumption and feed-in to the grid",
+        "Auto restart while AC is recovering",
+        "Maximum charging/discharging current of 190A (8kW), 210A (10kW), and 240A (12kW)",
+        "DC and AC couple to retrofit existing solar system",
+        "Compatible with a 48V low-voltage battery",
+        "Fully programmable controller",
+        "Programmable supply priority for battery or grid",
+        "Programmable multiple operation modes: on-grid/off-grid &amp; UPS",
+        "Configurable battery charging – current/voltage based on applications by LCD setting",
+        "Configurable AC / solar / generator charger priority by LCD setting",
+        "6 time periods for battery charging/discharging",
+        "Overload/over-temperature/short-circuit protection",
+        "Smart battery charger design for optimised battery protection",
+        "Limiting function installed to prevent excess power overflow to grid",
+        "Isolation transformer design"
+      ],
+      "technical": [
+        "Marine (vessel power management)",
+        "Power shedding (home/office/factory)",
+        "UPS (fuel-saving systems)",
+        "Remote locations with solar and wind generators",
+        "Building sites",
+        "Telecommunication"
+      ]
+    },
+    "images": [
+      {
+        "src": "https://herholdts.co.za/uploads/98662-th.jpg",
+        "alt": "Sunsynk 12kW 3P Hybrid PV Inverter 48v C/W Wifi Dongle IP65"
+      },
+      {
+        "src": "/uploads/98662.jpg",
+        "alt": "Sunsynk 12kW 3P Hybrid PV Inverter 48v C/W Wifi Dongle IP65"
+      }
+    ],
+    "short_description": "Sunsynk 12kW 3P Hybrid PV Inverter 48v C/W Wifi Dongle IP65",
+    "tags": [
+      "hybrid",
+      "inverter",
+      "solar",
+      "three-phase",
+      "wifi",
+      "off-grid",
+      "on-grid",
+      "ups",
+      "battery"
+    ],
+    "categories": [
+      "Renewable Solutions",
+      "Residential Products",
+      "Inverters",
+      "Sunsynk"
+    ],
+    "price": {
+      "regular": 37410,
+      "current": 43021.5
+    },
+    "stock_status": "in stock",
+    "sku": "SS-3P-12K-H-LV",
+    "brand": "Sunsynk",
+    "description": "Sunsynk 12kW 3P Hybrid PV Inverter 48v C/W Wifi Dongle IP65InteractiveEasy and simple to understand LCD displaySupporting Wi-Fi or GSM monitoringVisual power flow screenBuilt-in 2 strings for 1 MPP tracker and 1 string for 1 MPP trackerSmart settable 3-stage MPPT charging for optimised battery performanceAuxiliary load functionUp to 4 inverters in parallelCompatibleCompatible with mains electrical grid voltages or power generatorsCompatible with wind turbines230V/400V Three-phase Pure Sinewave InverterSelf-consumption and feed-in to the gridAuto restart while AC is recoveringMaximum charging/discharging current of 190A (8kW), 210A (10kW), and 240A (12kW)DC and AC couple to retrofit existing solar systemCompatible with a 48V low-voltage batteryConfigurableFully programmable controllerProgrammable supply priority for battery or gridProgrammable multiple operation modes: on-grid/off-grid &amp; UPSConfigurable battery charging – current/voltage based on applications by LCD settingConfigurable AC / solar / generator charger priority by LCD setting6 time periods for battery charging/dischargingSecureOverload/over-temperature/short-circuit protectionSmart battery charger design for optimised battery protectionLimiting function installed to prevent excess power overflow to gridIsolation transformer designApplicationsMarine (vessel power management)Power shedding (home/office/factory)UPS (fuel-saving systems)Remote locations with solar and wind generatorsBuilding sitesTelecommunication",
+    "documents": {
+      "datasheet": "/uploads/Three-Phase Hybrid Inverter - Datasheet v7.pdf",
+      "certificates": [],
+      "manual": "/uploads/sunsynk-three-phase-inverter-user-manual-1.pdf"
+    }
+  },
+  {
+    "price": {
+      "current": 31590.5,
+      "regular": 27470
+    },
+    "short_description": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack",
+    "tags": [
+      "Solar Inverter",
+      "Battery Storage",
+      "Residential Inverter",
+      "Hybrid Inverter",
+      "Sunsynk Powerlynk X",
+      "Plug and Play"
+    ],
+    "description": "Simple, but elegant. Introducing the Powerlynk X & Powerlynk S by Sunsynk Mobile. Masterfully crafted to simplify and speed up installation, allowing far more efficient planning and implementation of large volume roll outs in new house builds or retrofits. Our dedicated Sunsynk Connect platform enables full control, visibility, and access to the system, making site-specific customization easy. The Powerlynk comes complete with everything you need to install this cutting-edge storage solution. In-built connection points give access to the Load, Grid, CT, and Wi-Fi data logger ports, making it a true \"plug and play\" system. From the pre-set factory settings to the in-built connection ports, the Powerlynk has been designed with convenience and hassle free installation in mind.",
+    "documents": {
+      "manual": null,
+      "datasheet": "/uploads/Sunsynk Mobile_Datasheet_Powerlynk X.pdf",
+      "certificates": []
+    },
+    "specifications": {
+      "technical": [],
+      "additional": {},
+      "features": [
+        "Simple, but elegant.",
+        "Introducing the Powerlynk X & Powerlynk S by Sunsynk Mobile.",
+        "Masterfully crafted to simplify and speed up installation, allowing far more efficient planning and implementation\\nof large volume roll outs in new house builds or retrofits.",
+        "Our dedicated Sunsynk Connect platform enables full control, visibility, and access to\\nthe system, making site-specific customization easy.",
+        "The Powerlynk comes complete with everything you need to install this cutting-edge storage solution.",
+        "In-built connection points give access to the Load, Grid, CT, and Wi-Fi\\ndata logger ports, making it a true \"plug and play\" system.",
+        "From the pre-set factory settings to the in-built connection ports, the Powerlynk has been designed with\\nconvenience and hassle free installation in mind."
+      ]
+    },
+    "images": [
+      {
+        "alt": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack",
+        "src": "https://herholdts.co.za/uploads/107848_th1_th1.jpg"
+      },
+      {
+        "src": "/uploads/107848_th1.jpg",
+        "alt": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack"
+      }
+    ],
+    "stock_status": "in stock",
+    "name": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack",
+    "sku": "SS-POW-X",
+    "brand": "Sunsynk",
+    "categories": [
+      "Inverter",
+      "Battery"
+    ]
+  }
+]

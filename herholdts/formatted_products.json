@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Sunsynk Powerlynk XL 5.5kW Inverter / 5.22kWh Battery Pack",
+    "type": "simple",
+    "regular_price": "32750",
+    "sale_price": "",
+    "description": "Introducing the Powerlynk S, Powerlynk X &amp; Powerlynk XL by Sunsynk Mobile.  Masterfully crafted to simplify and speed up installation, allowing for more efficient planning and implementation of large volume roll outs in new house builds or retrofits.  Our dedicated Sunsynk Connect platform enables full control, visibility, and access to the system, making site-specific customisation easy.  The Powerlynk comes complete with everything you need to install this cutting-edge storage solution. In-built connection points give access to the Load, Grid, CT and Wi-Fi data logger ports, making it a true \"plug and play\" system  From the pre-set factory settings to the in-built connection ports, the Powerlynk has been designed with convenience and hassle-free installation in mind.",
+    "short_description": "Sunsynk Powerlynk XL 5.5kW Inverter / 5.22kWh Battery Pack",
+    "categories": [
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Battery"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Solar Energy"
+      },
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Battery"
+      },
+      {
+        "name": "Residential"
+      },
+      {
+        "name": "Sunsynk Powerlynk"
+      },
+      {
+        "name": "Plug and Play"
+      },
+      {
+        "name": "Energy Storage"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://herholdts.co.za/uploads/109537_th1_th1.jpg",
+        "alt": "Sunsynk Powerlynk XL 5.5kW Inverter / 5.22kWh Battery Pack"
+      }
+    ],
+    "sku": "SS-POW-XL",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Sunsynk"
+        ]
+      },
+      {
+        "name": "Technical Specifications",
+        "visible": true,
+        "options": [
+          "5.5kW Inverter",
+          "5.22kWh Battery Pack"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Sunsynk Connect platform enables full control, visibility, and access to the system",
+          "Plug and play system",
+          "Pre-set factory settings",
+          "In-built connection points give access to the Load, Grid, CT and Wi-Fi data logger ports"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "technical": [
+            "5.5kW Inverter",
+            "5.22kWh Battery Pack"
+          ],
+          "features": [
+            "Sunsynk Connect platform enables full control, visibility, and access to the system",
+            "Plug and play system",
+            "Pre-set factory settings",
+            "In-built connection points give access to the Load, Grid, CT and Wi-Fi data logger ports"
+          ]
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "datasheet": "https://herholdts.co.za/uploads/Powerlynk XL.pdf",
+          "manual": null,
+          "certificates": []
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": 32750,
+          "current": 37662.5
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "NO STOCK"
+      }
+    ]
+  },
+  {
+    "name": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack",
+    "type": "simple",
+    "regular_price": "27470",
+    "sale_price": "",
+    "description": "Simple, but elegant. Introducing the Powerlynk X & Powerlynk S by Sunsynk Mobile. Masterfully crafted to simplify and speed up installation, allowing far more efficient planning and implementation of large volume roll outs in new house builds or retrofits. Our dedicated Sunsynk Connect platform enables full control, visibility, and access to the system, making site-specific customization easy. The Powerlynk comes complete with everything you need to install this cutting-edge storage solution. In-built connection points give access to the Load, Grid, CT, and Wi-Fi data logger ports, making it a true \"plug and play\" system. From the pre-set factory settings to the in-built connection ports, the Powerlynk has been designed with convenience and hassle free installation in mind.",
+    "short_description": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack",
+    "categories": [
+      {
+        "name": "Inverter"
+      },
+      {
+        "name": "Battery"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Solar Inverter"
+      },
+      {
+        "name": "Battery Storage"
+      },
+      {
+        "name": "Residential Inverter"
+      },
+      {
+        "name": "Hybrid Inverter"
+      },
+      {
+        "name": "Sunsynk Powerlynk X"
+      },
+      {
+        "name": "Plug and Play"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://herholdts.co.za/uploads/107848_th1_th1.jpg",
+        "alt": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack"
+      },
+      {
+        "src": "/uploads/107848_th1.jpg",
+        "alt": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack"
+      }
+    ],
+    "sku": "SS-POW-X",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "Sunsynk"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Simple, but elegant.",
+          "Introducing the Powerlynk X & Powerlynk S by Sunsynk Mobile.",
+          "Masterfully crafted to simplify and speed up installation, allowing far more efficient planning and implementation\\nof large volume roll outs in new house builds or retrofits.",
+          "Our dedicated Sunsynk Connect platform enables full control, visibility, and access to\\nthe system, making site-specific customization easy.",
+          "The Powerlynk comes complete with everything you need to install this cutting-edge storage solution.",
+          "In-built connection points give access to the Load, Grid, CT, and Wi-Fi\\ndata logger ports, making it a true \"plug and play\" system.",
+          "From the pre-set factory settings to the in-built connection ports, the Powerlynk has been designed with\\nconvenience and hassle free installation in mind."
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "Simple, but elegant.",
+            "Introducing the Powerlynk X & Powerlynk S by Sunsynk Mobile.",
+            "Masterfully crafted to simplify and speed up installation, allowing far more efficient planning and implementation\\nof large volume roll outs in new house builds or retrofits.",
+            "Our dedicated Sunsynk Connect platform enables full control, visibility, and access to\\nthe system, making site-specific customization easy.",
+            "The Powerlynk comes complete with everything you need to install this cutting-edge storage solution.",
+            "In-built connection points give access to the Load, Grid, CT, and Wi-Fi\\ndata logger ports, making it a true \"plug and play\" system.",
+            "From the pre-set factory settings to the in-built connection ports, the Powerlynk has been designed with\\nconvenience and hassle free installation in mind."
+          ]
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": null,
+          "datasheet": "/uploads/Sunsynk Mobile_Datasheet_Powerlynk X.pdf",
+          "certificates": []
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "regular": 27470,
+          "current": 31590.5
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "in stock"
+      }
+    ]
+  }
+]

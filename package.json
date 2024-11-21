@@ -1,0 +1,40 @@
+{
+  "name": "woocommerce-product-crawler",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A LangGraph-based web crawler that extracts product information and structures it as WooCommerce products",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node src/scrape.js",
+    "start-specific": "node src/scrape.js url.json",
+    "retry-failed": "node src/retryFailed.js",
+    "upload": "node src/upload.js",
+    "upload-inverters": "node src/upload.js inverter",
+    "dev": "NODE_OPTIONS='--loader ts-node/esm' ts-node src/start-puppeteer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.3.12",
+    "@langchain/core": "^0.3.17",
+    "@langchain/google-vertexai": "^0.1.2",
+    "@langchain/langgraph": "^0.2.20",
+    "@langchain/ollama": "^0.1.2",
+    "@langchain/openai": "^0.3.12",
+    "@mendable/firecrawl-js": "^1.7.2",
+    "@woocommerce/woocommerce-rest-api": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "puppeteer": "^23.7.1",
+    "turndown": "^7.2.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/turndown": "^5.0.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}

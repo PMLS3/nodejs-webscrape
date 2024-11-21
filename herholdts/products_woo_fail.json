@@ -1,0 +1,85 @@
+[
+  {
+    "sku": "SS-POW-X",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack",
+      "type": "simple",
+      "regular_price": "27470",
+      "sale_price": "",
+      "description": "Simple, but elegant. Introducing the Powerlynk X & Powerlynk S by Sunsynk Mobile. Masterfully crafted to simplify and speed up installation, allowing far more efficient planning and implementation of large volume roll outs in new house builds or retrofits. Our dedicated Sunsynk Connect platform enables full control, visibility, and access to the system, making site-specific customization easy. The Powerlynk comes complete with everything you need to install this cutting-edge storage solution. In-built connection points give access to the Load, Grid, CT, and Wi-Fi data logger ports, making it a true \"plug and play\" system. From the pre-set factory settings to the in-built connection ports, the Powerlynk has been designed with convenience and hassle free installation in mind.",
+      "short_description": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://herholdts.co.za/uploads/107848_th1_th1.jpg",
+          "alt": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack"
+        },
+        {
+          "src": "/uploads/107848_th1.jpg",
+          "alt": "Sunsynk Powerlynk X 3.6kW Inverter / 3.84kWh Battery Pack"
+        }
+      ],
+      "sku": "SS-POW-X",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Sunsynk"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Simple, but elegant.",
+            "Introducing the Powerlynk X & Powerlynk S by Sunsynk Mobile.",
+            "Masterfully crafted to simplify and speed up installation, allowing far more efficient planning and implementation\\nof large volume roll outs in new house builds or retrofits.",
+            "Our dedicated Sunsynk Connect platform enables full control, visibility, and access to\\nthe system, making site-specific customization easy.",
+            "The Powerlynk comes complete with everything you need to install this cutting-edge storage solution.",
+            "In-built connection points give access to the Load, Grid, CT, and Wi-Fi\\ndata logger ports, making it a true \"plug and play\" system.",
+            "From the pre-set factory settings to the in-built connection ports, the Powerlynk has been designed with\\nconvenience and hassle free installation in mind."
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "Simple, but elegant.",
+              "Introducing the Powerlynk X & Powerlynk S by Sunsynk Mobile.",
+              "Masterfully crafted to simplify and speed up installation, allowing far more efficient planning and implementation\\nof large volume roll outs in new house builds or retrofits.",
+              "Our dedicated Sunsynk Connect platform enables full control, visibility, and access to\\nthe system, making site-specific customization easy.",
+              "The Powerlynk comes complete with everything you need to install this cutting-edge storage solution.",
+              "In-built connection points give access to the Load, Grid, CT, and Wi-Fi\\ndata logger ports, making it a true \"plug and play\" system.",
+              "From the pre-set factory settings to the in-built connection ports, the Powerlynk has been designed with\\nconvenience and hassle free installation in mind."
+            ]
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": null,
+            "datasheet": "/uploads/Sunsynk Mobile_Datasheet_Powerlynk X.pdf",
+            "certificates": []
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "regular": 27470,
+            "current": 31590.5
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "in stock"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,50 @@
+export const WooCommerceProductSchema = {
+  name: "",
+  type: "simple", // simple, grouped, external, variable
+  status: "publish", // publish, draft, private
+  featured: false,
+  catalog_visibility: "visible", // visible, catalog, search, hidden
+  description: "",
+  short_description: "",
+  sku: "",
+  price: "",
+  regular_price: "",
+  sale_price: "",
+  date_on_sale_from: null,
+  date_on_sale_to: null,
+  virtual: false,
+  downloadable: false,
+  downloads: [],
+  download_limit: -1,
+  download_expiry: -1,
+  external_url: "",
+  button_text: "",
+  tax_status: "taxable", // taxable, shipping, none
+  tax_class: "",
+  manage_stock: false,
+  stock_quantity: null,
+  stock_status: "instock", // instock, outofstock, onbackorder
+  backorders: "no", // no, notify, yes
+  sold_individually: false,
+  weight: "",
+  dimensions: {
+    length: "",
+    width: "",
+    height: "",
+  },
+  shipping_class: "",
+  reviews_allowed: true,
+  upsell_ids: [],
+  cross_sell_ids: [],
+  parent_id: 0,
+  purchase_note: "",
+  categories: [],
+  tags: [],
+  images: [],
+  attributes: [],
+  default_attributes: [],
+  variations: [],
+  grouped_products: [],
+  menu_order: 0,
+  meta_data: [],
+}

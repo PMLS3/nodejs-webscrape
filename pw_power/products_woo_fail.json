@@ -1,0 +1,3099 @@
+[
+  {
+    "sku": "7666",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 5kw Hybrid Inverter (SUN-5K-SG01LP1-EU)",
+      "type": "simple",
+      "regular_price": "13990",
+      "sale_price": "",
+      "description": "Deye 5kw Hybrid Inverter, is suitable for residential and light commercial use, maximizing self-consumption rate of solar energy and increasing your energy impendence. &nbsp;\\nDuring the day, the PV system generates electricity which will be provided to the loads initially. Then, the excess energy will charge the battery via&nbsp;SUN 3/6K-SG04. \\nFinally, the stored energy can be released when the loads require it. The battery can also be charged by the diesel generator to ensure uninterrupted supply in the event of grid blackout.\\nIt equipped with RS485/CAN port for battery communication.\\nThe New SUN-3K-SG04LP1 hybrid inverter adopts 24V battery, greatly improving your system safety.\\n\\n## Description\\n\\n### Smart Monitoring Platform\\nThanks to the smart monitoring platform, Deye full series inverter products support remotely shutdown immediately when accident occurs.Setting parameters and FW update remotely, which makes PV plant O&amp;M easier.\\nIncludes:&nbsp; Wi-Fi Dongle + BMS Communication Cable\\n\\n\\n\\n\\n",
+      "short_description": "Product Highlights\\n\\nPackage Includes WIFI Dongle &amp; Current Transformer\\nMax Efficiency of 97.6%\\n2 MPPT (Maximum Power Point Tracker)\\nRS485 / CAN Communication Ports\\nLoad or Home power first with Zero Export to the Grid\\n",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Deye-12kw-Hybrid-Inverter-1-Phase-300x300.jpg",
+          "alt": "16kw deye"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Deye-5kw-1-150x150.jpg",
+          "alt": "Deye 5kw"
+        }
+      ],
+      "sku": "7666",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Weight": "25 kg",
+              "Dimensions": "60 × 35 × 25 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "certificates": [
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/Compliance-of-PV-Inverter-1.pdf",
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/COC-of-Deye-Inverter-1.pdf"
+            ],
+            "manual": "http://www.pvpower.co.za/wp-content/uploads/2022/09/DeyeInverter5_8_1PManual.pdf",
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/10/datasheet_sun-3.6-6k-sg03lp1_240802_en.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "25 kg",
+            "Dimensions": "60 × 35 × 25 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 13990
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "2 in stock (can be backordered)"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "8139",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "LuxPower 5KW SNA5000 (LXP-SNA5000)",
+      "type": "simple",
+      "regular_price": "7990",
+      "sale_price": "",
+      "description": "The LuxPower 5KW SNA5000 Off-Grid Inverter is a battery inverter that provides you with a variety of ways to power your household devices.## LuxPower 5KW SNA5000 Description  * Intelligent off grid & hybrid modes\\n* PV & AC power loads simultaneously\\n* Wide PV input voltage range\\n* Easy to use with battery\\n* Free monitoring & remote upgrade\\n* Single phase or unbalanced three phase\\n* Advanced Parallel, up to 50kW\\n* Separate generator interface available\\n* Host inverter automatically generated to manage entire system",
+      "short_description": "Intelligent Off Grid & Hybrid Modes\\nSupports Paralleling up to 50KW\\nSingle Phase / Unbalanced Three Phase\\nEasy to use with battery\\nFree monitoring & remote upgrade",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/03/LUX-SNA6000-300x300.jpg",
+          "alt": "LuxPower 6kW Hybrid Inverter"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/11/sna5000-150x150.png",
+          "alt": "Lux Power SNA5000"
+        }
+      ],
+      "sku": "8139",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Lux Power"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Intelligent Off Grid & Hybrid Modes",
+            "Supports Paralleling up to 50KW",
+            "Single Phase / Unbalanced Three Phase",
+            "Easy to use with battery",
+            "Free monitoring & remote upgrade"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "Intelligent Off Grid & Hybrid Modes",
+              "Supports Paralleling up to 50KW",
+              "Single Phase / Unbalanced Three Phase",
+              "Easy to use with battery",
+              "Free monitoring & remote upgrade"
+            ],
+            "additional": {
+              "Weight": "12 kg",
+              "Dimensions": "65 × 50 × 30 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "certificates": [],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/11/Lux-SNA-5000-and-6000-Data-sheet-new.pdf",
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2022/11/Lux-Power-5KW-Off-Grid-SNA5000WPV-User-Manual.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "12 kg",
+            "Dimensions": "65 × 50 × 30 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "regular": null,
+            "current": 7990,
+            "sale": null
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "in stock"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "9210",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Lux Power 5KW Hybrid Inverter LV Single Phase (LXP5K)",
+      "type": "simple",
+      "regular_price": "16663.5",
+      "sale_price": "",
+      "description": "Lux Power 5KW Hybrid Inverter has a newly designed solar and energy storage solution. The best off grid inverter, capable to install in on-grid solar, off-grid solar and back-up systems. \\n\\nLXP Hybrid enables a programmable and scheduled smart solar energy storage system to help increase your solar energy self-consumption rate, protect your home appliances from grid shortage, and balance your energy usage strategy to save energy bill.\\n\\n## Lux Power 5KW Hybrid Inverter Description\\n\\n**Solar Input**<br>• Maximum DC Input Power: 8000W<br>• Nominal DC Input Voltage: 360VDC<br>• DC Input Voltage Range: 100VDC-550VDC<br>• MPPT Voltage Range: 120VDC-500VDC<br>• Start Voltage: 140VDC<br>• Number of MPP Trackers: 2<br>• Maximum DC Input Current: 12.5A / 12.5A\\n\\n**Battery Input / Output**<br>• Compatible Battery Type: Lithium-ion / Lead-Acid<br>• Nominal Battery Voltage: 48VDC<br>• Battery Voltage Range: 40VDC – 60VDC<br>• Maximum Charge / Discharge Current: 80A / 80A<br>• Maximum Charge / Discharge Power: 5000W / 5000W<br>• Charging Curve: 3 Stages\\n\\n**AC Input / Output**<br>• Nominal AC Output Power: 5000W<br>• Nominal AC Output Current: 25A<br>• Nominal AC Voltage: 230VAC (180VAC-270VAC)<br>• Nominal AC Frequency: 50Hz / 60Hz (45Hz-55Hz / 55Hz-65Hz)<br>• Power Factor: &gt;0.99 @ Rated Power 0.8 Lagging – 0.8 Leading Adjustable\\n\\n**Environment Limit**<br>• Ingress Protection: IP65<br>• Relative Humidity: 0% to 100%<br>• Operating Temperature Range: -25°C to +60°C<br>• Operating Altitude: &lt;2000m<br>• Communication: RS485 / WIFI / CAN",
+      "short_description": "&nbsp;Maximum Efficiency: 97.5%&nbsp;\\nIntegrated DC Switch\\nTransformerless Design&nbsp;\\nSupports Paralleling",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/02/LXP5K.JPG-150x150.jpg",
+          "alt": ""
+        }
+      ],
+      "sku": "9210",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Lux Power"
+          ]
+        },
+        {
+          "name": "Technical Specifications",
+          "visible": true,
+          "options": [
+            "Maximum DC Input Power: 8000W",
+            "Nominal DC Input Voltage: 360VDC",
+            "DC Input Voltage Range: 100VDC-550VDC",
+            "MPPT Voltage Range: 120VDC-500VDC",
+            "Start Voltage: 140VDC",
+            "Number of MPP Trackers: 2",
+            "Maximum DC Input Current: 12.5A / 12.5A",
+            "Compatible Battery Type: Lithium-ion / Lead-Acid",
+            "Nominal Battery Voltage: 48VDC",
+            "Battery Voltage Range: 40VDC – 60VDC",
+            "Maximum Charge / Discharge Current: 80A / 80A",
+            "Maximum Charge / Discharge Power: 5000W / 5000W",
+            "Charging Curve: 3 Stages",
+            "Nominal AC Output Power: 5000W",
+            "Nominal AC Output Current: 25A",
+            "Nominal AC Voltage: 230VAC (180VAC-270VAC)",
+            "Nominal AC Frequency: 50Hz / 60Hz (45Hz-55Hz / 55Hz-65Hz)",
+            "Power Factor: >0.99 @ Rated Power 0.8 Lagging – 0.8 Leading Adjustable",
+            "Ingress Protection: IP65",
+            "Relative Humidity: 0% to 100%",
+            "Operating Temperature Range: -25°C to +60°C",
+            "Operating Altitude: <2000m",
+            "Communication: RS485 / WIFI / CAN"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "&nbsp;Maximum Efficiency: 97.5%&nbsp;",
+            "Integrated DC Switch",
+            "Transformerless Design&nbsp;",
+            "Supports Paralleling"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "technical": [
+              "Maximum DC Input Power: 8000W",
+              "Nominal DC Input Voltage: 360VDC",
+              "DC Input Voltage Range: 100VDC-550VDC",
+              "MPPT Voltage Range: 120VDC-500VDC",
+              "Start Voltage: 140VDC",
+              "Number of MPP Trackers: 2",
+              "Maximum DC Input Current: 12.5A / 12.5A",
+              "Compatible Battery Type: Lithium-ion / Lead-Acid",
+              "Nominal Battery Voltage: 48VDC",
+              "Battery Voltage Range: 40VDC – 60VDC",
+              "Maximum Charge / Discharge Current: 80A / 80A",
+              "Maximum Charge / Discharge Power: 5000W / 5000W",
+              "Charging Curve: 3 Stages",
+              "Nominal AC Output Power: 5000W",
+              "Nominal AC Output Current: 25A",
+              "Nominal AC Voltage: 230VAC (180VAC-270VAC)",
+              "Nominal AC Frequency: 50Hz / 60Hz (45Hz-55Hz / 55Hz-65Hz)",
+              "Power Factor: >0.99 @ Rated Power 0.8 Lagging – 0.8 Leading Adjustable",
+              "Ingress Protection: IP65",
+              "Relative Humidity: 0% to 100%",
+              "Operating Temperature Range: -25°C to +60°C",
+              "Operating Altitude: <2000m",
+              "Communication: RS485 / WIFI / CAN"
+            ],
+            "features": [
+              "&nbsp;Maximum Efficiency: 97.5%&nbsp;",
+              "Integrated DC Switch",
+              "Transformerless Design&nbsp;",
+              "Supports Paralleling"
+            ],
+            "additional": {
+              "Weight": "21 kg",
+              "Dimensions": "60 × 50 × 30 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": null,
+            "certificates": [],
+            "datasheet": null
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "21 kg",
+            "Dimensions": "60 × 50 × 30 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "regular": null,
+            "current": 16663.5,
+            "sale": null
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "1 in stock (can be backordered)"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "7783",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 12kw Hybrid Inverter 3 Phase (SUN-12K-SG04LP3)",
+      "type": "simple",
+      "regular_price": "38890",
+      "sale_price": "",
+      "description": "Deye 12kw Hybrid inverter SUN 5/6/8/10/12K-SG is brand new three phase hybrid inverter with low battery voltage 48V, ensuring system safe and reliable. With compact design and high-power density, this series supports 1.3 DC/AC ratio, saving device investment. It supports three phase unbalanced output, extending the application scenarios. Equipped with CAN port (x2) BMS and parallel, x1 RS485 port for BMS, x1 RS232 port for remotely control, x1 DRM port, which makes the system smart and flexible. Thanks to the smart monitoring platform, Deye full series inverter products support remotely shutdown immediately when accident occurs. Setting parameters and FW update remotely, which makes PV plant O&M easier.",
+      "short_description": "Includes: Wi-Fi Dongle + BMS Communication Cable LCD Touch screen and buttons, easy operation. Compatible with lithium-ion battery and lead acid battery. Web browser and mobile App monitoring supported. PV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Deye-12kw-Hybrid-Inverter-1-Phase-300x300.jpg",
+          "alt": "16kw deye"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/12kwMain-150x150.png",
+          "alt": "Deye 12kw Hybrid inverter"
+        }
+      ],
+      "sku": "7783",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "LCD Touch screen and buttons, easy operation.",
+            "Compatible with lithium-ion battery and lead acid battery.",
+            "Web browser and mobile App monitoring supported.",
+            "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "LCD Touch screen and buttons, easy operation.",
+              "Compatible with lithium-ion battery and lead acid battery.",
+              "Web browser and mobile App monitoring supported.",
+              "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+            ],
+            "additional": {
+              "Weight": "50 kg",
+              "Dimensions": "94 × 64 × 46 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "datasheet": "http://www.pvpower.co.za/wp-content/uploads/2022/09/DeyeInverter12kw3P.pdf",
+            "manual": "http://www.pvpower.co.za/wp-content/uploads/2022/09/DeyeInverter12kW3PManual.pdf",
+            "certificates": [
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/Compliance-of-PV-Inverter-1.pdf",
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/COC-of-Deye-Inverter-1.pdf"
+            ]
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "50 kg",
+            "Dimensions": "94 × 64 × 46 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 38890
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "2 in stock"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "13296",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 3kw Hybrid Inverter SUN-3.6",
+      "type": "simple",
+      "regular_price": "14890",
+      "sale_price": "",
+      "description": "Deye 3kw Hybrid Inverter SUN-3.6/5K-SG01/03LP1-EU was created for residential and light commercial use to meet all your energy needs.\\nThe PV system produces electricity during the day, which is initially supplied to the loads. Then, the excess energy will charge the battery, so the excess energy in the battery is available when needed. The battery can also be charged by the diesel generator to ensure power supply in the event of power outage.\\n\\n### Smart Monitoring Platform\\nDeye full series inverter products support remote shutdown instantly in the event of an accident because of the smart monitoring platform. Setting parameters and FW update remotely, which makes PV plant O&amp;M easier.\\nDeye 3kw inverter come with RS485/CAN port for battery communication.\\n\\n### Deye 3kw Hybrid Inverter Description:\\n* Colorful touch LCD, IP65 protection degree\\n\\n* AC couple to retrofit existing solar system.\\n\\n* Max. 16 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel\\n\\n* Max. charging/discharging current of 140A\\n\\n* 6 time periods for battery charging/discharging\\n\\n* Support storing energy from diesel generator.\\n\\n",
+      "short_description": "Deye 3kw Hybrid Inverter Single Phase was created for residential.&nbsp;\\nHybrid solar inverters offer several benefits that make them a popular choice for homeowners and businesses.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/3.6kw-deye-150x150.webp",
+          "alt": "3.6kw deye inverter"
+        }
+      ],
+      "sku": "13296",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Dimensions": "47 × 33 × 58 cm",
+              "Weight": "22 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye3.6kw-User-Manual.pdf",
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Hybrid-Inverter-SUN-3.6-5K-SG01-03LP1-EU.pdf",
+            "certificates": []
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "47 × 33 × 58 cm",
+            "Weight": "22 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 14890
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "instock"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "7990",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Sunsynk 5kw Hybrid Inverter (SUN-5K-SG01LP1-EU)",
+      "type": "simple",
+      "regular_price": "17238.5",
+      "sale_price": "",
+      "description": "Sunsynk 5kw Hybrid Inverter will reduce your electricity costs by managing power from various energy sources, including solar panels, batteries, the national electricity grid, a generator or even a wind turbine – all with a Sunsynk Hybrid inverter. It’s ideal for home and business and scalable so that you can expand it as required.\\nSunsynk 5kw Hybrid Inverter Description\\nUser-friendly\\n\\nLCD Touch screen and buttons, easy operation.\\nCompatible with lithium-ion battery and lead acid battery.\\nWeb browser and mobile App monitoring supported.\\nReliable\\n\\nPV lighting protection, Anti-islanding protection, Leakage current protection etc.\\nSupport store energy from DG when needed, ensure the system working within 7*24H.\\nIP65 protection degree, adapt to indoor and outdoor using.\\nAutomatically switch from on-grid to off-grid mode within 5ms.\\nZero exporting function, fast reaction within 200ms in zero export mode.\\nSmart\\n\\nProgrammable charging and discharging schedule.\\nBoth wind turbines and solar panels can be connected as DC input power.\\nMax. 16 units can be paralleled for higher system power.\\nRetrofitting of existing solar system to energy storage system",
+      "short_description": "Product Highlights\\nPackage Includes WIFI Dongle & Current Transformer\\nMax Efficiency of 97.6%\\n2 MPPT (Maximum Power Point Tracker)\\nRS485 / CAN Communication Ports\\nLoad or Home power first with Zero Export to the Grid",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Untitled-design-150x150.jpg",
+          "alt": ""
+        }
+      ],
+      "sku": "7990",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Sunsynk"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Package Includes WIFI Dongle & Current Transformer",
+            "Max Efficiency of 97.6%",
+            "2 MPPT (Maximum Power Point Tracker)",
+            "RS485 / CAN Communication Ports",
+            "Load or Home power first with Zero Export to the Grid"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "Package Includes WIFI Dongle & Current Transformer",
+              "Max Efficiency of 97.6%",
+              "2 MPPT (Maximum Power Point Tracker)",
+              "RS485 / CAN Communication Ports",
+              "Load or Home power first with Zero Export to the Grid"
+            ],
+            "additional": {
+              "Weight": "25 kg",
+              "Dimensions": "60 × 35 × 25 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "datasheet": "http://www.pvpower.co.za/wp-content/uploads/2022/10/Sunsynk-5kW-Data-Sheet.pdf",
+            "certificates": [
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/NRS-097-2-1-1.pdf",
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/NRS-097-2-1-2017-for-12-14-16-1.pdf"
+            ],
+            "manual": "http://www.pvpower.co.za/wp-content/uploads/2022/09/Sunsynk_Hybrid-Inverter-3.6kW-5kW_UserManual_v14_Englsih.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "25 kg",
+            "Dimensions": "60 × 35 × 25 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 17238.5
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "instock"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "13836",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Dyness 5kW Hybrid Inverter",
+      "type": "simple",
+      "regular_price": "15990",
+      "sale_price": "",
+      "description": "The Dyness 5kW Hybrid Inverter series is designed for residential hybrid systems.<br>The inverter can work with Dyness low-voltage lithium-ion battery DL5.0X/DL5.0C/ Powerbox Pro to maximize self-consumption and provide backup power if the grid fails and there is not enough PV power to cover load demand.<p><strong>Description:</strong></p><ul class=\"wp-block-list\"><li>Generator connectivity with multiple input methods and automatic generator On/Off control.</li>\\n\\n<li>Automatic UPS switching (&lt;4ms)</li>\\n\\n<li>Supportive peak shaving controls in both “self-use” and “generator” mode.</li>\\n\\n<li>Up to 135A (5.0/6.0K) and 190A (8.0K) max charge/discharge current</li>\\n\\n<li>6 customizable charge/ discharge time settings</li>\\n\\n<li>10 second 200% surge power backup overload capacity.</li>\\n\\n<li>Support 1ph and 3ph flexible connection with max 36kW (5.0/6.0K) and 48kW (8.0K) in parallel.</li></ul>",
+      "short_description": "Dyness 5kW Hybrid Inverter series is designed for residential hybrid systems. The inverter can work with Dyness low-voltage lithium-ion battery DL5.0X/DL5.0C/ Powerbox Pro to maximize self-consumption and provide backup power if the grid fails and there is not enough PV power to cover load demand.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/02/Dyness-Hybrid-Inverter-Main-Picture-1-300x300.webp",
+          "alt": "Dyness 6kW Hybrid Inverter"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/11/Dyness500x333.jpg",
+          "alt": "Dyness"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/02/Dyness-Hybrid-Inverter-Main-Picture-150x150.webp",
+          "alt": ""
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/02/Dyness-Hybrid-Inverter-Main-Picture-150x150.webp",
+          "alt": ""
+        }
+      ],
+      "sku": "13836",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Dyness"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Weight": "26 kg",
+              "Dimensions": "23 × 47 × 62 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "certificates": [],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/02/5kWh-Hybrid-Inverters-Datasheet.pdf",
+            "manual": null
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "26 kg",
+            "Dimensions": "23 × 47 × 62 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "regular": null,
+            "current": 15990,
+            "sale": null
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "13849",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Dyness 6kW Hybrid Inverter",
+      "type": "simple",
+      "regular_price": "18490",
+      "sale_price": "",
+      "description": "Dyness 6kW Hybrid Inverter is designed for residential hybrid systems.<br>The inverter can work with Dyness low-voltage lithium-ion battery DL5.0X/DL5.0C/ Powerbox Pro to maximize self-consumption and provide backup power if the grid fails and there is not enough PV power to cover load demand.<br><strong>Description:</strong><ul class=\"wp-block-list\"><li>Generator connectivity with multiple input methods and automatic generator On/Off control.</li><li>Automatic UPS switching (&lt;4ms)</li><li>Supportive peak shaving controls in both “self-use” and “generator” mode.</li><li>Up to 135A (5.0/6.0K) and 190A (8.0K) max charge/discharge current</li><li>6 customizable charge/ discharge time settings</li><li>10 second 200% surge power backup overload capacity.</li><li>Support 1ph and 3ph flexible connection with max 36kW (5.0/6.0K) and 48kW (8.0K) in parallel.</li></ul>",
+      "short_description": "Dyness 6kW Hybrid Inverter series is designed for residential hybrid systems. The inverter can work with Dyness low-voltage lithium-ion battery DL5.0X/DL5.0C/ Powerbox Pro to maximize self-consumption and provide backup power if the grid fails and there is not enough PV power to cover load demand.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/02/Dyness-Hybrid-Inverter-Main-Picture-1-150x150.webp",
+          "alt": "Dyness 6kW Hybrid Inverter"
+        }
+      ],
+      "sku": "13849",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Dyness"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Dimensions": "23 × 47 × 62 cm",
+              "Weight": "26 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/02/6kWh-Hybrid-Inverters-Datasheet.pdf",
+            "certificates": [],
+            "manual": null
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "23 × 47 × 62 cm",
+            "Weight": "26 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 18490
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "unknown",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 110kWh Three Phase Grid Tie Inverter",
+      "type": "simple",
+      "regular_price": "49335",
+      "sale_price": "",
+      "description": "Deye 110kWh Three Phase String Inverter\\n\\nThe Deye 70-110K grid-connected inverter is suited for medium and large-scale commercial rooftops and ground-mounted solar PV system in which reliability and stability are important. the full series inverter has 30% DC input oversizing ratio and 10% AC output overloading ratio, offering a faster return on investment.\\n\\n• Max. 6 MPP trackers, Max. efficiency up to 98.8%\\n\\n• Zero export application, VSG application\\n\\n• String intelligent monitoring (optional)\\n\\n• Wide output voltage range\\n\\n• Anti-PID function (Optional)\\n\\n• Type II DC/AC SPD",
+      "short_description": "Deye 110kWh Three Phase String Inverter\\nThe Deye 70-110K grid-connected inverter is suited for medium and large-scale commercial rooftops and ground-mounted solar PV system in which reliability and stability are important. the full series inverter has 30% DC input oversizing ratio and 10% AC output overloading ratio, offering a faster return on investment.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye-60kWh-Three-Phase-String-Inverter-1-300x300.webp",
+          "alt": "Deye 60kWh Three Phase String Inverter"
+        }
+      ],
+      "sku": "unknown",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Max. 6 MPP trackers, Max. efficiency up to 98.8%",
+            "Zero export application, VSG application",
+            "String intelligent monitoring (optional)",
+            "Wide output voltage range",
+            "Anti-PID function (Optional)",
+            "Type II DC/AC SPD"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "Max. 6 MPP trackers, Max. efficiency up to 98.8%",
+              "Zero export application, VSG application",
+              "String intelligent monitoring (optional)",
+              "Wide output voltage range",
+              "Anti-PID function (Optional)",
+              "Type II DC/AC SPD"
+            ],
+            "additional": {
+              "Weight": "83 kg",
+              "Dimensions": "32 × 83 × 52 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye-110kWh-Three-Phase-String-Inverter-Data-Sheet.pdf",
+            "manual": null,
+            "certificates": []
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "83 kg",
+            "Dimensions": "32 × 83 × 52 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 49335
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "unknown"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "11891",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Sunsynk 50kW 3-Phase Hybrid Inverter (SUN-50K-SG01HP3)",
+      "type": "simple",
+      "regular_price": "106938.5",
+      "sale_price": "",
+      "description": "Introducing the Sunsynk 50kW 3-Phase Hybrid Inverter – the perfect solution for commercial and industrial applications. This high-efficiency inverter can handle up to 65,000W of energy, so you’ll never be without power!\\nWith remote monitoring capabilities through our dedicated Sunsynk Connect app, you can track the efficiency of your system on-the-go, helping you to stay ahead of potential issues to ensure optimal performance.\\n\\n## Description\\nDesigned for easy installation and maintenance, the Sunsynk 50kW 3-Phase Hybrid Inverter will&nbsp;seamlessly integrate into your world to reduce costs, and provide reliable, renewable energy.\\nThis power management tool allows the user to hit those ‘parity’ targets by managing power flow from multiple sources such as solar, mains power (grid)&nbsp;and generators, and then effectively storing and releasing power as and when utilities require.\\n\\n\\n",
+      "short_description": "Introducing the Sunsynk 50kW 3-Phase Hybrid Inverter – the perfect solution for commercial and industrial applications. This high-efficiency inverter can handle up to 65,000W of energy, so you’ll never be without power!",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_1-150x150.jpg",
+          "alt": "Deye 50kw Hybrid inverter 3 phase with smart monitoring"
+        }
+      ],
+      "sku": "11891",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Sunsynk"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Maximum Efficiency: 97.60%",
+            "MPPT Efficiency: 99.90%",
+            " Paralleling: 10 Units On-Grid / Off-Grid",
+            " Generator Compatible",
+            " Mounting: Wall Mount"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "Maximum Efficiency: 97.60%",
+              "MPPT Efficiency: 99.90%",
+              " Paralleling: 10 Units On-Grid / Off-Grid",
+              " Generator Compatible",
+              " Mounting: Wall Mount"
+            ],
+            "additional": {
+              "Weight": "80 kg",
+              "Dimensions": "94 × 64 × 46 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/09/Sunsynk_ThreePhaseHI_25_50K_UserManual_v19_English.pdf",
+            "certificates": [],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/09/Sunsynk_ThreePhaseHI_25_50K_Datasheet_v6_English.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "80 kg",
+            "Dimensions": "94 × 64 × 46 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 106938.5
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "14295",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 30kw Hybrid Inverter 3 Phase (SUN-30K-SG01HP3-BM3)",
+      "type": "simple",
+      "regular_price": "62990",
+      "sale_price": "",
+      "description": "Deye 30kw Hybrid Inverter 3 Phase (SUN-30K-SG01HP3-EU)\\n\\nThe Deye 30kW Hybrid Inverter, SUN-30K-SG01HP3-EU, is a powerful and efficient solution for residential and commercial solar power systems. Thanks to its advanced features, intelligent energy management, and seamless integration capabilities, this inverter maximizes energy utilization, thereby promoting cost savings and reducing reliance on the grid.\\n\\nIntroduction\\nSolar power is increasingly popular as a clean, sustainable energy source. To maximize its potential, an efficient inverter is essential. The Deye 30kW Hybrid Inverter is an excellent choice for residential and commercial installations, thanks to its advanced features and superior performance. This article explores the Deye 30kW’s key features, benefits, installation process, performance, safety, maintenance, and integration with solar power systems.\\n\\nUnderstanding Hybrid Inverters\\nBefore we dive into the specifics, it’s important to briefly understand what hybrid inverters are. In essence, hybrid inverters are sophisticated devices that combine the functionality of a grid-tied inverter and a battery inverter. They allow seamless switching between grid power, solar power, and battery power, thus maximizing energy utilization and reducing reliance on the grid.\\n\\nKey Features\\nPacked with an array of features that make it a standout product in the market. Some of its key features include:\\n\\nHigh Power Output: Offers a robust power output of 30 kilowatts, making it suitable for both residential and commercial applications.\\nThree-Phase Compatibility: Designed to cater to three-phase power systems, this inverter ensures smooth operation and balanced power distribution.\\nHybrid Functionality: With its hybrid capabilities, the DEYE 30Kw 3 Phase Hybrid Inverter allows for efficient utilization of solar power, battery power, and grid power, optimizing energy consumption.\\nMultiple MPPT Inputs: This inverter supports multiple Maximum Power Point Tracking (MPPT) inputs, enabling the connection of multiple solar arrays for increased energy harvesting.\\nIntelligent Energy Management: Equipped with advanced energy management algorithms, the DEYE 30Kw intelligently manages the flow of power, prioritizing renewable energy sources.\\nMonitoring and Control: The inverter provides comprehensive monitoring and control features, allowing users to track energy generation, consumption, and system performance in real-time.\\nBenefits of the DEYE 30Kw 3 Phase Hybrid Inverter\\nInvesting in the DEYE 30Kw offers numerous advantages to solar power system owners. Some of the key benefits include:\\n\\nEnergy Independence: By integrating the DEYE 30Kw into a solar power system, users can reduce their reliance on the grid and achieve a greater level of energy independence.\\nCost Savings: The intelligent energy management capabilities of this inverter result in significant cost savings by maximizing the utilization of free solar energy and minimizing grid electricity consumption.\\nEnhanced Efficiency: The DEYE 30Kw’s advanced technology ensures high conversion efficiency, allowing for the optimal utilization of solar energy and reducing energy wastage.\\nSeamless Integration: This inverter seamlessly integrates with existing solar power systems, making it a versatile solution for both new installations and retrofitting.\\nEnvironmental Impact: By harnessing solar energy effectively, the DEYE 30Kw 3 Phase Hybrid Inverter contributes to a greener planet by reducing carbon emissions and reliance on fossil fuels.\\nInstallation and Setup\\nInstalling the DEYE 30kW 3-Phase Hybrid Inverter is a straightforward process. However, it is best to consult a professional solar installer to properly install and configure the system, ensuring optimal performance and safety. Additionally, install the inverter in a well-ventilated area, providing adequate clearance and protection from the elements.\\nPerformance and Efficiency\\nThe DEYE 30Kw 3 Phase Hybrid Inverter is known for its exceptional performance and high efficiency. Its advanced technology and intelligent power management systems ensure maximum power output and seamless operation. The inverter’s high conversion efficiency helps in reducing energy losses and maximizing the return on investment for solar power system owners.\\nSafety and Reliability\\nSafety is of utmost importance when it comes to solar power installations. The DEYE 30Kw 3 Phase Hybrid Inverter adheres to stringent safety standards and incorporates various protection mechanisms to safeguard the system and its components. It features comprehensive protection against overvoltage, overcurrent, short circuits, and other electrical faults, ensuring a safe and reliable operation.\\nMaintenance and Warranty\\nThe inverter comes with a standard warranty, thereby providing peace of mind to users in case of any manufacturing defects or malfunctions.\\n\\nThe DEYE 30Kw 3 Phase Hybrid Inverter seamlessly integrates with solar power systems of various sizes and configurations. Its compatibility with different types of solar panels and battery technologies makes it a versatile choice for residential and commercial applications. The inverter’s intelligent energy management ensures optimal utilization of solar energy, resulting in increased self-consumption and reduced dependency on the grid.\\nConclusion\\nThe DEYE 30Kw 3 Phase Hybrid Inverter, SUN-30K-SG01HP3-EU, offers a powerful and efficient solution for harnessing solar energy. With its advanced features, intelligent energy management, and seamless integration capabilities, this inverter provides numerous benefits to solar power system owners. It promotes energy independence, along with cost savings and environmental sustainability, while also ensuring high performance, safety, and reliability.",
+      "short_description": "The Deye 30kW Hybrid Inverter, SUN-30K-SG01HP3-EU, is a powerful and efficient solution for residential and commercial solar power systems. Thanks to its advanced features, intelligent energy management, and seamless integration capabilities, this inverter maximizes energy utilization, thereby promoting cost savings and reducing reliance on the grid.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/03/Deye-3-Phase-Hybrid-Inverter-30K-1-150x150.webp",
+          "alt": "Deye 3 Phase Hybrid Inverter 30kw"
+        }
+      ],
+      "sku": "14295",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "High Power Output",
+            "Three-Phase Compatibility",
+            "Hybrid Functionality",
+            "Multiple MPPT Inputs",
+            "Intelligent Energy Management",
+            "Monitoring and Control"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "High Power Output",
+              "Three-Phase Compatibility",
+              "Hybrid Functionality",
+              "Multiple MPPT Inputs",
+              "Intelligent Energy Management",
+              "Monitoring and Control"
+            ],
+            "additional": {
+              "Weight": "83 kg",
+              "Dimensions": "30 × 54 × 92 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": null,
+            "certificates": [],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/03/Deye-3-Phase-Hybrid-Inverter-30K-Datasheet.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "83 kg",
+            "Dimensions": "30 × 54 × 92 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 62990
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "13553",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Fox 5kW 2nd Generation Hybrid Inverter",
+      "type": "simple",
+      "regular_price": "19990",
+      "sale_price": "",
+      "description": "Fox 5kW 2nd Generation Hybrid Inverter Highlights\\n\\n- Fast &amp; Simple Installation\\n\\n- Up to 6kW EPS Output for 60 seconds (with 3 batteries installed)\\n\\n- 6kW Fast Grid Charger\\n\\n- Easy Battery expansion up to 19kWh\\n\\n- Supports Parallel Installation\\n\\n- 10 Year Inverter and Battery Warranty\\n\\n- Full Remote Monitoring and over-the-air updates\\n\\n- Remote Configurable\\n\\n- Fanless Inverter / Low Noise Operation\\n\\n- 2 MPPT trackers\\n\\n- Supports up to 7.5kW of solar panels\\n\\n- All the components are engineered and integrated by one manufacturer\\n\\n- The battery complies with the highest safety standard European IEC 62619:2022\\n\\n- South African Grid Certified (NRS97-0-2-1)",
+      "short_description": "Harness the power of the sun day and night with the ground-breaking range of Hybrid &amp; AC inverters from Fox ESS. Full of advanced features and compatible with our very own range of high-voltage batteries, the hybrid ranges from Fox ESS. It is a new class of Inverter.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Fox-K-Series-10.5kW-300x300.webp",
+          "alt": "Fox 8kW Hybrid Inverter"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Fox-ESS-5kW-Single-Phase-Hybrid-Inverter-1-150x150.webp",
+          "alt": "Fox ESS 5kW Single Phase Hybrid Inverter"
+        }
+      ],
+      "sku": "13553",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Fox ESS"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Dimensions": "19 × 44 × 42 cm",
+              "Weight": "25 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Fox-5kW-Hybrid-Inverter-Data-Sheet.pdf",
+            "manual": null,
+            "certificates": []
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "19 × 44 × 42 cm",
+            "Weight": "25 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 19990
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "13860",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Dyness 8kW Hybrid Inverter",
+      "type": "simple",
+      "regular_price": "27490",
+      "sale_price": "",
+      "description": "The Dyness 8kW Hybrid Inverter series is designed for residential hybrid systems.<br>The inverter can work with Dyness low-voltage lithium-ion battery DL5.0X/DL5.0C/ Powerbox Pro to maximize self-consumption and provide backup power if the grid fails and there is not enough PV power to cover load demand.<p><strong>Description:</strong></p><ul class=\"wp-block-list\"><li>Generator connectivity with multiple input methods and automatic generator On/Off control.</li>\\n\\n<li>Automatic UPS switching (&lt;4ms)</li>\\n\\n<li>Supportive peak shaving controls in both “self-use” and “generator” mode.</li>\\n\\n<li>Up to 135A (5.0/6.0K) and 190A (8.0K) max charge/discharge current</li>\\n\\n<li>6 customizable charge/ discharge time settings</li>\\n\\n<li>10 second 200% surge power backup overload capacity.</li>\\n\\n<li>Support 1ph and 3ph flexible connection with max 36kW (5.0/6.0K) and 48kW (8.0K) in parallel.</li></ul>",
+      "short_description": "Dyness 8kW Hybrid Inverter series is designed for residential hybrid systems. The inverter can work with Dyness low-voltage lithium-ion battery DL5.0X/DL5.0C/ Powerbox Pro to maximize self-consumption and provide backup power if the grid fails and there is not enough PV power to cover load demand.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/02/Dyness-Hybrid-Inverter-Main-Picture-1-300x300.webp",
+          "alt": "Dyness 8kW Hybrid Inverter"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/11/Dyness500x333.jpg",
+          "alt": "Dyness"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/02/Dyness-Hybrid-Inverter-Main-Picture-2-150x150.webp",
+          "alt": "Dyness 8kW Hybrid Inverter"
+        }
+      ],
+      "sku": "13860",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Dyness"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Weight": "30 kg",
+              "Dimensions": "24 × 45 × 70 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": null,
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/02/8kWh-Hybrid-Inverters-Datasheet.pdf",
+            "certificates": []
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "30 kg",
+            "Dimensions": "24 × 45 × 70 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 27490
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "13586",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 40kWh Three Phase Grid Tie Inverter (LV)",
+      "type": "simple",
+      "regular_price": "45626.25",
+      "sale_price": "",
+      "description": "Deye 40kWh Three Phase String Inverter\\n\\nThe product portfolio covers from 6kW to 50kW which is able to satisfy majority needs of residential and commercial PV plants. Deye 3 Phase Grid Tie Solar String Inverter (LV).\\n\\n120V/208V, 127V/220V, 133V/230V and 50/60Hz, three phase system.\\n\\n4 MPP trackers, Max. efficiency up to 98.7%\\n\\nZero export application, VSG application\\n\\nString intelligent monitoring (optional)\\n\\nWide output voltage range\\n\\nAnti-PID function (Optional)",
+      "short_description": "Deye 40kWh Three Phase On Grid Inverter (LV)\\n\\n- 120V/208V, 127V/220V, 133V/230V and 50/60Hz, Three phase system\\n- 4 MPP trackers, Max. efficiency up to 98.7%\\n- Zero export application, VSG application\\n- String intelligent monitoring (optional)\\n- Wide output voltage range\\n- Anti-PID function (Optional)",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye-40kW-Three-Phase-Inverter-1-150x150.webp",
+          "alt": "Deye 40kW Three Phase Inverter"
+        }
+      ],
+      "sku": "13586",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "120V/208V, 127V/220V, 133V/230V and 50/60Hz, Three phase system",
+            "4 MPP trackers, Max. efficiency up to 98.7%",
+            "Zero export application, VSG application",
+            "String intelligent monitoring (optional)",
+            "Wide output voltage range",
+            "Anti-PID function (Optional)"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "120V/208V, 127V/220V, 133V/230V and 50/60Hz, Three phase system",
+              "4 MPP trackers, Max. efficiency up to 98.7%",
+              "Zero export application, VSG application",
+              "String intelligent monitoring (optional)",
+              "Wide output voltage range",
+              "Anti-PID function (Optional)"
+            ],
+            "additional": {
+              "Weight": "62 kg",
+              "Dimensions": "30 × 70 × 58 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": null,
+            "certificates": [],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye-40kWh-Three-Phase-String-Inverter-Data-Sheet.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "62 kg",
+            "Dimensions": "30 × 70 × 58 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 45626.25
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "13589",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 60kWh Three Phase Grid Tie Inverter",
+      "type": "simple",
+      "regular_price": "49335",
+      "sale_price": "",
+      "description": "Deye 60kWh Three Phase String Inverter\\n\\nDescription\\nDeye 60-80K grid-connected inverter is suited for medium and large-scale commercial rooftops and ground-mounted solar PV system in which reliability and stability are important. The full series inverter has 30% DC input oversizing ratio and 10% AC output overloading ratio, offering a faster return on investment.\\n\\nThanks to the smart monitoring platform, Deye full series inverter products support remotely shutdown immediately when accident occurs. Setting parameters and FW update remotely, which makes PV plant O&M easier.\\n\\n4 MPP trackers, Max. efficiency up to 98.7%\\nZero export application, VSG application\\nString intelligent monitoring (optional)\\nWide output voltage range\\nAnti-PID function (Optional)\\nType II DC/AC SP",
+      "short_description": "Deye 60kWh Three Phase On Grid Inverter\\n4 MPP trackers, Max. efficiency up to 98.7%\\nZero export application, VSG application\\nString intelligent monitoring (optional)\\nWide output voltage range\\nAnti-PID function (Optional)\\nType II DC/AC SP",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye-60kWh-Three-Phase-String-Inverter-1-150x150.webp",
+          "alt": "Deye 60kWh Three Phase String Inverter"
+        }
+      ],
+      "sku": "13589",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "4 MPP trackers, Max. efficiency up to 98.7%",
+            "Zero export application, VSG application",
+            "String intelligent monitoring (optional)",
+            "Wide output voltage range",
+            "Anti-PID function (Optional)",
+            "Type II DC/AC SP"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "4 MPP trackers, Max. efficiency up to 98.7%",
+              "Zero export application, VSG application",
+              "String intelligent monitoring (optional)",
+              "Wide output voltage range",
+              "Anti-PID function (Optional)",
+              "Type II DC/AC SP"
+            ],
+            "additional": {
+              "Dimensions": "30 × 70 × 58 cm",
+              "Weight": "62 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": null,
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye-60kWh-Three-Phase-String-Inverter-Data-Sheet.pdf",
+            "certificates": []
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "30 × 70 × 58 cm",
+            "Weight": "62 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 49335
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "12041",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 20kw Hybrid Inverter 3 Phase (SUN-20K-SG01HP3-EU-BM4)",
+      "type": "simple",
+      "regular_price": "43990",
+      "sale_price": "",
+      "description": "Model \\nDeye 20kw Hybrid Inverter 3 Phase (SUN-20K-SG01HP3-EU-AM2)\\nDeye 20kw Battery Input Data\\n\\nBattery Type: Lead-acid or Lithium-ion\\nBattery Voltage Range(V):150~700V\\nMax. Charging Current (A): 37\\nMax. Discharging Current (A): 37\\nNumber of battery input: 1\\nCharging Curve: 3 Stages / Equalization\\nCharging Strategy for Li-Ion Battery: Self-adaption to BMS\\nDeye 20kw PV String Input Data\\n\\nMax. DC Input Power (W): 26000W\\nMax. DC Input Voltage (V): 1000\\nStart-up Voltage (V): 180\\nMPPT Range (V): 150V-850V\\nFull Load DC Voltage Range (V): 500-850\\nPV Input Current (A): 26A+26A\\nMax. PV ISC (A): 39A+39A\\nNumber of MPPT / Strings per MPPT: 2/2\\nDeye 20kw AC Output Data\\n\\nRated AC Output and UPS Power (W): 20000W\\nMax. AC Output Power (W): 22000W\\nPeak Power (off grid): 1.5 times of rated power, 10 S\\nAC Output Rated Current (A): 30.3\\nMax. AC Current (A): 35\\nMax. Continuous AC Passthrough (A): 80A\\nOutput Frequency and Voltage: 50/60Hz;3L/N/PE 220/380Vac，230/400Vac\\nGrid Type: Three Phase\\nDC injection current (mA): <0.5%1n\\nDeye 20kw Efficiency\\n\\nMax. Efficiency: 97.60%\\nEuro Efficiency: 97.00%\\nMPPT Efficiency: 99.90%\\nDeye 20kw Protection\\n\\nPV Input Lightning Protection: Integrated\\nAnti-islanding Protection: Integrated\\nPV String Input Reverse Polarity Protection: Integrated\\nInsulation Resistor Detection: Integrated\\nResidual Current Monitoring Unit: Integrated\\nOutput Over Current Protection: Integrated\\nOutput Shorted Protection: Integrated\\nSurge protection: Integrated\\nOutput Over Voltage Protection: DC Type II / AC Type II\\nCertifications and Standards\\n\\nGrid Regulation:  CEI 0-21, VDE-AR-N 4105, NRS 097, IEC 62116, IEC 61727, G99, G98, VDE 0126-1-1, RD 1699, C10-11\\nSafety EMC / Standard: IEC/EN 61000-6-1/2/3/4, IEC/EN 62109-1, IEC/EN 62109-2\\nGeneral Data\\n\\nOperating Temperature Range (℃): -40~60℃, >45℃ Derating\\nCooling: Smart cooling\\nNoise (dB): <45 dB\\nCommunication with BMS: RS485; CAN\\nWeight (kg): 26\\nSize (mm): 434W×645H×245D\\nProtection Degree: IP65\\nInstallation Style: Wall-mounted\\nWarranty: 5 years",
+      "short_description": "Product Highlights\\n100% unbalanced output, each phase; Max. output up to 50% rated power\\nDC couple and AC couple to retrofit existing solar system\\nMax. 10 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel\\nMax. charging/discharging current of 37A\\nHigh voltage battery, higher efficiency\\n6 time periods for battery charging/discharging\\nSupport storing energy from diesel generator",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/10/SG01HP3-1-150x150.jpg",
+          "alt": ""
+        }
+      ],
+      "sku": "12041",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Dimensions": "50 × 66 × 38 cm",
+              "Weight": "30 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/04/SUN-50K-SG01HP3-EU-BM4_usermanual.pdf",
+            "certificates": [],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/10/SUN-5-25K-3-phase.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "50 × 66 × 38 cm",
+            "Weight": "30 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 43990
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "9756",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 50kw Hybrid Inverter 3 Phase (SUN-50K-SG01HP3-EU-BM4)",
+      "type": "simple",
+      "regular_price": "91990",
+      "sale_price": "",
+      "description": "Deye 50kw Hybrid Inverter 3 Phase&nbsp;is a brand new series of 3 phase hybrid inverter supporting 160-700V HV Battery, ensuring system efficiency and less heat dissipation. With compact design and high-power density, this series supports 1.3 DC/AC ratio, saving device investment. It supports three phase unbalanced output, extending the application scenarios.&nbsp;\\n<h3 class=\"wp-block-heading\" id=\"h-smart-monitoring-platform\">Smart Monitoring Platform</h3><ul class=\"wp-block-list\"><li>Thanks to the smart monitoring platform, Deye 50kw Hybrid Inverter 3 Phase products support remotely shutdown immediately when accident occurs. Setting parameters and FW update remotely, which makes PV plant O&amp;M easier.</li></ul><h2 class=\"wp-block-heading\">Product Highlights</h2><ul class=\"wp-block-list\"><li>100% unbalanced output</li>\\n\\n<li>each phase AC couple to retrofit existing solar system</li>\\n\\n<li>*Max. 10 pcs parallel for on-grid and off-grid operation</li>\\n\\n<li>Support multiple batteries parallel</li>\\n\\n<li>Max. charging/discharging current of 100A</li>\\n\\n<li>High voltage battery, higher efficiency</li>\\n\\n<li>6 time periods for battery charging/discharging</li>\\n\\n<li>Support storing energy from diesel generator</li></ul>",
+      "short_description": "Deye 50kw Hybrid Inverter 3 Phase is a brand new series of 3 phase hybrid inverter supporting 160-700V HV Battery, ensuring system efficiency and less heat dissipation.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/04/Deye50kw_1-150x150.jpg",
+          "alt": "Deye 50kw Hybrid inverter 3 phase with smart monitoring"
+        }
+      ],
+      "sku": "9756",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "100% unbalanced output",
+            "each phase AC couple to retrofit existing solar system",
+            "*Max. 10 pcs parallel for on-grid and off-grid operation",
+            "Support multiple batteries parallel",
+            "Max. charging/discharging current of 100A",
+            "High voltage battery, higher efficiency",
+            "6 time periods for battery charging/discharging",
+            "Support storing energy from diesel generator"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "100% unbalanced output",
+              "each phase AC couple to retrofit existing solar system",
+              "*Max. 10 pcs parallel for on-grid and off-grid operation",
+              "Support multiple batteries parallel",
+              "Max. charging/discharging current of 100A",
+              "High voltage battery, higher efficiency",
+              "6 time periods for battery charging/discharging",
+              "Support storing energy from diesel generator"
+            ],
+            "additional": {
+              "Weight": "80 kg",
+              "Dimensions": "94 × 64 × 46 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/04/SUN-50K-SG01HP3-EU-BM4_Datasheet.pdf",
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/04/SUN-50K-SG01HP3-EU-BM4_usermanual.pdf",
+            "certificates": []
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "80 kg",
+            "Dimensions": "94 × 64 × 46 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 91990
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "13562",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Fox 30kW 2nd Generation Hybrid Inverter",
+      "type": "simple",
+      "regular_price": "70990",
+      "sale_price": "",
+      "description": "Fox 30kW 2nd Generation Hybrid Inverter Highlights:\\n\\nPower Output: The H3 Pro series is available in power classes ranging from 10 to 30 kW.\\n\\nMPPTs: The H3 Pro series features 3 Maximum Power Point Trackers (MPPTs) for diverse solar-oriented rooftops.\\n\\nDC Inputs: The inverters have high-current DC inputs.\\n\\nIntegration: The H3 Pro series is designed to integrate with smart homes and Fox ESS energy management systems.\\n\\nBattery Inputs: The inverters offer a maximum of two battery inputs (2 Ports)* and a vast selection of battery options, enabling customers to expand their capacities up to 66 kWh each by adding 2 stacks of 1 master and 6 slaves ECS batteries.\\n\\nParallel Configuration: In industrial/commercial mode, several H3 Pro inverters can be configured in parallel, creating a battery system with a maximum capacity of 660 kWh.\\n\\nEmergency Power Supply: The inverters are equipped with a built-in emergency power supply, allowing them to establish an independent grid for emergency power supply within 20ms or less during a blackout or grid disconnection.\\n\\nPlug-and-Play: The H3 Pro series is an easy plug-and-play solution and fits perfectly with Fox ESS high voltage batteries-lines ECS 2800/2900/4100/4300/4800, as well as MIRA and HV 2600 batteries.\\n\\nCommunication Options: This series inverter is available with multiple communication options such as WiFi, GPRS, RS485, and Meter with an external device. Operating information like output voltage, current, frequency, fault information, etc. can be monitored locally or remotely via these interfaces.",
+      "short_description": "Introducing the groundbreaking fox-30kw-2nd-generation-hybrid-inverter with an extended power output range of 10kW to 30kW. This inverter also allows for the option of parallel installation allowing for scalability up to an impressive 300kW maximum output.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Fox-K-Series-10.5kW-Canva-2nd.webp",
+          "alt": "Fox K Series 10.5kW"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Fox-Titanium-30kW-Three-Phase-Hybrid-AC-Inverter-150x150.webp",
+          "alt": "Fox Titanium 30kW Three - Phase Hybrid AC Inverter"
+        }
+      ],
+      "sku": "13562",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Fox ESS"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Dimensions": "30 × 60 × 56 cm",
+              "Weight": "60 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Fox-30kW-Three-Phase-Hybrid-AC-Inverter-Data-Sheet.pdf",
+            "certificates": [],
+            "manual": null
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "30 × 60 × 56 cm",
+            "Weight": "60 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 70990
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "14412",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "LuxPower 6Kw Eco Hybrid Inverter",
+      "type": "simple",
+      "regular_price": "10590",
+      "sale_price": "",
+      "description": "The LuxPower 6Kw Eco Hybrid inverter supports several working modes, including Pure off-grid working mode: working as traditional off-grid inverters, can prioritize between using AC power or solar power. Hybrid working mode: working as a hybrid, supporting solar and utility jointly taking the load can choose between self- consumption mode or change priority mode.\\nWith thousands of hybrid inverters & AC units installed around the world,\\nLuxpower has stepped even further to bring power to every home, with or without grid power.\\n\\nLuxPower 6Kw Eco Hybrid series off grid inverters can support the system to work as back-up power or a replacement for diesel generator. Since the inverter support paralleling function. The capacity of the system can range from 3kW to 50kW.\\n\\nReclaim Your Power\\n\\nOff grid seamless switching\\nWide PV input voltage range\\nGreat battery compatibility\\nSingle Phase / Unbalanced 3-Phase\\nSupport up to 16pcs in parallel.\\nSeparate generator port available\\nIntelligent off grid & hybrid modes",
+      "short_description": "The LuxPower 6Kw Eco Hybrid inverter supports several working modes, including Pure off-grid working mode: working as traditional off-grid inverters, can prioritize between using AC power or solar power.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/03/LUX-SNA6000-150x150.jpg",
+          "alt": "LuxPower 6kW Hybrid Inverter"
+        }
+      ],
+      "sku": "14412",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Lux Power"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Intelligent working modes",
+            "Stronger EPS",
+            "Easy to use with battery",
+            "IP65, indoor & outdoor use",
+            "Advanced Parallel, up to 60kW",
+            "Plug & Play, seamless switching under 10ms"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "Intelligent working modes",
+              "Stronger EPS",
+              "Easy to use with battery",
+              "IP65, indoor & outdoor use",
+              "Advanced Parallel, up to 60kW",
+              "Plug & Play, seamless switching under 10ms"
+            ],
+            "additional": {
+              "Dimensions": "15 × 32 × 52 cm",
+              "Weight": "16 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2024/03/SNA-3-6K-.pdf",
+            "certificates": [],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/11/Lux-SNA-5000-and-6000-Data-sheet-new-1.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "15 × 32 × 52 cm",
+            "Weight": "16 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 10590
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "3 in stock (can be backordered)"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "10600",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Lux Power 12kW Hybrid Inverter Single Phase (LXP-LB12K)",
+      "type": "simple",
+      "regular_price": "32490",
+      "sale_price": "",
+      "description": "Lux Power 12kW Hybrid Inverter Single Phase is new design of solar and battery inverter that you can use in on-grid solar, off-grid solar and back-up systems. \\n\\nThe LXP Hybrid implements a programmable and scheduled intelligent solar storage system. This power inverter battery can help increase your solar energy self-use and protect your home appliances from grid shortages. Power battery inverter can also balance your energy use strategy to save on energy costs\\n\\nLux Power 12kW Hybrid Description\\nBattery Parameters\\n• Compatible Battery Type: Lead-acid / Lithium\\n• Nominal Battery Voltage: 48VDC\\n• Battery Voltage Range: 40VDC-60VDC\\n• Maximum Charge / Discharge Current: 250A\\n• Maximum Charge / Discharge Power: 12 000W\\n\\nDC PV Input\\n• Max DC Input for Single MPPT: 12 000W / 7 000W / 7 000W\\n• Maximum PV Input: 18 000W\\n• DC Input Voltage Range: 100VDC-600VDC\\n• Nominal DC Input Voltage: 360VDC\\n• Full Power MPPT Voltage Range: 230VDC-500VDC\\n• Maximum DC Input Current: 25A / 15A / 15A\\n• MPPT Number / Strings per MPPT: 3(2/1/1)\\n\\nAC Output (Grid)\\n• Nominal Power: 12 000W\\n• Nominal AC Voltage: 240VAC\\n• Operating Voltage Range: 180VAC-270VAC\\n• Maximum Continuous AC Current: 50A @ 240VAC\\n• Nominal AC Frequency: 50Hz / 60Hz\\n\\nUPS Output (With Battery)\\n• UPS Max Output Power: 12 000W\\n• UPS Nominal Output Voltage: 240VAC\\n• UPS Nominal Output Frequency: 50Hz / 60Hz\\n• UPS Nominal Output Current: 50A @ 240VAC\\n• Peak Power: 14Kw 10Min / 16Kw 5 Min / 20Kw 500ms\\n• Switching Time: <20ms\\n\\nEnvironment Limit\\n• Ingress Protection: IP65\\n• Operating Temperature Range: -25°C to +60°C\\n• Cooling: Fan\\n• Communication: RS485 / WIFI / CAN",
+      "short_description": "<h3>Product Highlights</h3><ul>\\n<li>&nbsp;Maximum Efficiency: 97.5%&nbsp;</li>\\n<li>Integrated DC Switch</li>\\n<li>Transformerless Design&nbsp;</li>\\n<li>Supports Paralleling</li>\\n</ul>\\n",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/Luxpower-Hybrid-LXP-LB-12Kw-3-150x150.jpg",
+          "alt": ""
+        }
+      ],
+      "sku": "10600",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Lux Power"
+          ]
+        },
+        {
+          "name": "Technical Specifications",
+          "visible": true,
+          "options": [
+            "Compatible Battery Type: Lead-acid / Lithium",
+            "Nominal Battery Voltage: 48VDC",
+            "Battery Voltage Range: 40VDC-60VDC",
+            "Maximum Charge / Discharge Current: 250A",
+            "Maximum Charge / Discharge Power: 12 000W",
+            "Max DC Input for Single MPPT: 12 000W / 7 000W / 7 000W",
+            "Maximum PV Input: 18 000W",
+            "DC Input Voltage Range: 100VDC-600VDC",
+            "Nominal DC Input Voltage: 360VDC",
+            "Full Power MPPT Voltage Range: 230VDC-500VDC",
+            "Maximum DC Input Current: 25A / 15A / 15A",
+            "MPPT Number / Strings per MPPT: 3(2/1/1)",
+            "Nominal Power: 12 000W",
+            "Nominal AC Voltage: 240VAC",
+            "Operating Voltage Range: 180VAC-270VAC",
+            "Maximum Continuous AC Current: 50A @ 240VAC",
+            "Nominal AC Frequency: 50Hz / 60Hz",
+            "UPS Max Output Power: 12 000W",
+            "UPS Nominal Output Voltage: 240VAC",
+            "UPS Nominal Output Frequency: 50Hz / 60Hz",
+            "UPS Nominal Output Current: 50A @ 240VAC",
+            "Peak Power: 14Kw 10Min / 16Kw 5 Min / 20Kw 500ms",
+            "Switching Time: <20ms",
+            "Ingress Protection: IP65",
+            "Operating Temperature Range: -25°C to +60°C",
+            "Cooling: Fan",
+            "Communication: RS485 / WIFI / CAN"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Maximum Efficiency: 97.5%",
+            "Integrated DC Switch",
+            "Transformerless Design",
+            "Supports Paralleling"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "technical": [
+              "Compatible Battery Type: Lead-acid / Lithium",
+              "Nominal Battery Voltage: 48VDC",
+              "Battery Voltage Range: 40VDC-60VDC",
+              "Maximum Charge / Discharge Current: 250A",
+              "Maximum Charge / Discharge Power: 12 000W",
+              "Max DC Input for Single MPPT: 12 000W / 7 000W / 7 000W",
+              "Maximum PV Input: 18 000W",
+              "DC Input Voltage Range: 100VDC-600VDC",
+              "Nominal DC Input Voltage: 360VDC",
+              "Full Power MPPT Voltage Range: 230VDC-500VDC",
+              "Maximum DC Input Current: 25A / 15A / 15A",
+              "MPPT Number / Strings per MPPT: 3(2/1/1)",
+              "Nominal Power: 12 000W",
+              "Nominal AC Voltage: 240VAC",
+              "Operating Voltage Range: 180VAC-270VAC",
+              "Maximum Continuous AC Current: 50A @ 240VAC",
+              "Nominal AC Frequency: 50Hz / 60Hz",
+              "UPS Max Output Power: 12 000W",
+              "UPS Nominal Output Voltage: 240VAC",
+              "UPS Nominal Output Frequency: 50Hz / 60Hz",
+              "UPS Nominal Output Current: 50A @ 240VAC",
+              "Peak Power: 14Kw 10Min / 16Kw 5 Min / 20Kw 500ms",
+              "Switching Time: <20ms",
+              "Ingress Protection: IP65",
+              "Operating Temperature Range: -25°C to +60°C",
+              "Cooling: Fan",
+              "Communication: RS485 / WIFI / CAN"
+            ],
+            "features": [
+              "Maximum Efficiency: 97.5%",
+              "Integrated DC Switch",
+              "Transformerless Design",
+              "Supports Paralleling"
+            ],
+            "additional": {
+              "Weight": "46 kg",
+              "Dimensions": "70 × 55 × 30 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "certificates": [
+              "https://www.pvpower.co.za/wp-content/uploads/2023/06/CN-PV-220171_Security.pdf",
+              "https://www.pvpower.co.za/wp-content/uploads/2023/06/Approved-Photovoltaic-PV-Inverter-List-1-1.pdf"
+            ],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/06/LXP-12K-EU-usermanual-1012.pdf",
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/06/LXP-12K-EU-usermanual-1012.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "46 kg",
+            "Dimensions": "70 × 55 × 30 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 32490
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "10580",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Lux Power: Inverter 10KW Hybrid LV Single Phase (LXP10K)",
+      "type": "simple",
+      "regular_price": "31490",
+      "sale_price": "",
+      "description": "Luxpower 10kW Hybrid Inverter, model LXP10K is ready to take your\\nsolar system\\nto the next level. The\\nLuxpower 10Kw Hybrid Inverter\\nis an inverter for\\nsolar panels an inverter for solar power. This solar inverter with battery and solar panels converts the DC electricity generated by your solar panels into AC electricity. It has the ability to connect with solar panels and store energy in the lithium ion battery.\\n\\nDescription\\nBattery Parameters\\n• Compatible Battery Type: Lead-acid / Lithium\\n• Nominal Battery Voltage: 48VDC\\n• Battery Voltage Range: 40VDC-60VDC\\n• Maximum Charge / Discharge Current: 210A\\n• Maximum Charge / Discharge Power: 10 000W\\nDC PV Input\\n• Max DC Input for Single MPPT: 12 000W / 7 000W / 7 000W\\n• Maximum PV Input: 16 000W\\n• DC Input Voltage Range: 100VDC-600VDC\\n• Nominal DC Input Voltage: 360VDC\\n• Full Power MPPT Voltage Range: 210VDC-500VDC\\n• Maximum DC Input Current: 25A / 15A / 15A\\n• MPPT Number / Strings per MPPT: 3(2/1/1)\\nAC Output (Grid)\\n• Nominal Power: 10 000W\\n• Nominal AC Voltage: 240VAC\\n• Operating Voltage Range: 180VAC-270VAC\\n• Maximum Continuous AC Current: 41.6A @ 240VAC\\n• Nominal AC Frequency: 50Hz / 60Hz\\nUPS Output (With Battery)\\n• UPS Max Output Power: 10 000W\\n• UPS Nominal Output Voltage: 240VAC\\n• UPS Nominal Output Frequency: 50Hz / 60Hz\\n• UPS Nominal Output Current: 41.6A @ 240VAC\\n• Peak Power: 14Kw 10Min / 16Kw 5 Min / 20Kw 500ms\\n• Switching Time: <20ms\\nEnvironment Limit\\n• Ingress Protection: IP65\\n• Operating Temperature Range: -25°C to +60°C\\n• Cooling: Fan\\n• Communication: RS485 / WIFI / CAN",
+      "short_description": "Luxpower 10kW Hybrid Inverter, model LXP10K is ready to take your\\nsolar system\\nto the next level. The\\nLuxpower 10Kw Hybrid Inverter\\nis an inverter for\\nsolar panels an inverter for solar power. This solar inverter with battery and solar panels converts the DC electricity generated by your solar panels into AC electricity. It has the ability to connect with solar panels and store energy in the lithium ion battery.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/02/LXP5K.JPG-300x300.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/Luxpower-Hybrid-LXP-LB-12Kw-3-300x300.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/11/LuxPower500x333.jpg",
+          "alt": "Lux Power"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/06/LXP10ka-150x150.jpg",
+          "alt": ""
+        }
+      ],
+      "sku": "10580",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Lux Power"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Dimensions": "65 × 50 × 30 cm",
+              "Weight": "40 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/06/Hybrid-10k-EU-Usermanual-0810.pdf",
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/06/LUXPOWER-Hybrid-LB-EU-10K.pdf",
+            "certificates": [
+              "https://www.pvpower.co.za/wp-content/uploads/2023/06/CN-PV-220166_Security.pdf",
+              "https://www.pvpower.co.za/wp-content/uploads/2023/06/Approved-Photovoltaic-PV-Inverter-List-1.pdf"
+            ]
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "65 × 50 × 30 cm",
+            "Weight": "40 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 31490
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "14228",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "SRNE 5kw Inverter Off Grid",
+      "type": "simple",
+      "regular_price": "8900",
+      "sale_price": "",
+      "description": "Discover the power of the SRNE 5Kw Off Grid inverter – robust, efficient, and perfect for home use. Designed by SRNE Solar, this cutting-edge inverter features Rated Power of 5,000W and a Max. Peak Power of 10,000VA. Moreover, its single MPP tracker ensures seamless solar energy management. Furthermore, this&nbsp;inverter is compatible with both Li-ion and Lead acid batteries offering flexibility for various energy storage setups.\\n\\n• Outputs high quality pure sine wave AC power\\n• Up to 6 units in parallel connection meet the needs\\nReliable\\n• Industrial design with a modern aesthetic look\\n• Easy to install and simple to use\\nUser-friendly\\n• 360 degrees of security from hardware to software\\n• IEC safety approvals\\nSafety\\n• Solar charge controller up to 100A charging current\\nAll-in-one\\n• Exclusive Li-ion battery BMS dual activation\\n• Time-slot function to save cost with peak-valley tariff",
+      "short_description": "Discover the power of the SRNE 5Kw Off Grid inverter – robust, efficient, and perfect for home use. Designed by SRNE Solar, this cutting-edge inverter features Rated Power of 5,000W and a Max. Peak Power of 10,000VA. Moreover, its single MPP tracker ensures seamless solar energy management. Furthermore, this inverter is compatible with both Li-ion and Lead-acid batteries, offering flexibility for various energy storage setups.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/03/SRNE-24V-200AH-5.12kwh-Lithium-Battery-300x300.webp",
+          "alt": "SRNE 24V 200AH 5.12kwh Lithium Battery"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/07/LUX-ECO-Beast-300x300.webp",
+          "alt": "Lux Eco beast"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/01/SRNE500X333.jpg",
+          "alt": "SRNE"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/09/Avatar-Monique-Products.png",
+          "alt": "wws"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/03/SRNE-5kw-Inverter-Off-Grid-2-150x150.webp",
+          "alt": "SRNE 5kw Inverter with Wifi Dongle"
+        }
+      ],
+      "sku": "14228",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "SRNE"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Outputs high quality pure sine wave AC power",
+            "Up to 6 units in parallel connection meet the needs",
+            "Industrial design with a modern aesthetic look",
+            "Easy to install and simple to use",
+            "360 degrees of security from hardware to software",
+            "IEC safety approvals",
+            "Solar charge controller up to 100A charging current",
+            "Exclusive Li-ion battery BMS dual activation",
+            "Time-slot function to save cost with peak-valley tariff"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "Outputs high quality pure sine wave AC power",
+              "Up to 6 units in parallel connection meet the needs",
+              "Industrial design with a modern aesthetic look",
+              "Easy to install and simple to use",
+              "360 degrees of security from hardware to software",
+              "IEC safety approvals",
+              "Solar charge controller up to 100A charging current",
+              "Exclusive Li-ion battery BMS dual activation",
+              "Time-slot function to save cost with peak-valley tariff"
+            ],
+            "additional": {
+              "Dimensions": "16 × 46 × 38 cm",
+              "Weight": "15 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": null,
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/03/SRNE_HYP-series_48V_5kW_Solar-storage-inverter_User-manual_V2.2.pdf",
+            "certificates": []
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "16 × 46 × 38 cm",
+            "Weight": "15 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 8900
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "HF2430S80-H",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "SRNE 3KW 80a Hybrid Off Grid Inverter (HF2430S80-H)",
+      "type": "simple",
+      "regular_price": "6090",
+      "sale_price": "",
+      "description": "HF Series is new hybrid solar charge inverter, which integrates PV charge &amp;Grid(Generator) charge with AC sine wave output. Adopting DPS control algorithm, getting higher response speed, higher reliability and higher industrial standard.\\n\\nParallel 2 x 12V batteries to get your 24v system working.",
+      "short_description": "HF Series is new hybrid solar charge inverter, which integrates PV charge &amp;Grid(Generator) charge with AC sine wave output. Adopting DPS control algorithm, getting higher response speed, higher reliability and higher industrial standard.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/03/1_AllinOne-300x300.jpg",
+          "alt": "SRNE All-In-One 3.5kw"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/01/5kw-off-grid-inverter-5-800x800-1-150x150.jpg",
+          "alt": ""
+        }
+      ],
+      "sku": "HF2430S80-H",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "SRNE"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Load friendly: Stable sine wave AC output via SPWM modulation",
+            "Supports a wide range of battery technology: GEL, AGM, Flooded, LFP, and program.",
+            "Dual LFP battery activation method: PV&amp;mains",
+            "Uninterrupted power supply: simultaneous connection to utility grid/generator and PV",
+            "Intelligent programming: the priority of the output from different energy sources can be set",
+            "High energy efficiency: up to 99.9% MPPT capture efficiency",
+            "Instant viewing of operation: the LCD panel displays data and settings ,while you can also be viewed using the app and webpage",
+            "Power saving: power saving mode automatically reduces power consumption at zero-load",
+            "Efficient heat dissipation: via intelligent adjustable speed fans",
+            "Multiple safety protection functions: short circuit protection, overload protection, reverse polarity protection, and so on.",
+            "Under-voltage and Over-voltage protection and reverse polarity protection."
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "Load friendly: Stable sine wave AC output via SPWM modulation",
+              "Supports a wide range of battery technology: GEL, AGM, Flooded, LFP, and program.",
+              "Dual LFP battery activation method: PV&amp;mains",
+              "Uninterrupted power supply: simultaneous connection to utility grid/generator and PV",
+              "Intelligent programming: the priority of the output from different energy sources can be set",
+              "High energy efficiency: up to 99.9% MPPT capture efficiency",
+              "Instant viewing of operation: the LCD panel displays data and settings ,while you can also be viewed using the app and webpage",
+              "Power saving: power saving mode automatically reduces power consumption at zero-load",
+              "Efficient heat dissipation: via intelligent adjustable speed fans",
+              "Multiple safety protection functions: short circuit protection, overload protection, reverse polarity protection, and so on.",
+              "Under-voltage and Over-voltage protection and reverse polarity protection."
+            ],
+            "additional": {
+              "Dimensions": "40 × 30 × 11 cm",
+              "Weight": "10 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/01/HF2430S80-H-All-in-one-Solar-Charger-Inverter-User-Manual.pdf",
+            "certificates": [],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/01/HF2430S80-H-Specification.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "40 × 30 × 11 cm",
+            "Weight": "10 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "regular": null,
+            "current": 6090,
+            "sale": null
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "13559",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Fox 10.5 2nd Generation Hybrid Inverter",
+      "type": "simple",
+      "regular_price": "35690",
+      "sale_price": "",
+      "description": "**The Fox 10.5 2nd Generation Hybrid Inverter **\\n\\nThe all-new Single Phase 10.5kW Hybrid Inverter full of advanced features paired with the Fox Energy Cube range of high voltage battery storage. A lego block style 4.03kWh stackable.\\n\\n\\n**Fox 10.5 2nd Generation Hybrid Inverter Highlights:**\\n\\n* The FoxESS 10.5 supports up to 15kW solar panels\\xa0\\n* 4 MPPT trackers\\xa0\\n* 10.5kW Continuous backup power\\xa0\\n* 12kW for 60 seconds\\xa0\\n* Can be installed in parallel for up to 10 units\\xa0\\n* High voltage lego block 4.03kWh battery from 3 pcs – 7 pcs for up to 28.21kW\\xa0\\n* Monitor the system remotely using a web portal or smartphone app / Remote system updates\\n* South African Grid Certified (NRS97-0-2-1) / On the approved Inverter list for the City Of Cape Town\\xa0",
+      "short_description": "Fox 10.5 2nd Generation Hybrid Inverter Harness the power of the sun day and night with the ground-breaking range of Hybrid & AC inverters from FOX. Full of advanced features and compatible with our very own range of high-voltage batteries, the hybrid range from FOX is a new class of Inverter.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Fox-K-Series-10.5kW-Canva-2nd-150x150.webp",
+          "alt": "Fox K Series 10.5kW"
+        }
+      ],
+      "sku": "13559",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Fox ESS"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Dimensions": "21 × 45 × 53 cm",
+              "Weight": "30 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "certificates": [],
+            "manual": null,
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Fox-10.5kW-Hybrid-Inverter-Data-Sheet.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "21 × 45 × 53 cm",
+            "Weight": "30 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 35690
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "13556",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Fox 8kW 2nd Generation Hybrid Inverter",
+      "type": "simple",
+      "regular_price": "32990",
+      "sale_price": "",
+      "description": "The Fox 8 & 8 is an 8kW Hybrid Inverter with 8.2kWh of High Voltage battery that supports 8kw of load. It has 3\\xa0MPPT’s, supports up to 12kW of solar panels and can be installed in parallel.\\nFox 8kW 2nd Generation Hybrid Inverter Highlights:\\n\\nFast & Simple Installation\\n3 MPPT trackers – Supports up to 12kW of solar panels.\\nUp to 10kW EPS Output for 60 seconds (with 4 batteries installed)\\n8 kW Fast Grid Charger\\nEasy Battery expansion up to 19kWh\\nSupports Parallel Installation\\n10 Year Inverter and Battery Warranty\\nSmart Phone APP, Full Remote Configuration and over-the-air updates\\nFanless Inverter / Low Noise Operation\\nAll the components are engineered and integrated by one manufacturer\\nThe battery complies with the highest safety standard European IEC 62619:2022\\nSouth African Grid Certified (NRS97-0-2-1)\\n",
+      "short_description": "Fox 8kW 2nd Generation Hybrid Inverter\\nHarness the power of the sun day and night with the ground-breaking range of Hybrid & AC inverters from FOX. Full of advanced features and compatible with our very own range of high-voltage batteries, the hybrid range from FOX is a new class of Inverter.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Fox-K-Series-10.5kW-150x150.webp",
+          "alt": "Fox 8kW Hybrid Inverter"
+        }
+      ],
+      "sku": "13556",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Fox ESS"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Fast & Simple Installation",
+            "3 MPPT trackers – Supports up to 12kW of solar panels.",
+            "Up to 10kW EPS Output for 60 seconds (with 4 batteries installed)",
+            "8 kW Fast Grid Charger",
+            "Easy Battery expansion up to 19kWh",
+            "Supports Parallel Installation",
+            "10 Year Inverter and Battery Warranty",
+            "Smart Phone APP, Full Remote Configuration and over-the-air updates",
+            "Fanless Inverter / Low Noise Operation",
+            "All the components are engineered and integrated by one manufacturer",
+            "The battery complies with the highest safety standard European IEC 62619:2022",
+            "South African Grid Certified (NRS97-0-2-1)"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "Fast & Simple Installation",
+              "3 MPPT trackers – Supports up to 12kW of solar panels.",
+              "Up to 10kW EPS Output for 60 seconds (with 4 batteries installed)",
+              "8 kW Fast Grid Charger",
+              "Easy Battery expansion up to 19kWh",
+              "Supports Parallel Installation",
+              "10 Year Inverter and Battery Warranty",
+              "Smart Phone APP, Full Remote Configuration and over-the-air updates",
+              "Fanless Inverter / Low Noise Operation",
+              "All the components are engineered and integrated by one manufacturer",
+              "The battery complies with the highest safety standard European IEC 62619:2022",
+              "South African Grid Certified (NRS97-0-2-1)"
+            ],
+            "additional": {
+              "Weight": "30 kg",
+              "Dimensions": "21 × 45 × 53 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Fox-8kW-Hybrid-Inverter-Data-Sheet.pdf",
+            "manual": null,
+            "certificates": []
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "30 kg",
+            "Dimensions": "21 × 45 × 53 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 32990
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "7736",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 16kw Hybrid Inverter (SUN-16K-SG01LP1-EU)",
+      "type": "simple",
+      "regular_price": "44990",
+      "sale_price": "",
+      "description": "Deye 16kw Hybrid Inverter, is suitable for residential and light commercial use, maximizing self-consumption rate of solar energy and increasing your energy impendence. &nbsp; \\nDuring the day, the PV system generates electricity which will be provided to the loads initially. Then, the excess energy will charge the battery via SUN 12/14/16K-SG. \\nFinally, the stored energy can be released when the loads require it. The battery can also be charged by the diesel generator to ensure uninterrupted supply in the event of grid blackout.\\nDescription\\nSmart Monitoring Platform\\nThanks to the smart monitoring platform, Deye full series inverter products support remotely shutdown immediately when accident occurs. Setting parameters and FW update remotely, which makes PV plant O&amp;M easier.\\nDeye 16kw Hybrid Inverter Single Phase come with RS485/CAN port for battery communication.\\n<br></p><p><br></p>",
+      "short_description": "LCD Touch screen and buttons, easy operation.\\nCompatible with lithium-ion battery and lead acid battery.\\nWeb browser and mobile App monitoring supported.\\nPV lighting protection, Anti-islanding protection, Leakage current protection etc.\\nIncludes:&nbsp; Wi-Fi Dongle + BMS Communication Cable",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Deye-5kw-1-300x300.jpg",
+          "alt": "Deye 5kw"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/12kwMain-300x300.png",
+          "alt": "Deye 12kw Hybrid inverter"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Deye-12kw-Hybrid-Inverter-1-Phase-150x150.jpg",
+          "alt": "16kw deye"
+        }
+      ],
+      "sku": "7736",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Weight": "75 kg",
+              "Dimensions": "98 × 70 × 60 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2022/10/【b】sun-12-16k-sg01lp1-eu-142.5x210mm-ver2.2.pdf",
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Deye-SUN-12-16-K-SG01LP1-EU-Data-sheet.pdf",
+            "certificates": [
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/Compliance-of-PV-Inverter-1.pdf",
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/COC-of-Deye-Inverter-1.pdf"
+            ]
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "75 kg",
+            "Dimensions": "98 × 70 × 60 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 44990
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "2 in stock"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "14080",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Huawei Power M 5kW Inverter – All in One Hybrid Solution",
+      "type": "simple",
+      "regular_price": "43010",
+      "sale_price": "",
+      "description": "The Huawei Inverter 5kW and 5.12kWh Battery All-in-One is a hybrid inverter system that combines a solar inverter and a lithium- ion battery into a single unit. This makes it a popular choice for homeowners who want to back up their homes with solar power during outages. Redefine Renewable: The Huawei Inverter Experience. Innovation Meets Power: The Introduction of Huawei Inverters in South Africa.",
+      "short_description": "The Huawei Inverter 5kW and 5.12kWh Battery All-in-One is a hybrid inverter system that combines a solar inverter and a lithium- ion battery into a single unit. This makes it a popular choice for homeowners who want to back up their homes with solar power during outages. Redefine Renewable: The Huawei Inverter Experience. Innovation Meets Power: The Introduction of Huawei Inverters in South Africa.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/01/Deye-110kWh-Three-Phase-String-Inverter-2nd.png.webp",
+          "alt": "Deye 110kWh Three Phase String Inverter"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/03/SRNE-24V-200AH-5.12kwh-Lithium-Battery.webp",
+          "alt": "SRNE 24V 200AH 5.12kwh Lithium Battery"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/03/huawei-logo.webp",
+          "alt": "Huawei"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2024/03/Huawei-5Kw-Inverter-Front-View-1-1-150x150.webp",
+          "alt": "Huawei-5Kw-Inverter-Front-View"
+        }
+      ],
+      "sku": "14080",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Huawei"
+          ]
+        },
+        {
+          "name": "Technical Specifications",
+          "visible": true,
+          "options": [
+            "Rated Power Output: 6 kVA / 5kW.",
+            "Output Voltage: 230 VAC/50Hz.",
+            "Max. Output Current: 25.8A.",
+            "Max. Bypass Input Power: 6kW.",
+            "AC Input Voltage: 230VAC/50Hz.",
+            "Surge Protection: 3 kVA/5 kVA, 8/20s.",
+            "Max. Input Current: 30.",
+            "Start-up Voltage: 100VDC.",
+            "MPPT Voltage: 90-420VDC.",
+            "Max. Input Voltage (Voc): 435VDC.",
+            "Max. Input Current (Isc): 2 x 15 A.",
+            "Recommended PV Power: 5000 Wp.",
+            "No. PV Strings/MPPT Routes: 2/1.",
+            "Optimizer Compatibility: DC Mbus Compatible.",
+            "DC Surge Protection: 10 kA, 8/20 s, criterion C.",
+            "Max. Input Current per Strings: 15 A.",
+            "Communication: Wi-Fi.",
+            "Display: LED’s, NetEco.",
+            "Battery Module Capacity: 5kWh per module.",
+            "Max. Output Power: 2.5kw per module, 5kW per ESS.",
+            "Output/Input Voltage: 370-480VDC.",
+            "Cycle Life: 6000 cycles @ 25 C, 100% DOD"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "technical": [
+              "Rated Power Output: 6 kVA / 5kW.",
+              "Output Voltage: 230 VAC/50Hz.",
+              "Max. Output Current: 25.8A.",
+              "Max. Bypass Input Power: 6kW.",
+              "AC Input Voltage: 230VAC/50Hz.",
+              "Surge Protection: 3 kVA/5 kVA, 8/20s.",
+              "Max. Input Current: 30.",
+              "Start-up Voltage: 100VDC.",
+              "MPPT Voltage: 90-420VDC.",
+              "Max. Input Voltage (Voc): 435VDC.",
+              "Max. Input Current (Isc): 2 x 15 A.",
+              "Recommended PV Power: 5000 Wp.",
+              "No. PV Strings/MPPT Routes: 2/1.",
+              "Optimizer Compatibility: DC Mbus Compatible.",
+              "DC Surge Protection: 10 kA, 8/20 s, criterion C.",
+              "Max. Input Current per Strings: 15 A.",
+              "Communication: Wi-Fi.",
+              "Display: LED’s, NetEco.",
+              "Battery Module Capacity: 5kWh per module.",
+              "Max. Output Power: 2.5kw per module, 5kW per ESS.",
+              "Output/Input Voltage: 370-480VDC.",
+              "Cycle Life: 6000 cycles @ 25 C, 100% DOD"
+            ],
+            "additional": {
+              "Dimensions": "70 × 45 × 35 cm",
+              "Weight": "70 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": null,
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/03/iSitePower-M-5000Wh-Datasheet-1.pdf",
+            "certificates": []
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "70 × 45 × 35 cm",
+            "Weight": "70 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "regular": null,
+            "current": 43010,
+            "sale": null
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "8239",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Sunsynk 8kw Hybrid Inverter (SUN-8K-SG01LP1-EU)",
+      "type": "simple",
+      "regular_price": "27990",
+      "sale_price": "",
+      "description": "Sunsynk 8kw Hybrid Inverter will reduce your electricity costs by managing power from various energy sources, including solar panels, batteries, the national electricity grid, a generator or even a wind turbine – all with a Sunsynk Hybrid inverter. It’s ideal for home and business and scalable so that you can expand it as required.\\nSunsynk 8kw Hybrid Inverter Description\\nUser-friendly\\nLCD Touch screen and buttons, easy operation.\\nCompatible with lithium-ion battery and lead acid battery.\\nWeb browser and mobile App monitoring supported.\\nReliable\\nPV lighting protection, Anti-islanding protection, Leakage current protection etc.\\nSupport store energy from DG when needed, ensure the system working within 7*24H.\\nIP65 protection degree, adapt to indoor and outdoor using.\\nAutomatically switch from on-grid to off-grid mode within 5ms.\\nZero exporting function, fast reaction within 200ms in zero export mode.\\nSmart\\nProgrammable charging and discharging schedule.\\nBoth wind turbines and solar panels can be connected as DC input power.\\nMax. 16 units can be paralleled for higher system power.\\nRetrofitting of existing solar system to energy storage system",
+      "short_description": "Includes:  Wi-Fi Dongle + BMS Communication Cable\\nLCD Touch screen and buttons, easy operation.\\nCompatible with lithium-ion battery and lead acid battery.\\nWeb browser and mobile App monitoring supported.\\nPV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/11/Untitled-design-150x150.jpg",
+          "alt": ""
+        }
+      ],
+      "sku": "8239",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Sunsynk"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Includes:  Wi-Fi Dongle + BMS Communication Cable",
+            "LCD Touch screen and buttons, easy operation.",
+            "Compatible with lithium-ion battery and lead acid battery.",
+            "Web browser and mobile App monitoring supported.",
+            "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "Includes:  Wi-Fi Dongle + BMS Communication Cable",
+              "LCD Touch screen and buttons, easy operation.",
+              "Compatible with lithium-ion battery and lead acid battery.",
+              "Web browser and mobile App monitoring supported.",
+              "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+            ],
+            "additional": {
+              "Dimensions": "92 × 64 × 47 cm",
+              "Weight": "48 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2022/09/Sunsynk_Hybrid-Inverter-8kW_UserManual_v14_English.pdf",
+            "certificates": [
+              "https://www.pvpower.co.za/wp-content/uploads/2022/09/NRS-097-2-1-2017-for-12-14-16.pdf",
+              "https://www.pvpower.co.za/wp-content/uploads/2022/09/NRS-097-2-1.pdf"
+            ],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/09/Sunsynk_Hybrid-Inverter-8kW_Datasheet_v13_English.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "92 × 64 × 47 cm",
+            "Weight": "48 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 27990
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "in_stock"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "11890",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Sunsynk 16kW Single Phase Hybrid Inverter (SUN-16K-SG01LP1)",
+      "type": "simple",
+      "regular_price": "51890",
+      "sale_price": "",
+      "description": "We have taken the Sunsynk 16kW Single Phase Hybrid Inverter to the highest level. Our new Sunsynk MAX is the most powerful low-voltage inverter in the world, achieving a maximum output power of 16kW and a battery charge current of 300A.\\n\\nThis power management tool allows the user to hit those ‘parity’ targets by managing power flow from multiple sources such as solar, mains power (grid)&nbsp;and generators, and then effectively storing and releasing power as and when utilities require.\\n\\n## Description\\n\\n### Interactive\\n\\n* Supporting Wi-Fi or GSM monitoring\\n* Visual power flow screen\\n* Parallel / multi invert function grid-tied and off-grid\\n\\n### COMPATIBLE\\n\\n* Compatible with main electrical grid voltages or power generators\\n* Self-consumption and feed-in to the grid\\n* Auto restart while AC is recovering\\n* Auto earth bond feature (Via a relay)\\n\\n### CONFIGURABLE\\n\\n* Fully programmable controller\\n* Programmable supply priority for battery or grid\\n* Programmable multiple operation modes: on-grid/off-grid &amp; UPS\\n* Configurable battery charging – current/voltage based on the application\\n* Configurable AC / solar / generator charger priority by LCD setting\\n\\n### SECURE\\n\\n* Overload/over-temperature/short-circuit protection\\n* Smart battery charger design for optimized battery protection\\n* Limiting function installed to prevent excess power overflow to grid",
+      "short_description": "Includes: Wi-Fi Dongle + BMS Communication CableLCD Touch screen and buttons, easy operation.Compatible with lithium-ion battery and lead acid battery.Web browser and mobile App monitoring supported.PV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/09/Untitled-design-1-150x150.jpg",
+          "alt": ""
+        }
+      ],
+      "sku": "11890",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Sunsynk"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Weight": "75 kg",
+              "Dimensions": "98 × 70 × 60 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "certificates": [],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/09/SunSynkMaxDataSheet.pdf",
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/09/Sunsynk_Max_UserManual_v11_English.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "75 kg",
+            "Dimensions": "98 × 70 × 60 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 51890
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "In stock"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "12938",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 12kw Hybrid Inverter Single Phase (SUN-12K-SG01LP1-EU)",
+      "type": "simple",
+      "regular_price": "37890",
+      "sale_price": "",
+      "description": "Deye 12kw Hybrid Inverter Single Phase was created for residential and light commercial use to meet all your energy needs.\\nDuring the day, the PV system generates electricity which will be provided to the loads initially. Then, the excess energy will charge the battery. You can use the excess energy in the battery when needed. The battery can also be charged by the diesel generator to ensure power supply in the event of power outage.\\n\\n### Smart Monitoring Platform\\nThanks to the smart monitoring platform, Deye full series inverter products support remotely shutdown immediately when accident occurs. Setting parameters and FW update remotely, which makes PV plant O&M easier.\\n\\nDeye 12kw Hybrid Inverter Single Phase come with RS485/CAN port for battery communication.",
+      "short_description": "6 time periods for battery charging/discharging\\nMax. charging/discharging current of 290A\\nSupport storing energy from diesel generator.\\nAC couple to retrofit existing solar system\\nMax. 16 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/12/Deye-12kw-Hybrid-Inverter-1-Phase-150x150.jpg",
+          "alt": "Deye 12kw Hybrid Inverter 1 Phase"
+        }
+      ],
+      "sku": "12938",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "6 time periods for battery charging/discharging",
+            "Max. charging/discharging current of 290A",
+            "Support storing energy from diesel generator.",
+            "AC couple to retrofit existing sol\\nar system",
+            "Max. 16 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "6 time periods for battery charging/discharging",
+              "Max. charging/discharging current of 290A",
+              "Support storing energy from diesel generator.",
+              "AC couple to retrofit existing sol\\nar system",
+              "Max. 16 pcs parallel for on-grid and off-grid operation; Support multiple batteries parallel"
+            ],
+            "additional": {
+              "Dimensions": "47 × 74 × 30 cm",
+              "Weight": "52 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": null,
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/12/Data-Sheet.pdf",
+            "certificates": []
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "47 × 74 × 30 cm",
+            "Weight": "52 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 37890
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "11445",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "SRNE 3KW 60a Hybrid Off Grid Inverter (HF2430S60)",
+      "type": "simple",
+      "regular_price": "5590",
+      "sale_price": "",
+      "description": "SRNE 3KW Hybrid Off Grid Inverter is perfect for small residential energy storage solution for off-grid and hybrid systems designed to meet the electricity needs of your home.\\nOff-grid solution provide power to your home that are not connected to the traditional electrical grid, while hybrid solutions combine renewable energy generation and energy storage with grid connectivity for added flexibility and backup power.\\nSRNE 3KW Hybrid Off Grid Inverter Description \\nEffcient\\nDual MPPT with up to 99.9% efficiency\\nMultiple charge and discharge modes are available\\nReliable\\nOutputs high-quality pure sine wave AC power\\nReliable output for long periods at rated power\\nUser-friendly\\nIndustrial design with a modern aesthetic look\\nEasy to install and simple to use\\nSafety\\n360 degrees of security from hardware to software\\nEU and North American safety approvals\\nAll-in-one\\nSupport for many types of batteries\\nSupports Li-ion battery BMS communication\\nIntelligent\\nExclusive Li-ion battery BMS dual activation\\nSupport for remote monitoring of operating parameters",
+      "short_description": "HF Series is new hybrid solar charge inverter, which integrates PV charge &Grid(Generator) charge with AC sine wave output. Adopting DPS control algorithm, getting higher response speed, higher reliability and higher industrial standard.\\nParallel 2 x 12V batteries to get your 24v system working.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/08/3-150x150.jpg",
+          "alt": "SRNE 3kW"
+        }
+      ],
+      "sku": "11445",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "SRNE"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "additional": {
+              "Weight": "10 kg",
+              "Dimensions": "40 × 30 × 11 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/08/HF24-S-100-manual.pdf",
+            "certificates": [],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/08/HF2430S60-100-Specification.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "10 kg",
+            "Dimensions": "40 × 30 × 11 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "regular": null,
+            "current": 5590,
+            "sale": null
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "Available on backorder"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "11419",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "8kW Deye Loadshedding Backup Kit DEYE",
+      "type": "simple",
+      "regular_price": "60890",
+      "sale_price": "",
+      "description": "8kw Deye Loadshedding Backup Kit perfect for home during the times when their is loadshedding. Can provide power for loads up to 8kW. \\nWith app monitoring you can see when the system is providing power from the battery, grid or from your solar panels. The kit has been made from our years of experience to give you the best for the money without skipping on the technology and on what you may need to stay on during loadshedding.\\nWith MPPT chargers build into the Hybrid inverter charging can happen from solar and from the grid.\\n\\n8kW Deye Loadshedding Backup Kit Description \\n\\n1 x Deye 8kW Hybrid Inverter (8kW) – City of Cape Town Approved Hybrid Inverter\\n2 x Shoto 5.12kW Lithium Ion Battery (5.12-100ah) – 10 Year Warranty (Batteries can be changed to other brand, extra charges may apply)\\n1 x 8kw AC Changeover Box Ip65 ( Unwired )\\n1 x Onesto 3 Pole Battery Disconnect\\n2 x 160A DC Fuses\\nOther smalls included (You can contact the office to ask for an itemized list if needed)\\n\\n",
+      "short_description": "This deal Excludes Delivery and Installation\\nAll warranties are held by the respective manufacturers and their local distributors in RSA. Please read our warranty processes and procedures\\nProduct Details can be found in the links below",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/08/Deye-Nov-Packages-150x150.webp",
+          "alt": "8kw Deye Special"
+        }
+      ],
+      "sku": "11419",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "This deal Excludes Delivery and Installation",
+            "All warranties are held by the respective manufacturers and their local distributors in RSA. Please read our warranty processes and procedures",
+            "Product Details can be found in the links below"
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "features": [
+              "This deal Excludes Delivery and Installation",
+              "All warranties are held by the respective manufacturers and their local distributors in RSA. Please read our warranty processes and procedures",
+              "Product Details can be found in the links below"
+            ],
+            "additional": {
+              "Dimensions": "100 × 100 × 150 cm",
+              "Weight": "150 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/10/datasheet_sun-3.6-8k-sg05lp1-eu_240802_en.pdf",
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2022/09/Shoto-51.2V16cell-51.2-100-100AH-5.12KWH.pdf",
+            "certificates": []
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "100 × 100 × 150 cm",
+            "Weight": "150 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 60890
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "in stock"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "8008",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Deye 8kw Hybrid Inverter (SUN-8K-SG01LP1-EU)",
+      "type": "simple",
+      "regular_price": "24990",
+      "sale_price": "",
+      "description": "Deye 8kw Hybrid Inverter (SUN-8K-SG01LP1-EU)\\n\\nModel\\nDeye 8kw Hybrid Inverter (SUN-8K-SG01LP1-EU)\\nDeye 8kw Battery Input Data\\nBattery Type: Lead-acid or Li-lon\\nBattery Voltage Range (V): 40-60V\\nMax. Charging Current (A): 190A\\nMax. Discharging Current (A): 190A\\nCharging curve: 3 Stages/Equalization\\nExternal Temperature Sensor: Optional\\nCharging Strategy for Lithium Battery: Self-adaption to BMS\\nDeye 8kw PV String Input Data\\nMax. DC Input Power (W): 10400W.\\nPV input Voltage (V): 370V (100V-500V).\\nMPPT Range (V): 125-425V.\\nStart-up Voltage (V): 150V.\\nPV Input Current (A): 22A + 22A.\\nNo. of MPPT Trackers: 2\\nNo. of Strings Per MPPT Tracker: 2+2.\\nDeye 8kw AC Output Data\\nRated AC Output and UPS Power (W): 8000W\\nMax AC Output Power (W): 8800W\\nPeak Power(off-grid): 2 times of rated power, 10 S.\\nAC Output Rated Current(A): 33.4A/35A\\nMax.AC Output Current(A): 36.7A/38.5A.\\nMax Continuous AC Pass-through(A): 50A.\\nOutput Frequency and Voltage: 50/60Hz; 120/240Vac(split phase), 208Vac(2/3 phase), 230Vac(single phase)\\nGrid Type: THD<3%(Linear load<1.5%).\\nCurrent Harmonic Distortion: THD<3% (Linear load<1.5%).\\nDeye 8kw Efficiency\\nMax. Efficiency: 97.60%\\nEuro Efficiency: 97.00%\\nMPPT Efficiency: 99.90%\\nDeye 8kw Protection\\nPV Arc Fault Detection: Integrated (Except European Type)\\nPV Input Lightning Protection: Integrated\\nAnti -islanding Protection: Integrated\\nPV String Input Reverse Polarity Protection: Integrated\\nInsulation Resistor Detection: Integrated\\nResidual Current Monitoring Unit: Integrated\\nOutput over Current Protection: Integrated\\nOutput Shorted Protection: Integrated\\nOutput over Voltage Protection: Integrated\\nCertifications and Standards\\nGrid Regulation: UL1741, IEEE1547, RULE21, VDE0126, AS4777, NRS2017, G98, G99, IEC61683, IEC62116, IE61727\\nSafety Regulation: IEC62109-1, IEC62109-2\\nEMC: EN61000-6-1, EN61000-6-3, FCC 15 class B\\nGeneral Data\\nOperating Temperature Range ( C ): -25—60 C , >45 C Derating\\nCooling: Fan\\nNoise (dB): <30\\nCommunication with BMS: RS485; CAN\\nWeight (kg): 32\\nSize (mm): 680 X 4200 X 233mm\\nProtection Degree: IP65\\nInstallation Style: Wall-mounted\\nWarranty: 5 years",
+      "short_description": "Includes: Wi-Fi Dongle + BMS Communication Cable\\nLCD Touch screen and buttons, easy operation.\\nCompatible with lithium-ion battery and lead acid battery.\\nWeb browser and mobile App monitoring supported.\\nPV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/12kwMain.png",
+          "alt": "Deye 12kw Hybrid inverter"
+        },
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2022/10/8kwMain-150x150.png",
+          "alt": "Deye 8kw inverter"
+        }
+      ],
+      "sku": "8008",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Deye"
+          ]
+        },
+        {
+          "name": "Technical Specifications",
+          "visible": true,
+          "options": [
+            "Battery Type: Lead-acid or Li-lon",
+            "Battery Voltage Range (V): 40-60V",
+            "Max. Charging Current (A): 190A",
+            "Max. Discharging Current (A): 190A",
+            "Charging curve: 3 Stages/Equalization",
+            "External Temperature Sensor: Optional",
+            "Charging Strategy for Lithium Battery: Self-adaption to BMS",
+            "Max. DC Input Power (W): 10400W.",
+            "PV input Voltage (V): 370V (100V-500V).",
+            "MPPT Range (V): 125-425V.",
+            "Start-up Voltage (V): 150V.",
+            "PV Input Current (A): 22A + 22A.",
+            "No. of MPPT Trackers: 2",
+            "No. of Strings Per MPPT Tracker: 2+2.",
+            "Rated AC Output and UPS Power (W): 8000W",
+            "Max AC Output Power (W): 8800W",
+            "Peak Power(off-grid): 2 times of rated power, 10 S.",
+            "AC Output Rated Current(A): 33.4A/35A",
+            "Max.AC Output Current(A): 36.7A/38.5A.",
+            "Max Continuous AC Pass-through(A): 50A.",
+            "Output Frequency and Voltage: 50/60Hz; 120/240Vac(split phase), 208Vac(2/3 phase), 230Vac(single phase)",
+            "Grid Type: THD<3%(Linear load<1.5%).",
+            "Current Harmonic Distortion: THD<3% (Linear load<1.5%).",
+            "Max. Efficiency: 97.60%",
+            "Euro Efficiency: 97.00%",
+            "MPPT Efficiency: 99.90%",
+            "PV Arc Fault Detection: Integrated (Except European Type)",
+            "PV Input Lightning Protection: Integrated",
+            "Anti -islanding Protection: Integrated",
+            "PV String Input Reverse Polarity Protection: Integrated",
+            "Insulation Resistor Detection: Integrated",
+            "Residual Current Monitoring Unit: Integrated",
+            "Output over Current Protection: Integrated",
+            "Output Shorted Protection: Integrated",
+            "Output over Voltage Protection: Integrated",
+            "Operating Temperature Range ( C ): -25—60 C , >45 C Derating",
+            "Cooling: Fan",
+            "Noise (dB): <30",
+            "Communication with BMS: RS485; CAN",
+            "Weight (kg): 32",
+            "Size (mm): 680 X 4200 X 233mm",
+            "Protection Degree: IP65",
+            "Installation Style: Wall-mounted",
+            "Warranty: 5 years"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "Wi-Fi Dongle + BMS Communication Cable",
+            "LCD Touch screen and buttons, easy operation.",
+            "Compatible with lithium-ion battery and lead acid battery.",
+            "Web browser and mobile App monitoring supported.",
+            "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "technical": [
+              "Battery Type: Lead-acid or Li-lon",
+              "Battery Voltage Range (V): 40-60V",
+              "Max. Charging Current (A): 190A",
+              "Max. Discharging Current (A): 190A",
+              "Charging curve: 3 Stages/Equalization",
+              "External Temperature Sensor: Optional",
+              "Charging Strategy for Lithium Battery: Self-adaption to BMS",
+              "Max. DC Input Power (W): 10400W.",
+              "PV input Voltage (V): 370V (100V-500V).",
+              "MPPT Range (V): 125-425V.",
+              "Start-up Voltage (V): 150V.",
+              "PV Input Current (A): 22A + 22A.",
+              "No. of MPPT Trackers: 2",
+              "No. of Strings Per MPPT Tracker: 2+2.",
+              "Rated AC Output and UPS Power (W): 8000W",
+              "Max AC Output Power (W): 8800W",
+              "Peak Power(off-grid): 2 times of rated power, 10 S.",
+              "AC Output Rated Current(A): 33.4A/35A",
+              "Max.AC Output Current(A): 36.7A/38.5A.",
+              "Max Continuous AC Pass-through(A): 50A.",
+              "Output Frequency and Voltage: 50/60Hz; 120/240Vac(split phase), 208Vac(2/3 phase), 230Vac(single phase)",
+              "Grid Type: THD<3%(Linear load<1.5%).",
+              "Current Harmonic Distortion: THD<3% (Linear load<1.5%).",
+              "Max. Efficiency: 97.60%",
+              "Euro Efficiency: 97.00%",
+              "MPPT Efficiency: 99.90%",
+              "PV Arc Fault Detection: Integrated (Except European Type)",
+              "PV Input Lightning Protection: Integrated",
+              "Anti -islanding Protection: Integrated",
+              "PV String Input Reverse Polarity Protection: Integrated",
+              "Insulation Resistor Detection: Integrated",
+              "Residual Current Monitoring Unit: Integrated",
+              "Output over Current Protection: Integrated",
+              "Output Shorted Protection: Integrated",
+              "Output over Voltage Protection: Integrated",
+              "Operating Temperature Range ( C ): -25—60 C , >45 C Derating",
+              "Cooling: Fan",
+              "Noise (dB): <30",
+              "Communication with BMS: RS485; CAN",
+              "Weight (kg): 32",
+              "Size (mm): 680 X 4200 X 233mm",
+              "Protection Degree: IP65",
+              "Installation Style: Wall-mounted",
+              "Warranty: 5 years"
+            ],
+            "features": [
+              "Wi-Fi Dongle + BMS Communication Cable",
+              "LCD Touch screen and buttons, easy operation.",
+              "Compatible with lithium-ion battery and lead acid battery.",
+              "Web browser and mobile App monitoring supported.",
+              "PV lighting protection, Anti-islanding protection, Leakage current protection etc."
+            ],
+            "additional": {
+              "Weight": "40 kg",
+              "Dimensions": "92 × 64 × 47 cm"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2022/10/Deye-8kw-8kw-data-sheet.pdf",
+            "manual": "http://www.pvpower.co.za/wp-content/uploads/2022/09/DeyeInverter5_8_1PManual.pdf",
+            "certificates": [
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/Compliance-of-PV-Inverter-1.pdf",
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/COC-of-Deye-Inverter-1.pdf"
+            ]
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Weight": "40 kg",
+            "Dimensions": "92 × 64 × 47 cm"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 24990
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "1 in stock"
+        }
+      ]
+    }
+  },
+  {
+    "sku": "9621",
+    "error": "Request failed with status code 400",
+    "product": {
+      "name": "Sunsynk 12kw Hybrid Inverter 3 phase (SUN-3P-12K-H-LV)",
+      "type": "simple",
+      "regular_price": "45655",
+      "sale_price": "",
+      "description": "Sunsynk 12kw Hybrid Inverter 3 phase have a unique feature. They can operate and balance the load, which means you can have 20% connected to one phase, 20% to another, and 60% to the third phase, and it still gives perfect phase rotation. No other inverter in their class can offer this feature. Sunsynk 12kw Hybrid Inverter 3 phase  Description Maximum charging/discharging current of 250A Frequency droop control Up to 16 inverters in parallel Interactive display RS485 Wi-Fi interface 5 year warranty",
+      "short_description": "Product Highlights PV lighting protection, Anti-islanding protection, Leakage current protection etc. Includes: Wi-Fi Dongle + BMS Communication Cable Compatible with lithium-ion battery and lead acid battery. Web browser and mobile App monitoring supported. LCD Touch screen and buttons, easy operation.",
+      "categories": [],
+      "tags": [],
+      "images": [
+        {
+          "src": "https://www.pvpower.co.za/wp-content/uploads/2023/03/Untitled-design-150x150.jpg",
+          "alt": "Sunsynk 12kw Hybrid Inverter 3 phase, inverters"
+        }
+      ],
+      "sku": "9621",
+      "stock_status": "instock",
+      "attributes": [
+        {
+          "name": "Brand",
+          "visible": true,
+          "options": [
+            "Sunsynk"
+          ]
+        },
+        {
+          "name": "Technical Specifications",
+          "visible": true,
+          "options": [
+            "Maximum charging/discharging current of 250A",
+            "Frequency droop control",
+            "Up to 16 inverters in parallel",
+            "Interactive display",
+            "RS485 Wi-Fi interface",
+            "5 year warranty"
+          ]
+        },
+        {
+          "name": "Features",
+          "visible": true,
+          "options": [
+            "PV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+            "Includes: Wi-Fi Dongle + BMS Communication Cable",
+            "Compatible with lithium-ion battery and lead acid battery.",
+            "Web browser and mobile App monitoring supported.",
+            "LCD Touch screen and buttons, easy operation."
+          ]
+        }
+      ],
+      "meta_data": [
+        {
+          "key": "specifications",
+          "value": {
+            "technical": [
+              "Maximum charging/discharging current of 250A",
+              "Frequency droop control",
+              "Up to 16 inverters in parallel",
+              "Interactive display",
+              "RS485 Wi-Fi interface",
+              "5 year warranty"
+            ],
+            "features": [
+              "PV lighting protection, Anti-islanding protection, Leakage current protection etc.",
+              "Includes: Wi-Fi Dongle + BMS Communication Cable",
+              "Compatible with lithium-ion battery and lead acid battery.",
+              "Web browser and mobile App monitoring supported.",
+              "LCD Touch screen and buttons, easy operation."
+            ],
+            "additional": {
+              "Dimensions": "94 × 64 × 46 cm",
+              "Weight": "50 kg"
+            }
+          }
+        },
+        {
+          "key": "documents",
+          "value": {
+            "certificates": [
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/Compliance-of-PV-Inverter-1.pdf",
+              "http://www.pvpower.co.za/wp-content/uploads/2022/09/COC-of-Deye-Inverter-1.pdf"
+            ],
+            "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/03/Sunsynk_ThreePhaseHI_812K_Datasheet_v17_English.pdf",
+            "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/03/Sunsynk_ThreePhaseHI_8_12K_UserManual_v28_English.pdf"
+          }
+        },
+        {
+          "key": "additional_specifications",
+          "value": {
+            "Dimensions": "94 × 64 × 46 cm",
+            "Weight": "50 kg"
+          }
+        },
+        {
+          "key": "price_history",
+          "value": {
+            "current": 45655
+          }
+        },
+        {
+          "key": "original_stock_status",
+          "value": "1 in stock (can be backordered)"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "name": "SRNE 5kw Inverter Off Grid",
+    "type": "simple",
+    "regular_price": "8900",
+    "sale_price": "",
+    "description": "Discover the power of the SRNE 5Kw Off Grid inverter – robust, efficient, and perfect for home use. Designed by SRNE Solar, this cutting-edge inverter features Rated Power of 5,000W and a Max. Peak Power of 10,000VA. Moreover, its single MPP tracker ensures seamless solar energy management. Furthermore, this\\ninverter is compatible with both Li-ion and Lead acid batteries offering flexibility for various energy storage setups.\\n\\n• In spite of its impressive capabilities, the SRNE 5Kw\\nOff Grid\\nInverter remains easy to use and, most importantly, safe for your home. In addition, it’s designed to deliver consistent power output throughout its lifetime.For those seeking even greater power capacity, consider the\\nSRNE 10Kw Off Grid Inverter. Alternatively, the Luxpower 5Kw\\nOff Grid Inverter\\nis another excellent choice that presents similar features.\\n\\nEfficient\\n\\n• Outputs high quality pure sine wave AC power• Up to 6 units in parallel connection meet the needsReliable• Industrial design with a modern aesthetic look• Easy to install and simple to useUser-friendly• 360 degrees of security from hardware to software• IEC safety approvalsSafety• Solar charge controller up to 100A charging currentAll-in-one• Exclusive Li-ion battery BMS dual activation• Time-slot function to save cost with peak-valley tariff",
+    "short_description": "Discover the power of the SRNE 5Kw Off Grid inverter – robust, efficient, and perfect for home use. Designed by SRNE Solar, this cutting-edge inverter features Rated Power of 5,000W and a Max. Peak Power of 10,000VA. Moreover, its single MPP tracker ensures seamless solar energy management. Furthermore, this inverter is compatible with both Li-ion and Lead acid batteries, offering flexibility for various energy storage setups.",
+    "categories": [
+      {
+        "name": "Inverters"
+      },
+      {
+        "name": "SRNE"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Inverter"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2024/03/SRNE-5kw-Inverter-Off-Grid-2.webp",
+        "alt": "SRNE 5kw Inverter with Wifi Dongle"
+      }
+    ],
+    "sku": "SRNE 5kw Inverter",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "SRNE"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "additional": {
+            "Dimensions": "16 × 46 × 38 cm",
+            "Weight": "15 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": null,
+          "certificates": [],
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2024/03/SRNE_HYP-series_48V_5kW_Solar-storage-inverter_User-manual_V2.2.pdf"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "16 × 46 × 38 cm",
+          "Weight": "15 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 8900
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "Available on backorder"
+      }
+    ]
+  },
+  {
+    "name": "SRNE All-In-One 5.1kw - (5.1kw 5.12kWh 24V) (SR-EOV05S-220)",
+    "type": "simple",
+    "regular_price": "26990",
+    "sale_price": "",
+    "description": "• Emergency power supply\\n• Home backup storage\\n• Solar power storage\\n• Telecommunications backup power storage\\n• Data storage/UPS backup power storage",
+    "short_description": "• Emergency power supply\\n• Home backup storage\\n• Solar power storage\\n• Telecommunications backup power storage\\n• Data storage/UPS backup power storage",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "Battery"
+      },
+      {
+        "name": "Lithium Ion"
+      },
+      {
+        "name": "Solar Inverter"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/11/image-1.webp",
+        "alt": "SR-EOV05S-220 5.12kWh 100AH"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/11/image-2.webp",
+        "alt": "SR-EOV05S-220 5.12kWh"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/11/image-3.webp",
+        "alt": "SR-EOV05S-220 5.12kWh"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/11/image-4.webp",
+        "alt": "SR-EOV05S-220 5.12kWh"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/11/image-5.webp",
+        "alt": "SR-EOV05S-220 5.12kWh"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/11/image-6.webp",
+        "alt": "SR-EOV05S-220 5.12kWh"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/11/image-7.webp",
+        "alt": "SR-EOV05S-220 5.12kWh"
+      }
+    ],
+    "sku": "SRNE-AIO5k",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "SRNE"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Emergency power supply",
+          "Home backup storage",
+          "Solar power storage",
+          "Telecommunications backup power storage",
+          "Data storage/UPS backup power storage"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "Emergency power supply",
+            "Home backup storage",
+            "Solar power storage",
+            "Telecommunications backup power storage",
+            "Data storage/UPS backup power storage"
+          ]
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/11/User-Manual_SR-EOV-Series_GEN2_Energy-Storage-Battery_EN-V1.81.pdf",
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/11/SRNE_EOV_series_EU_Solar_Storage_System_Datasheet_1.61.pdf",
+          "certificates": []
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 26990
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "onbackorder"
+      }
+    ]
+  },
+  {
+    "name": "SRNE 3KW 60a Hybrid Off Grid Inverter (HF2430S60)",
+    "type": "simple",
+    "regular_price": "5590",
+    "sale_price": "",
+    "description": "HF Series is new hybrid solar charge inverter, which integrates PV charge &Grid(Generator) charge with AC sine wave output. Adopting DPS control algorithm, getting higher response speed, higher reliability and higher industrial standard.\\n\\nParallel 2 x 12V batteries to get your 24v system working.",
+    "short_description": "HF Series is new hybrid solar charge inverter, which integrates PV charge &Grid(Generator) charge with AC sine wave output. Adopting DPS control algorithm, getting higher response speed, higher reliability and higher industrial standard.",
+    "categories": [
+      {
+        "name": "inverter"
+      },
+      {
+        "name": "Off Grid Inverter"
+      },
+      {
+        "name": "SRNE"
+      }
+    ],
+    "tags": [
+      {
+        "name": "24V"
+      },
+      {
+        "name": "3.5kw"
+      },
+      {
+        "name": "Solar Inverter"
+      },
+      {
+        "name": "SRNE"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/08/3.jpg",
+        "alt": "SRNE 3kW"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/08/4.jpg",
+        "alt": "3kw SRNE"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/08/2.jpg",
+        "alt": "3kw SRNE"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/08/1.jpg",
+        "alt": "3kw SRNE"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/08/6.jpg",
+        "alt": "3kw SRNE"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/08/5.jpg",
+        "alt": "3kw SRNE"
+      }
+    ],
+    "sku": "SRNE-3kw-60a",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "SRNE"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "additional": {
+            "Dimensions": "40 × 30 × 11 cm",
+            "Weight": "10 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/08/HF2430S60-100-Specification.pdf",
+          "certificates": [],
+          "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/08/HF24-S-100-manual.pdf"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "40 × 30 × 11 cm",
+          "Weight": "10 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 5590
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "Available on backorder"
+      }
+    ]
+  },
+  {
+    "name": "SRNE 3KW 80a Hybrid Off Grid Inverter (HF2430S80-H)",
+    "type": "simple",
+    "regular_price": "6090",
+    "sale_price": "",
+    "description": "HF Series is new hybrid solar charge inverter, which integrates PV charge &Grid(Generator) charge with AC sine wave output. Adopting DPS control algorithm, getting higher response speed, higher reliability and higher industrial standard.\\n\\nParallel 2 x 12V batteries to get your 24v system working.",
+    "short_description": "HF Series is new hybrid solar charge inverter, which integrates PV charge &amp;Grid(Generator) charge with AC sine wave output. Adopting DPS control algorithm, getting higher response speed, higher reliability and higher industrial standard.",
+    "categories": [
+      {
+        "name": "Inverters"
+      },
+      {
+        "name": "Off Grid Inverter"
+      },
+      {
+        "name": "SRNE"
+      }
+    ],
+    "tags": [
+      {
+        "name": "24V"
+      },
+      {
+        "name": "3.5kw"
+      },
+      {
+        "name": "Solar Inverter"
+      },
+      {
+        "name": "SRNE"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/01/5kw-off-grid-inverter-5-800x800-1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/01/5kw-off-grid-inverter-7-800x800-1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/01/5kw-off-grid-inverter-6-800x800-1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/01/5kw-off-grid-inverter-2-800x800-1.jpg",
+        "alt": ""
+      }
+    ],
+    "sku": "SRNE3K80A",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "SRNE"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "additional": {
+            "Dimensions": "40 × 30 × 11 cm",
+            "Weight": "10 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/01/HF2430S80-H-All-in-one-Solar-Charger-Inverter-User-Manual.pdf",
+          "certificates": [],
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/01/HF2430S80-H-Specification.pdf"
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "40 × 30 × 11 cm",
+          "Weight": "10 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 6090
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "Available on backorder"
+      }
+    ]
+  },
+  {
+    "name": "SRNE All-In-One 3.5kw (3.5kw 5.12kWh 24V) (SREOV2435)",
+    "type": "simple",
+    "regular_price": "22990",
+    "sale_price": "",
+    "description": "SRNE All-In-One 3.5kw (3.5kw 5.12kWh 24V) (SREOV2435) is an all in one package that makes solar energy storage and distribution quick and easy to install.\\n\\n\\n\\nSRNE All-In-One 3.5kw (3.5kw 5.12kWh 24V) (SREOV2435)\\n\\n\\n\\nEasy to upscale\\n\\n\\n\\n\\nUp to 4 batteries in parallel expand to 20.48kWh\\n\\n\\n\\nUp to 2 systems in parallel with double storage &amp; output\\n\\n\\n\\n\\nEasy to install\\n\\n\\n\\n\\nNo matching and commissioning required, ready to install\\n\\n\\n\\nPlug-and-play, eliminate the clutter of wires\\n\\n\\n\\n\\nUser friendly\\n\\n\\n\\n\\nGet started quickly and use it instantly\\n\\n\\n\\nMin. width of just 13cm, saving space in the home\\n\\n\\n\\n\\nIntelligence\\n\\n\\n\\n\\nTime-slot function to save on electricity costs\\n\\n\\n\\nLarge LCD screen with real-time data\\n\\n\\n\\n\\nSafety\\n\\n\\n\\n\\nHigh quality lithium iron phosphate cells\\n\\n\\n\\nProven Li-ion battery management solutions\\n\\n\\n\\n\\nDesigned for families\\n\\n\\n\\n\\nSupport Off-grid/Hybrid/On-Grid output\\n\\n\\n\\nMultiple charge and discharge modes available",
+    "short_description": "SRNE All-In-One 3.5kw (3.5kw 5.12kWh 24V) (SREOV2435) is an all in one package that makes solar energy storage and distribution quick and easy to install.\\n\\n\\n\\nSRNE All-In-One 3.5kw (3.5kw 5.12kWh 24V) (SREOV2435)\\n\\n\\n\\nEasy to upscale\\n\\n\\n\\n\\nUp to 4 batteries in parallel expand to 20.48kWh\\n\\n\\n\\nUp to 2 systems in parallel with double storage &amp; output\\n\\n\\n\\n\\nEasy to install\\n\\n\\n\\n\\nNo matching and commissioning required, ready to install\\n\\n\\n\\nPlug-and-play, eliminate the clutter of wires\\n\\n\\n\\n\\nUser friendly\\n\\n\\n\\n\\nGet started quickly and use it instantly\\n\\n\\n\\nMin. width of just 13cm, saving space in the home",
+    "categories": [
+      {
+        "name": "inverter"
+      }
+    ],
+    "tags": [
+      {
+        "name": "3kw"
+      },
+      {
+        "name": "ALL in one"
+      },
+      {
+        "name": "SRNE"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/03/1_AllinOne.jpg",
+        "alt": "SRNE All-In-One 3.5kw"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/03/4_AllinOne.jpg",
+        "alt": "SRNE All-In-One 3.5kw"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/03/3_AllinOne.jpg",
+        "alt": "SRNE All-In-One 3.5kw"
+      },
+      {
+        "src": "https://www.pvpower.co.za/wp-content/uploads/2023/03/2_AllinOne.jpg",
+        "alt": "SRNE All-In-One 3.5kw"
+      }
+    ],
+    "sku": "SRNE-AIO3k",
+    "stock_status": "instock",
+    "attributes": [
+      {
+        "name": "Brand",
+        "visible": true,
+        "options": [
+          "SRNE"
+        ]
+      },
+      {
+        "name": "Features",
+        "visible": true,
+        "options": [
+          "Package Model: SR-EOV24-5.0S-S1",
+          "Long Life: 5000 Cycles @ 80% DOD",
+          "Easy To Install &amp; Use",
+          "Multiple Working Modes",
+          "Fast &amp; Flexible Charging",
+          "Scalability: Up to 4 Batteries In Parallel"
+        ]
+      }
+    ],
+    "meta_data": [
+      {
+        "key": "specifications",
+        "value": {
+          "features": [
+            "Package Model: SR-EOV24-5.0S-S1",
+            "Long Life: 5000 Cycles @ 80% DOD",
+            "Easy To Install &amp; Use",
+            "Multiple Working Modes",
+            "Fast &amp; Flexible Charging",
+            "Scalability: Up to 4 Batteries In Parallel"
+          ],
+          "additional": {
+            "Dimensions": "66 × 65 × 50 cm",
+            "Weight": "100 kg"
+          }
+        }
+      },
+      {
+        "key": "documents",
+        "value": {
+          "datasheet": "https://www.pvpower.co.za/wp-content/uploads/2023/03/SR-EOV-1.jpg",
+          "manual": "https://www.pvpower.co.za/wp-content/uploads/2023/03/User-Manual_SR-EOV24-Energy-Storage-Battery_EN-V1.0.pdf",
+          "certificates": []
+        }
+      },
+      {
+        "key": "additional_specifications",
+        "value": {
+          "Dimensions": "66 × 65 × 50 cm",
+          "Weight": "100 kg"
+        }
+      },
+      {
+        "key": "price_history",
+        "value": {
+          "current": 22990
+        }
+      },
+      {
+        "key": "original_stock_status",
+        "value": "Available on backorder"
+      }
+    ]
+  }
+]
