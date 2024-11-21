@@ -8,7 +8,7 @@
       "manual": null,
       "datasheet": "https://www.csisolar.com/downloads?downid=619"
     },
-    "stock_status": "unknown",
+    "stock_status": "instock",
     "price": {
       "current": 0
     },
@@ -30,9 +30,7 @@
     },
     "description": "CSI-350K-T8001A-E / CSI-350K-T8001B-E\\nMaximum efficiency of 99.01%\\nEU efficiency of 98.8%\\n12/16 MPPTs to achieve higher system efficiency\\nHigh current inputs to support high power and bifacial modules",
     "name": "THREE-PHASE STRING INVERTER 1500 V / 350 KW",
-    "categories": [
-      "inverter"
-    ],
+    "categories": ["inverter"],
     "tags": [
       "three-phase",
       "string inverter",
@@ -57,7 +55,7 @@
       "high-power modules",
       "DC switches"
     ],
-    "stock_status": null,
+    "stock_status": "instock",
     "specifications": {
       "technical": [],
       "additional": {},
@@ -68,10 +66,8 @@
         "Integrated DC switches"
       ]
     },
-    "categories": [
-      "inverter"
-    ],
-    "sku": null,
+    "categories": ["inverter"],
+    "sku": "CSI-25K-2023",
     "images": [
       {
         "alt": null,
@@ -101,10 +97,8 @@
     "price": {
       "current": 0
     },
-    "categories": [
-      "inverter"
-    ],
-    "stock_status": null,
+    "categories": ["inverter"],
+    "stock_status": "instock",
     "name": "THREE-PHASE STRING INVERTER 1000 V / 40-60 KW",
     "tags": [
       "three-phase",
@@ -119,7 +113,7 @@
       "anti-pid function",
       "aluminum cable"
     ],
-    "sku": null,
+    "sku": "CSI-50K-2023",
     "brand": "CSI Solar",
     "images": [
       {
@@ -136,7 +130,7 @@
     "description": "CSI-40K-T4001A-E/ CSI-50K-T4001A-E / CSI-60K-T4001A-E\\nMaximum efficiency of 98.7%\\nMultiplex MPPTs design for complex application scenarios\\n16A input supports multiple high-power modules\\nIntegrated DC Switches and Smart string monitoring\\nIntegrated anti-PID function (optional) and supports aluminum cable"
   },
   {
-    "stock_status": "",
+    "stock_status": "instock",
     "price": {
       "current": 0
     },
@@ -150,9 +144,7 @@
       ],
       "additional": {}
     },
-    "categories": [
-      "inverter"
-    ],
+    "categories": ["inverter"],
     "images": [
       {
         "src": "https://static.csisolar.com/wp-content/uploads/2020/12/13114608/Resi-5KW-Inverter-detailed%E8%AF%A6%E6%83%85%E9%A1%B5.png",
@@ -178,9 +170,9 @@
     }
   },
   {
-    "stock_status": "",
+    "stock_status": "instock",
     "description": "CSI-7K-S22003A-E / CSI-9K-S22003A-E Max. Efficiency 98.1% Support high current PV modules with 15A operation current Supports one-click inverter configuration Integrated DC switch",
-    "sku": "",
+    "sku": "CSI-7K-S22003A-E",
     "tags": [
       "single-phase",
       "string inverter",
@@ -193,9 +185,7 @@
     "name": "SINGLE-PHASE STRING INVERTER 1000 V / 7-9 KW",
     "short_description": "CSI-7K-S22003A-E / CSI-9K-S22003A-E single-phase string inverter with max. efficiency of 98.1%, supporting high current PV modules with 15A operation current.",
     "brand": "CSI Solar",
-    "categories": [
-      "inverter"
-    ],
+    "categories": ["inverter"],
     "images": [
       {
         "alt": "SINGLE-PHASE STRING INVERTER 1000 V / 7-9 KW",
@@ -222,9 +212,7 @@
     }
   },
   {
-    "categories": [
-      "inverter"
-    ],
+    "categories": ["inverter"],
     "brand": "CSI Solar",
     "short_description": "CSI-70K-T40001-E / CSI-100K-T4001A-E / CSI-100K-T4001B- E/ CSI-110K-T4001A-E / CSI-110K-T4001B-E / CSI-120K-T4001A-E / CSI-120K-T4001B-E",
     "documents": {
@@ -233,7 +221,7 @@
       "manual": null
     },
     "name": "THREE-PHASE STRING INVERTER 1100V / 75-120KW",
-    "stock_status": null,
+    "stock_status": "instock",
     "description": "CSI-70K-T40001-E / CSI-100K-T4001A-E / CSI-100K-T4001B- E/ CSI-110K-T4001A-E / CSI-110K-T4001B-E / CSI-120K-T4001A-E / CSI-120K-T4001B-E\\nMaximum efficiency of 98.5%\\n6 or 9 MPPTs to achieve higher system efficiency\\n20A input for each string, perfectly match with high power module\\nIntegrated DC Switches and Smart string monitoring\\nIntegrated anti-PID function (ptional) andSupports aluminum cable",
     "specifications": {
       "additional": {},
@@ -249,7 +237,7 @@
     "price": {
       "current": 0
     },
-    "sku": null,
+    "sku": "CSI-100K-T4001A-E",
     "tags": [
       "three-phase",
       "string inverter",

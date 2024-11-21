@@ -1,0 +1,168 @@
+[
+  {
+    "sku": "LV-HES-2023-001",
+    "error": "Formatting error: Missing required fields for product LV-HES-2023-001",
+    "product": {
+      "description": "The LIVOLTEK iPower HES Series is a premium all-in-one solar and storage solution that integrates a hybrid inverter with low-voltage batteries. This integration helps you reduce electricity bills and maximize energy independence from the grid. Key benefits include improved energy capture from PV modules, a space-saving compact design, and a sleek appearance that enhances your home’s aesthetics. Additionally, the plug-and-play functionality and free online monitoring enable faster installation, quick site mapping to the monitoring platform, and easier maintenance with minimal effort.",
+      "stock_status": "instock",
+      "brand": "Livoltek",
+      "name": "iPower All-In-One Hybrid Energy Storage System",
+      "short_description": "Livoltek All-In-One Energy Storage System, will be the best residential solar solution for your home.",
+      "images": [
+        {
+          "alt": "未标题-12",
+          "src": "https://livoltek.com/wp-content/uploads/2022/06/未标题-12.png"
+        },
+        {
+          "alt": "All-In-One",
+          "src": "https://livoltek.com/wp-content/uploads/2022/06/All-In-One-1-scaled.jpg"
+        },
+        {
+          "alt": "未标题-11",
+          "src": "https://livoltek.com/wp-content/uploads/2022/06/未标题-11.png"
+        },
+        {
+          "alt": "未标题-14",
+          "src": "https://livoltek.com/wp-content/uploads/2022/06/未标题-14.png"
+        },
+        {
+          "src": "https://livoltek.com/wp-content/uploads/2022/06/未标题-1.png",
+          "alt": "未标题-1"
+        }
+      ],
+      "documents": {
+        "manual": "https://support.livoltek.com/productDetail?id=34",
+        "certificates": [],
+        "datasheet": "https://info-support.livoltek.com/2-Product-Info/1-Product%20Catalogue%20&%20Leaflet/Solutions&Product-Catalogue/Datasheets/iPower_HES-3~6kW.pdf"
+      },
+      "categories": [
+        "Energy Storage System",
+        "Hybrid All-in-one ESS"
+      ],
+      "tags": [
+        "solar energy storage",
+        "residential solar solution",
+        "hybrid inverter",
+        "low-voltage batteries",
+        "energy independence",
+        "plug-and-play",
+        "online monitoring"
+      ],
+      "sku": "LV-HES-2023-001",
+      "specifications": {
+        "additional": {},
+        "technical": [
+          "Active balancing and temperature monitoring",
+          "Real-time equipment control for extended lithium battery lifespan",
+          "Management with fault alarm notification",
+          "Smart BMS managed LiFePO4 cells",
+          "Robust aluminum alloy shell for internal device protection",
+          "High-safety materials with 800°C thermal decomposition temperature",
+          "Extensive statistical data storage in the cloud",
+          "Remote configuration and firmware updates",
+          "Complete visibility of battery status, PV production, backup power, and self-consumption data"
+        ],
+        "features": [
+          "Easy & Fast Installation",
+          "Compact & Elegant Design",
+          "Maximized Self-consumption",
+          "Flexible Storage Capacity",
+          "Smart EV Charger Protection",
+          "Easy Local & Remote Control "
+        ]
+      },
+      "price": {
+        "current": 0
+      }
+    }
+  },
+  {
+    "sku": "LV-HES-2023-002",
+    "error": "Formatting error: Missing required fields for product LV-HES-2023-002",
+    "product": {
+      "documents": {
+        "datasheet": "https://info-support.livoltek.com/2-Product-Info/1-Product%20Catalogue%20&%20Leaflet/English/Product%20Leaflets/17-Off-Grid%20Hybrid%20Inverter%20Single%20Phase%203-6kW.pdf",
+        "certificates": [
+          "https://drive.google.com/drive/folders/1V6rC4pBAEyp7hdm204BvIFSok2mek2sc?usp=drive_link"
+        ],
+        "manual": "https://support.livoltek.com/productDetail?id=11"
+      },
+      "name": "Off-grid Hybrid Inverter",
+      "tags": [
+        "off-grid",
+        "hybrid inverter",
+        "battery backup",
+        "solar inverter",
+        "smart inverter",
+        "off-grid solar system",
+        "power continuity",
+        "multiple protections",
+        "fault monitoring",
+        "battery safety"
+      ],
+      "categories": [
+        "inverter",
+        "Off-grid Inverter"
+      ],
+      "images": [
+        {
+          "src": "https://livoltek.com/wp-content/uploads/2024/09/未标题-2-9.png",
+          "alt": "未标题-2"
+        },
+        {
+          "alt": "未标题-2",
+          "src": "https://livoltek.com/wp-content/uploads/2024/09/未标题-2-13.png"
+        },
+        {
+          "alt": "未标题-2",
+          "src": "https://livoltek.com/wp-content/uploads/2024/09/未标题-2-10.png"
+        },
+        {
+          "alt": "未标题-4",
+          "src": "https://livoltek.com/wp-content/uploads/2024/09/未标题-4-3.png"
+        },
+        {
+          "alt": "未标题-6",
+          "src": "https://livoltek.com/wp-content/uploads/2024/09/未标题-6-3.png"
+        },
+        {
+          "alt": "未标题-7",
+          "src": "https://livoltek.com/wp-content/uploads/2024/09/未标题-7.png"
+        }
+      ],
+      "sku": "LV-HES-2023-002",
+      "specifications": {
+        "features": [
+          "Power Expandable and Flexible",
+          "Low Standby Power Consumption for Greater Economic Efficiency",
+          "Lead-acid/ Lithium Battery",
+          "Generator Compatibility"
+        ],
+        "additional": {
+          "AC Output Nominal Voltage": "220/230VAC ± 5%",
+          "Parallel Capability": "YES,12 Units",
+          "Capacity": "3.5VA/3.5kW",
+          "No. of MPPTs/Strings per MPPT": "1/1",
+          "Net Weight": "12 kg",
+          "Max.PV Input Power": "6500W",
+          "Max.PV Array Power": "4000W"
+        },
+        "technical": [
+          "Maximum efficiency up to 96%",
+          "Scalable battery up to 5 sets (25 kWh)",
+          "Safe, compact, reliable, and cost-effective",
+          "Max. input voltage: 500V, MPPT range: 60~450V",
+          "Parallel operation with up to 12 units, support 1 & 3 phase",
+          "Support multiple output priority: UTL, SOL, SBU, SUB"
+        ]
+      },
+      "description": "The LIVOLTEK off-grid hybrid inverter is an important part of the off-grid solar power system. With online and offline monitoring and management platform for every inverter, this smart solar inverter can offer continuous power to your home. It can also run directly, with or without batteries, sharing energy from utility and solar to loads alternatively. Integrate multiple protections and fault monitoring to ensure the safety of batteries and equipment.",
+      "stock_status": "instock",
+      "short_description": "Livoltek Off-grid Hybrid Inverter with Battery Backup from 3kW to 6kW is ideal for design or moving towards retrofitting to a battery-backup solution.",
+      "brand": "Livoltek",
+      "price": {
+        "current": 0
+      }
+    }
+  }
+]

@@ -5,22 +5,13 @@ import { ProductProcessorNode } from "./nodes/productProcessor.js"
 async function processFailedPages() {
   try {
     // Check if failed_pages.json exists
-    if (
-      !fs.existsSync(
-        path.join(__dirname, `../products/${process.env.PRODUCT}_fail.json`)
-      )
-    ) {
+    if (!fs.existsSync("failed_pages.json")) {
       console.log("❌ No failed pages file found")
       return
     }
 
     // Read failed pages
-    const failedPages = JSON.parse(
-      fs.readFileSync(
-        path.join(__dirname, `../products/${process.env.PRODUCT}_fail.json`),
-        "utf8"
-      )
-    )
+    const failedPages = JSON.parse(fs.readFileSync("failed_pages.json", "utf8"))
     if (!failedPages.length) {
       console.log("✨ No failed pages to process")
       return

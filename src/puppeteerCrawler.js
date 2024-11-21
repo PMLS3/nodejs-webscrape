@@ -33,7 +33,15 @@ class PuppeteerCrawler {
       `📋 Config: Max pages: ${this.options.maxPages}, Max depth: ${this.options.maxDepth}`
     )
 
-    const browser = await puppeteer.launch()
+    const browser = await puppeteer.launch({
+      headless: "new",
+      args: [
+        "--no-sandbox",
+        "--disable-setuid-sandbox",
+        "--disable-web-security",
+      ],
+      ignoreHTTPSErrors: true,
+    })
     const documents = []
 
     try {
@@ -83,31 +91,254 @@ class PuppeteerCrawler {
     const page = await browser.newPage()
 
     try {
-      await page.goto(url, { waitUntil: "networkidle0", timeout: 30000 })
+      await page.setDefaultNavigationTimeout(30000)
+      await page.setDefaultTimeout(30000)
 
-      // Process the page
-      const result = await this._processPage(page, url)
+      // Enable request interception
+      await page.setRequestInterception(true)
 
-      if (result) {
-        if (result.links) {
-          // This was a category page, process the product links
-          console.log(
-            `🔍 Processing ${result.links.length} product links from category page`
-          )
-          for (const link of result.links) {
-            if (
-              this.visited.size < this.options.maxPages &&
-              this._isSameDomain(url, link)
-            ) {
-              await this._crawlPage(browser, link, depth + 1, documents)
-            }
-          }
+      // Handle request interception
+      page.on("request", (request) => {
+        // Block unnecessary resources to speed up loading
+        const blockedResourceTypes = [
+          "image",
+          "media",
+          "font",
+          "texttrack",
+          "object",
+          "beacon",
+          "csp_report",
+          "imageset",
+        ]
+
+        if (
+          blockedResourceTypes.includes(request.resourceType()) ||
+          request.url().includes("google-analytics") ||
+          request.url().includes("googletagmanager") ||
+          request.url().includes("facebook")
+        ) {
+          request.abort()
         } else {
-          // This was a product page
-          console.log(`✅ Successfully processed product page: ${url}`)
-          documents.push(result)
+          request.continue()
+        }
+      })
+
+      try {
+        await page.goto(url, {
+          waitUntil: ["networkidle0", "domcontentloaded"],
+          timeout: 30000,
+        })
+
+        // Wait for key elements with retry
+        let retries = 3
+        let contentFound = false
+
+        while (retries > 0 && !contentFound) {
+          try {
+            await page.waitForSelector(".entry-content-wrapper", {
+              timeout: 5000,
+            })
+            contentFound = true
+
+            // Log the page HTML for debugging
+            const html = await page.content()
+            console.log("Page HTML:", html.slice(0, 500) + "...")
+
+            // Check if we're getting redirected
+            const currentUrl = page.url()
+            console.log("Current URL:", currentUrl)
+            if (currentUrl !== url) {
+              console.log("Redirected from", url, "to", currentUrl)
+            }
+          } catch (error) {
+            console.log(`Retry ${4 - retries}/3: Waiting for content...`)
+            retries--
+            if (retries === 0) {
+              throw error
+            }
+            await page.reload({
+              waitUntil: ["networkidle0", "domcontentloaded"],
+            })
+          }
+        }
+      } catch (error) {
+        console.error("Navigation/loading error:", error)
+        return null
+      }
+
+      // Extract the product content
+      const content = await page.evaluate(() => {
+        // Helper function to safely get text content
+        const getTextContent = (element) => {
+          try {
+            return element?.textContent?.trim() || ""
+          } catch (e) {
+            console.log("Error getting text content:", e)
+            return ""
+          }
+        }
+
+        // Get the main product content div
+        const contentWrapper = document.querySelector(".entry-content-wrapper")
+        console.log("Content wrapper found:", !!contentWrapper)
+
+        if (!contentWrapper) {
+          console.log("No content wrapper found")
+          return { isProductPage: false }
+        }
+
+        // Log the content wrapper's HTML
+        console.log(
+          "Content wrapper HTML:",
+          contentWrapper.innerHTML.slice(0, 500) + "..."
+        )
+
+        // Check if this is a product page by looking for specific elements
+        const iconboxContainers = document.querySelectorAll(
+          ".iconbox_content_container"
+        )
+        const headingTags = document.querySelectorAll(".av-special-heading-tag")
+        const productTables = document.querySelectorAll(".avia-data-table")
+
+        // Log all found elements in detail
+        console.log("Debug elements:", {
+          iconboxContainers: Array.from(iconboxContainers).map((el) => ({
+            text: getTextContent(el),
+            parentClass: el.parentElement?.className || "no-parent",
+            hasTitle: !!el
+              .closest(".iconbox_content")
+              ?.querySelector(".iconbox_content_title"),
+          })),
+          headingTags: Array.from(headingTags).map((el) => ({
+            text: getTextContent(el),
+            parentClass: el.parentElement?.className || "no-parent",
+          })),
+          productTables: Array.from(productTables).map((table) => ({
+            rows: table.rows.length,
+            headers: Array.from(table.querySelectorAll("th")).map((th) =>
+              getTextContent(th)
+            ),
+          })),
+        })
+
+        // Consider it a product page if we have either features or specifications
+        const hasProductElements =
+          (iconboxContainers.length > 0 && headingTags.length > 0) ||
+          productTables.length > 0
+
+        if (!hasProductElements) {
+          console.log("Missing product elements")
+          // This might be a category page, get all product links
+          const links = Array.from(
+            document.querySelectorAll('a[href*="/portfolio-item/"]')
+          )
+            .map((a) => a.href)
+            .filter((href) => href.includes("/portfolio-item/"))
+          console.log("Found category links:", links.length)
+          return { isProductPage: false, links }
+        }
+
+        // Extract product details - use the first relevant heading as title
+        const title =
+          Array.from(headingTags)
+            .map((tag) => getTextContent(tag))
+            .find(
+              (text) => text && !text.toLowerCase().includes("installation")
+            ) || ""
+
+        // Get product features with error handling
+        const features = Array.from(iconboxContainers)
+          .map((el) => {
+            try {
+              const featureTitle = getTextContent(
+                el
+                  .closest(".iconbox_content")
+                  ?.querySelector(".iconbox_content_title")
+              )
+              const featureText = getTextContent(el)
+              return featureTitle
+                ? `${featureTitle}: ${featureText}`
+                : featureText
+            } catch (e) {
+              console.log("Error processing feature:", e)
+              return null
+            }
+          })
+          .filter((text) => text)
+
+        console.log("Found features:", features)
+
+        // Get product specifications if available
+        const specs = Array.from(
+          document.querySelectorAll(".avia-data-table tr")
+        )
+          .map((row) => {
+            try {
+              const cells = Array.from(row.querySelectorAll("td, th"))
+              if (cells.length >= 2) {
+                return `${getTextContent(cells[0])}: ${getTextContent(
+                  cells[1]
+                )}`
+              }
+              return null
+            } catch (e) {
+              console.log("Error processing spec row:", e)
+              return null
+            }
+          })
+          .filter((spec) => spec)
+
+        console.log("Found specifications:", specs)
+
+        return {
+          isProductPage: true,
+          pageContent: `
+            <h1>${title || ""}</h1>
+            ${
+              features.length > 0
+                ? `
+            <div class="product-features">
+              <h2>Features</h2>
+              ${features.join("\n")}
+            </div>`
+                : ""
+            }
+            ${
+              specs.length > 0
+                ? `
+            <div class="product-specifications">
+              <h2>Specifications</h2>
+              ${specs.join("\n")}
+            </div>`
+                : ""
+            }
+          `,
+          url: window.location.href,
+          title: title,
+        }
+      })
+
+      if (content.isProductPage) {
+        if (this.options.debug) {
+          console.log(`Processed product page: ${url}`)
+        }
+        return {
+          pageContent: content.pageContent,
+          url: content.url,
+          title: content.title,
+        }
+      } else {
+        // Process the links found on category pages
+        if (content.links && content.links.length > 0) {
+          console.log(
+            `Found ${content.links.length} product links on category page`
+          )
+          // Return null but process the links in _crawlPage
+          return { links: content.links }
         }
       }
+
+      return null
     } catch (error) {
       console.error(`❌ Error crawling ${url}:`, error)
     } finally {
@@ -164,32 +395,155 @@ class PuppeteerCrawler {
 
   async _processPage(page, url) {
     try {
-      // Wait for the main product content instead of WooCommerce specific selector
-      await page.waitForSelector(".col-md-12", { timeout: 5000 })
-
       // Extract the product content
       const content = await page.evaluate(() => {
+        // Helper function to safely get text content
+        const getTextContent = (element) => {
+          try {
+            return element?.textContent?.trim() || ""
+          } catch (e) {
+            console.log("Error getting text content:", e)
+            return ""
+          }
+        }
+
         // Get the main product content div
-        const productDiv = document.querySelector(".col-md-12")
+        const contentWrapper = document.querySelector(".entry-content-wrapper")
+        console.log("Content wrapper found:", !!contentWrapper)
+
+        if (!contentWrapper) {
+          console.log("No content wrapper found")
+          return { isProductPage: false }
+        }
+
+        // Log the content wrapper's HTML
+        console.log(
+          "Content wrapper HTML:",
+          contentWrapper.innerHTML.slice(0, 500) + "..."
+        )
 
         // Check if this is a product page by looking for specific elements
+        const iconboxContainers = document.querySelectorAll(
+          ".iconbox_content_container"
+        )
+        const headingTags = document.querySelectorAll(".av-special-heading-tag")
+        const productTables = document.querySelectorAll(".avia-data-table")
+
+        // Log all found elements in detail
+        console.log("Debug elements:", {
+          iconboxContainers: Array.from(iconboxContainers).map((el) => ({
+            text: getTextContent(el),
+            parentClass: el.parentElement?.className || "no-parent",
+            hasTitle: !!el
+              .closest(".iconbox_content")
+              ?.querySelector(".iconbox_content_title"),
+          })),
+          headingTags: Array.from(headingTags).map((el) => ({
+            text: getTextContent(el),
+            parentClass: el.parentElement?.className || "no-parent",
+          })),
+          productTables: Array.from(productTables).map((table) => ({
+            rows: table.rows.length,
+            headers: Array.from(table.querySelectorAll("th")).map((th) =>
+              getTextContent(th)
+            ),
+          })),
+        })
+
+        // Consider it a product page if we have either features or specifications
         const hasProductElements =
-          document.querySelector('script[type="application/ld+json"]') &&
-          document.querySelector("h1")
+          (iconboxContainers.length > 0 && headingTags.length > 0) ||
+          productTables.length > 0
 
         if (!hasProductElements) {
+          console.log("Missing product elements")
           // This might be a category page, get all product links
-          const links = Array.from(document.querySelectorAll('a[href*="/pi"]'))
+          const links = Array.from(
+            document.querySelectorAll('a[href*="/portfolio-item/"]')
+          )
             .map((a) => a.href)
-            .filter((href) => href.includes("/pi"))
+            .filter((href) => href.includes("/portfolio-item/"))
+          console.log("Found category links:", links.length)
           return { isProductPage: false, links }
         }
 
+        // Extract product details - use the first relevant heading as title
+        const title =
+          Array.from(headingTags)
+            .map((tag) => getTextContent(tag))
+            .find(
+              (text) => text && !text.toLowerCase().includes("installation")
+            ) || ""
+
+        // Get product features with error handling
+        const features = Array.from(iconboxContainers)
+          .map((el) => {
+            try {
+              const featureTitle = getTextContent(
+                el
+                  .closest(".iconbox_content")
+                  ?.querySelector(".iconbox_content_title")
+              )
+              const featureText = getTextContent(el)
+              return featureTitle
+                ? `${featureTitle}: ${featureText}`
+                : featureText
+            } catch (e) {
+              console.log("Error processing feature:", e)
+              return null
+            }
+          })
+          .filter((text) => text)
+
+        console.log("Found features:", features)
+
+        // Get product specifications if available
+        const specs = Array.from(
+          document.querySelectorAll(".avia-data-table tr")
+        )
+          .map((row) => {
+            try {
+              const cells = Array.from(row.querySelectorAll("td, th"))
+              if (cells.length >= 2) {
+                return `${getTextContent(cells[0])}: ${getTextContent(
+                  cells[1]
+                )}`
+              }
+              return null
+            } catch (e) {
+              console.log("Error processing spec row:", e)
+              return null
+            }
+          })
+          .filter((spec) => spec)
+
+        console.log("Found specifications:", specs)
+
         return {
           isProductPage: true,
-          pageContent: productDiv.innerHTML,
+          pageContent: `
+            <h1>${title || ""}</h1>
+            ${
+              features.length > 0
+                ? `
+            <div class="product-features">
+              <h2>Features</h2>
+              ${features.join("\n")}
+            </div>`
+                : ""
+            }
+            ${
+              specs.length > 0
+                ? `
+            <div class="product-specifications">
+              <h2>Specifications</h2>
+              ${specs.join("\n")}
+            </div>`
+                : ""
+            }
+          `,
           url: window.location.href,
-          title: document.querySelector("h1")?.textContent.trim(),
+          title: title,
         }
       })
 
@@ -233,12 +587,12 @@ class PuppeteerCrawler {
       await page.goto(url, { waitUntil: "networkidle0", timeout: 30000 })
 
       // Wait for any of these common product page selectors
-      await Promise.race([
-        page.waitForSelector(".product-content", { timeout: 5000 }),
-        page.waitForSelector(".product-summary", { timeout: 5000 }),
-        page.waitForSelector(".summary", { timeout: 5000 }),
-        page.waitForSelector(".woocommerce-product-gallery", { timeout: 5000 }),
-      ]).catch(() => console.log("Warning: Common product selectors not found"))
+      // await Promise.race([
+      //   // page.waitForSelector(".av-special-heading-tag", { timeout: 5000 }),
+      //   // page.waitForSelector(".product-summary", { timeout: 5000 }),
+      //   // page.waitForSelector(".summary", { timeout: 5000 }),
+      //   // page.waitForSelector(".woocommerce-product-gallery", { timeout: 5000 }),
+      // ]).catch(() => console.log("Warning: Common product selectors not found"))
 
       // Get the entire page content instead of looking for specific divs
       const content = await page.evaluate(() => {

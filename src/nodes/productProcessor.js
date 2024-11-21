@@ -216,7 +216,7 @@ export class ProductProcessorNode {
     }
   }
   isProductPage(content, url) {
-    return url.includes("/product/")
+    return url.includes("csisolar.com/")
   }
   isProductPages(content, url) {
     // Check for /pi in URL (new site structure)
